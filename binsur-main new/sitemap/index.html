@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .insurance-info-section {
+          background-color: #fff;
+          display: flex;
+          flex-direction: column; 
+          overflow: hidden;
+        }
+        
+        .maintenance-banner {
+          background-color: #353535;
+          color: #fff;
+          display: flex;
+          justify-content: center;
+          padding: 8px;
+          font: 600 16px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .maintenance-content {
+          display: flex;
+          width: 100%;
+          max-width: 1434px;
+          justify-content: space-between;
+          align-items: center;
+        }
+        
+        .maintenance-message {
+          margin: auto 0;
+        }
+        
+        .close-icon {
+          aspect-ratio: 1;
+          width: 24px;
+        }
+        
+        .header {
+          border-bottom: 1px solid #f4e9e9;
+          background-color: #fff;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding: 11px 80px 0;
+        }
+        
+        .header-content {
+          display: flex;
+          width: 100%;
+          max-width: 1440px;
+          justify-content: space-between;
+          align-items: center;
+        }
+        
+        .logo-container {
+          display: flex;
+          gap: 9px;
+          color: #1e1e1e;
+          font: 700 20px Cunia, sans-serif;
+        }
+        
+        .logo-image {
+          aspect-ratio: 1.02;
+          width: 60px;
+        }
+        
+        .nav-menu {
+          display: flex;
+          align-items: center;
+          gap: 23px;
+          color: #2b2b2b;
+          font: 400 16px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .nav-item {
+          padding: 13px 16px;
+        }
+        
+        .nav-item-active {
+          font-weight: 700;
+          border-radius: 30px;
+        }
+        
+        .cta-button {
+          border-radius: 8px;
+          background-color: rgba(0, 199, 219, 0.94);
+          color: #fff;
+          font-weight: 700;
+          text-align: center;
+          padding: 18px 26px;
+          min-height: 48px;
+        }
+        
+        .divider {
+          width: 2px;
+          height: 27px;
+          border: 2px solid #e2e2e2;
+        }
+        
+        .user-icon {
+          aspect-ratio: 1;
+          width: 32px;
+        }
+        
+        .active-indicator {
+          border-radius: 8px;
+          background-color: #24bbe3;
+          width: 88px;
+          height: 4px;
+          margin-top: 6px;
+        }
+        
+        .hero-section {
+          background-color: #fcfcfc;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding: 163px 14px 0;
+        }
+        
+        .hero-title {
+          color: #073141;
+          text-align: center;
+          font: 700 42px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .hero-description {
+          color: #073141;
+          letter-spacing: 0.11px;
+          text-align: center;
+          margin-top: 25px;
+          width: 1187px;
+          font: 400 22px/37px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .hero-image-container {
+          display: flex;
+          flex-direction: column;
+          align-self: stretch;
+          position: relative;
+          min-height: 419px;
+          align-items: center;
+          margin: 84px 0 -46px;
+          padding: 350px 80px 46px;
+        }
+        
+        .hero-background {
+          position: absolute;
+          inset: 0;
+          height: 100%;
+          width: 100%;
+          object-fit: cover;
+        }
+        
+        .hero-foreground {
+          aspect-ratio: 16.95;
+          width: 387px;
+          max-width: 100%;
+        }
+        
+        .info-section {
+          background-color: #fff;
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          align-items: center;
+          padding: 84px 80px 132px;
+        }
+        
+        .info-content {
+          display: flex;
+          margin-bottom: -26px;
+          width: 100%;
+          max-width: 1440px;
+          flex-direction: column;
+        }
+        
+        .info-title {
+          color: #073141;
+          text-align: center;
+          align-self: center;
+          width: 839px;
+          font: 700 36px/55px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .info-grid {
+          margin-top: 98px;
+          width: 100%;
+          display: flex;
+          gap: 20px;
+        }
+        
+        .info-column {
+          display: flex;
+          flex-direction: column;
+          line-height: normal;
+        }
+        
+        .info-text {
+          color: #073141;
+          font: 400 18px/31px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .consultation-button {
+          border-radius: 50px;
+          background-color: #24bbe3;
+          align-self: start;
+          margin-top: 39px;
+          color: #fff;
+          text-align: center;
+          padding: 25px 50px;
+          font: 700 16px Poppins, sans-serif;
+          border: 1px solid #bfbdc1;
+        }
+        
+        .info-card {
+          border-radius: 4px;
+          background-color: #fff;
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+          padding: 38px 42px;
+          border: 2px solid #d9d9d9;
+        }
+        
+        .card-title {
+          color: #000;
+          font-size: 24px;
+          font-weight: 700;
+        }
+        
+        .card-description {
+          color: #312f2f;
+          font-size: 18px;
+          font-weight: 400;
+          line-height: 31px;
+          margin-top: 17px;
+        }
+        
+        .card-icon {
+          aspect-ratio: 1;
+          width: 100px;
+          border-radius: 4px;
+          align-self: end;
+          margin-top: 36px;
+        }
+        
+        .how-it-works {
+          background-color: #fcfcfc;
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          padding: 136px 80px;
+        }
+        
+        .how-it-works-content {
+          display: flex;
+          margin-bottom: -24px;
+          width: 100%;
+          max-width: 1373px;
+          flex-direction: column;
+        }
+        
+        .section-subtitle {
+          color: #073141;
+          align-self: center;
+          font: 400 16px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .section-title {
+          color: #073141;
+          text-align: center;
+          align-self: center;
+          margin-top: 8px;
+          font: 700 42px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .section-description {
+          color: #073141;
+          text-align: center;
+          align-self: center;
+          margin-top: 32px;
+          font: 400 24px/41px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .process-step {
+          display: flex;
+          margin-top: 49px;
+          gap: 20px;
+          font-family: 'Plus Jakarta Sans', sans-serif;
+          color: #073141;
+          flex-wrap: wrap;
+          justify-content: space-between;
+        }
+        
+        .step-image {
+          aspect-ratio: 0.87;
+          object-fit: contain;
+          object-position: center;
+          width: 100%;
+        }
+        
+        .step-content {
+          display: flex;
+          flex-direction: column;
+          margin: auto 0;
+        }
+        
+        .step-title {
+          font-size: 42px;
+          font-weight: 700;
+          text-align: center;
+          align-self: start;
+        }
+        
+        .step-description {
+          font-size: 22px;
+          font-weight: 400;
+          line-height: 37px;
+          margin-top: 18px;
+        }
+        
+        .cta-section {
+          border-radius: 8px;
+          background-color: #2079ff;
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          align-items: center;
+          font-family: 'Plus Jakarta Sans', sans-serif;
+          justify-content: center;
+          padding: 32px 70px;
+        }
+        
+        .cta-content {
+          display: flex;
+          width: 100%;
+          max-width: 1440px;
+          gap: 20px;
+          flex-wrap: wrap;
+          justify-content: space-between;
+        }
+        
+        .cta-text {
+          display: flex;
+          flex-direction: column;
+          color: #fff;
+          line-height: 1.7;
+        }
+        
+        .cta-title {
+          font-size: 32px;
+          font-weight: 700;
+          align-self: start;
+        }
+        
+        .cta-description {
+          font-size: 19px;
+          font-weight: 400;
+        }
+        
+        .cta-buttons {
+          display: flex;
+          gap: 16px;
+          font-size: 22px;
+          font-weight: 700;
+          text-align: center;
+          flex-wrap: wrap;
+          margin: auto 0;
+        }
+        
+        .cta-button-primary {
+          border-radius: 8px;
+          background-color: #fff;
+          display: flex;
+          min-height: 64px;
+          flex-direction: column;
+          color: #046eb6;
+          justify-content: center;
+          padding: 24px 26px;
+        }
+        
+        .cta-button-secondary {
+          border-radius: 8px;
+          display: flex;
+          min-height: 64px;
+          flex-direction: column;
+          color: #fff;
+          justify-content: center;
+          padding: 24px 26px;
+          border: 2px solid #fff;
+        }
+        
+        .footer {
+          background-color: #353535;
+          display: flex;
+          width: 100%;
+          flex-direction: column;
+          color: #fff;
+          padding: 72px 80px;
+        }
+        
+        .footer-content {
+          align-self: center;
+          display: flex;
+          width: 100%;
+          max-width: 1404px;
+          gap: 20px;
+          flex-wrap: wrap;
+          justify-content: space-between;
+        }
+        
+        .footer-logo {
+          display: flex;
+          flex-direction: column;
+          font: 700 21px Cunia, sans-serif;
+        }
+        
+        .footer-logo-image {
+          aspect-ratio: 1.01;
+          object-fit: contain;
+          object-position: center;
+          width: 142px;
+          max-width: 100%;
+        }
+        
+        .footer-contact {
+          margin-top: 20px;
+        }
+        
+        .footer-links {
+          display: flex;
+          gap: 40px 100px;
+          font: 400 20px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .footer-column {
+          display: flex;
+          flex-direction: column;
+          align-items: start;
+        }
+        
+        .footer-column-title {
+          font-size: 21px;
+          font-weight: 700;
+          align-self: stretch;
+        }
+        
+        .footer-link {
+          margin-top: 27px;
+        }
+        
+        .footer-bottom {
+          align-self: end;
+          display: flex;
+          margin-top: 80px;
+          width: 100%;
+          max-width: 1595px;
+          align-items: flex-start;
+          gap: 40px 77px;
+          flex-wrap: wrap;
+          font: 400 20px 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .footer-divider {
+          height: 2px;
+          border: 2px solid #4d4d4d;
+        }
+        
+        .footer-copyright {
+          align-self: start;
+          margin: 37px 0 0 10px;
+        }
+        
+        .footer-social {
+          aspect-ratio: 1;
+          object-fit: contain;
+          object-position: center;
+          width: 78px;
+          filter: drop-shadow(0px 4px 8px rgba(16, 24, 40, 0.1)) drop-shadow(0px 2px 4px rgba(16, 24, 40, 0.06));
+          align-self: start;
+        }
+        
+        @media (max-width: 991px) {
+          .maintenance-banner,
+          .header,
+          .cta-section,
+          .footer {
+            padding-left: 20px;
+            padding-right: 20px;
+          }
+        
+          .maintenance-content,
+          .header-content,
+          .hero-description,
+          .info-title,
+          .info-text,
+          .section-title,
+          .section-description,
+          .cta-content,
+          .cta-description,
+          .footer-content,
+          .footer-bottom {
+            max-width: 100%;
+          }
+        
+          .hero-section {
+            padding-top: 100px;
+          }
+        
+          .hero-image-container {
+            margin: 40px 10px 0 0;
+          }
+        
+          .info-section {
+            padding: 0 20px 100px;
+          }
+        
+          .info-content {
+            margin-bottom: 10px;
+          }
+        
+          .info-grid {
+            flex-direction: column;
+            align-items: stretch;
+            gap: 0;
+          }
+        
+          .info-column {
+            width: 100%;
+            margin-top: 40px;
+          }
+        
+          .how-it-works {
+            padding: 100px 20px;
+          }
+        
+          .process-step {
+            max-width: 100%;
+          }
+        
+          .footer-bottom {
+            margin-top: 40px;
+          }
+        }
+        </style>
+        
+        <section class="insurance-info-section">
+          <header class="maintenance-banner">
+            <div class="maintenance-content">
+              <p class="maintenance-message">Heads Up! Our site is currently undergoing maintenance. If you receive an error, please try again later. Thanks for your patience.</p>
+              <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/d4e7033cf86ea234b166094ed78e8e78201fa99a6aea7fe239d1505bd8fd59d4?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="" class="close-icon" />
+            </div>
+          </header>
+        
+          <header class="header">
+            <div class="header-content">
+              <div class="logo-container">
+                <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/7957fe1565df3025f09e9a68c1f8924daf3aaa812a73a8b032f09e093662b467?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="BINSURE Logo" class="logo-image" />
+                <span>BINSURE</span>
+              </div>
+              <nav class="nav-menu">
+                <a href="#" class="nav-item nav-item-active">Home</a>
+                <a href="#" class="nav-item">Individual</a>
+                <a href="#" class="nav-item">Commercial</a>
+                <a href="#" class="nav-item">Travel</a>
+                <a href="#" class="nav-item">Support</a>
+                <button class="cta-button">Get a Quote</button>
+                <span class="divider"></span>
+                <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/930f2147ab8393f72fcc6429db4fce0f03eacf284be85eb646fa8796ab58e984?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="User profile" class="user-icon" />
+              </nav>
+            </div>
+            <div class="active-indicator"></div>
+          </header>
+        
+          <section class="hero-section">
+            <h1 class="hero-title">Why you need insurance?</h1>
+            <p class="hero-description">Your time matters, and so does your stuff. Insurance exists to protect you, your family, or your stuff from unexpected losses. The most common forms of insurance are home insurance, car insurance, and health insurance, travel insurance. Get a personalized insurance quotes in 5 minutes. That's less time than it takes to wait in line for coffee.</p>
+            <div class="hero-image-container">
+              <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/d1f4fd0e1bdaccaccc954690287a898709100dde08e4bd2012e4c3fd8a58fe66?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Insurance concept illustration" class="hero-background" />
+              <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/8af4c04e16620a12c884e20565145bb06916885cd2a632677e5c96e9db32e407?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Insurance protection shield" class="hero-foreground" />
+            </div>
+          </section>
+        
+          <section class="info-section">
+            <div class="info-content">
+              <h2 class="info-title">But why should you invest in an insurance when state of claims is so unsure?</h2>
+              <div class="info-grid">
+                <div class="info-column">
+                  <p class="info-text">The insurance industry doesn't have the greatest reputation when it comes to claims. Many people fear their insurer will go to any length possible to avoid paying claims. At , we're different. We're there when you need us most.<br /><br />We're committed to changing how you think of insurance. We'll make sure your claim is handled quickly and fairly.<br /><br />We are trying to empower community to be aware of insurance knowledge you can help us in that by always looking for these items.</p>
+                  <button class="consultation-button">Schedule a Free Consultation</button>
+                </div>
+                <div class="info-column">
+                  <div class="info-card">
+                    <h3 class="card-title">Price.</h3>
+                    <p class="card-description">Pricing depends on factors sometimes undermined</p>
+                    <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/ffb9d3fa767ca7a8ccb53d33cf9f30f0a8ef596e5f9c6775c62625ad74111a4c?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Price icon" class="card-icon" />
+                  </div>
+                  <div class="info-card">
+                    <h3 class="card-title">Deductibles.</h3>
+                    <p class="card-description">Deductibles Hidden and based on your actions, selections and type of usage and policy clauses.</p>
+                    <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/3f03a2e634418261e35aa21a7a7a058b998d26eff8f5003582c5ded50b8504de?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Deductibles icon" class="card-icon" />
+                  </div>
+                  <div class="info-card">
+                    <h3 class="card-title">Coverage.</h3>
+                    <p class="card-description">Coverage depends on type of claim factors, risks, conditions, cover</p>
+                    <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/5706b77a71e682b67fea630ce0d654bf7f54dd5c72bae723baf680d4a26b7357?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Coverage icon" class="card-icon" />
+                  </div>
+                  <div class="info-card">
+                    <h3 class="card-title">The cancellation policy</h3>
+                    <p class="card-description">How difficult the cancellation can be and how to do it correctly is often not transparent.</p>
+                    <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/06d333ff603388f80f6c56dab84f56d740b462a451bcd6370185c7ead9e33a4b?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Cancellation policy icon" class="card-icon" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        
+          <section class="how-it-works">
+            <div class="how-it-works-content">
+              <p class="section-subtitle">HOW IT WORKS</p>
+              <h2 class="section-title">How saves your time and money</h2>
+              <p class="section-description">It's simple! Just answer a few questions and customize your insurance coverage. Then, buy directly online.</p>
+              <div class="process-step">
+                <div class="step-content">
+                  <h3 class="step-title">Compare</h3>
+                  <p class="step-description">We do the insurance shopping. Through extensive research, we pick only quality insurance companies to provide quotes. Based on an individual's needs, we review the market and show multiple quotes. This enables the client to compare and choose the right coverage at the right price.<br /><br />Our main goal is to provide consumers with as much information as possible, whether online or by speaking with one of our knowledgeable insurance brokers.</p>
+                </div>
+                <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/4939dd3a9d887667cda315bd35ea3955397de3e628488f905574202399c1ad10?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Compare insurance options" class="step-image" />
+              </div>
+              <div class="process-step">
+                <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/e20d73754f55f2b85fb7603a497d4985fec919c1cd70f5761f898e139d525822?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Purchase insurance" class="step-image" />
+                <div class="step-content">
+                  <h3 class="step-title">Purchase</h3>
+                  <p class="step-description">Our process is easy and our customer-friendly system walks the client through the process from start to finish.<br />Request a quote online or by phone<br />Choose the right quote from our participating insurance carriers<br />Fill out the online application and print out the policy confirmation</p>
+                </div>
+              </div>
+              <div class="process-step">
+                <div class="step-content">
+                  <h3 class="step-title">Manage</h3>
+                  <p class="step-description">Customer service is our top priority. The convenience of insuring online doesn't stop with the purchasing process. With B-Insure, clients can:
+                    <ul>
+                      <li>View, update and change policies online anytime</li>
+                      <li>Contact our experienced broker support staff via email or phone</li>
+                      <li>Report a claim online* or call a toll-free number for each individual insurer</li>
+                    </ul>
+                    <span style="font-style: italic">*Claims reporting is not available online for all product lines.</span>
+                  </p>
+                </div>
+                <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/305c99b45f8ca03bf50f08c036fd327205b0312fe810954453b18ec955d1efc1?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Manage your insurance" class="step-image" />
+              </div>
+            </div>
+          </section>
+        
+          <section class="cta-section">
+            <div class="cta-content">
+              <div class="cta-text">
+                <h2 class="cta-title">Change insurance for good</h2>
+                <p class="cta-description">Join the team that is making health insurance simple, transparent, and human.</p>
+              </div>
+              <div class="cta-buttons">
+                <button class="cta-button-primary">Become a partner</button>
+                <button class="cta-button-secondary">Get a free quote</button>
+              </div>
+            </div>
+          </section>
+        
+          <footer class="footer">
+            <div class="footer-content">
+              <div class="footer-logo">
+                <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/5dec531625e3f9bf793e438c357827a5a9f9855eceac6165a5ce50411787f6e3?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="BINSURE Logo" class="footer-logo-image" />
+                <address class="footer-contact">
+                  P.O. Box 9999, Station B Montreal, OM M5M 3R4<br />
+                  999-888-0000<br />
+                  care@binsure.ca
+                </address>
+              </div>
+              <nav class="footer-links">
+                <div class="footer-column">
+                  <h3 class="footer-column-title">Quick links</h3>
+                  <a href="#" class="footer-link">Sitemap</a>
+                  <a href="#" class="footer-link">Careers</a>
+                  <a href="#" class="footer-link">Contact us</a>
+                  <a href="#" class="footer-link">Blog</a>
+                  <a href="#" class="footer-link">FAQs</a>
+                  <a href="#" class="footer-link">About</a>
+                </div>
+                <div class="footer-column">
+                  <h3 class="footer-column-title">Legal</h3>
+                  <a href="#" class="footer-link">Terms of use</a>
+                  <a href="#" class="footer-link">Privacy Policy</a>
+                  <a href="#" class="footer-link">Cookie policy</a>
+                </div>
+              </nav>
+            </div>
+            <div class="footer-bottom">
+              <div>
+                <hr class="footer-divider" />
+                <p class="footer-copyright">Copyright © 2024 Inc. All rights reserved.</p>
+              </div>
+              <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/becb39d5c30ee18944370a7c500388f7ec617578e89ba08192ac35e981b59013?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032" alt="Social media icons" class="footer-social" />
+            </div>
+          </footer>
+        </section>
+    
+</body>
+</html>

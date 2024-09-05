@@ -1,0 +1,19 @@
+.heads-up-our{
+  margin-top: -38px;
+  background-color: rgb(68, 68, 68);
+  color: white;
+  height: 35px;
+  display: flex;
+  padding-left: 200px;
+  align-items: center;
+}
+.info-bar-container{
+  background-color: red;
+  height: 0px;
+}
+.image-35-parent,.frame-parent{
+  height: 0px;;
+}
+.menu-list-parent{
+  
+}

@@ -1,0 +1,4136 @@
+.about {
+  transform: scale(0.8); /* Scale the content to 80% */
+  transform-origin: top left;
+  transform: scale(0.8);
+  transform-origin: top left;
+  width: 125%; /* Adjust width to compensate for the scaling */
+  height: 125%; /* Adjust height as well */
+/* overflow-x: hidden; Hide horizontal scrollbars */
+  margin-top: -740px;
+}
+.section-2-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-gray-100);
+    border: 1px solid #ece4e4;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+  }
+  .canadian-insurance-providers,
+  .partnerships-with-leading {
+    margin: 0;
+  }
+  .partnerships-with-leading-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 170%;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .partnerships-with-leading-cana-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 0;
+    width: 328px;
+    height: 82px;
+  }
+  .image-11-icon,
+  .image-11-wrapper {
+    position: absolute;
+    left: 0;
+    width: 120px;
+  }
+  .image-11-icon {
+    top: 16.4px;
+    height: 100.8px;
+    object-fit: cover;
+  }
+  .image-11-wrapper {
+    top: 0.5px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .image-8-icon {
+    position: absolute;
+    top: 17.6px;
+    left: 14.8px;
+    width: 95.6px;
+    height: 84px;
+    object-fit: cover;
+  }
+  .image-8-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 144px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .image-12-icon {
+    position: absolute;
+    top: 16.8px;
+    left: 0;
+    width: 113.6px;
+    height: 103.2px;
+    object-fit: cover;
+  }
+  .image-12-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 288px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .image-9-icon {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 14.8px;
+    max-height: 100%;
+    width: 105.2px;
+    object-fit: cover;
+  }
+  .image-9-wrapper {
+    position: absolute;
+    left: 432px;
+    width: 120px;
+  }
+  .frame-child,
+  .frame-item,
+  .image-9-wrapper {
+    top: 0.5px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .frame-child {
+    position: absolute;
+    left: 576px;
+    width: 120px;
+    object-fit: cover;
+  }
+  .frame-item {
+    left: 720px;
+  }
+  .frame-inner,
+  .frame-item,
+  .image-16-icon {
+    position: absolute;
+    width: 120px;
+    object-fit: cover;
+  }
+  .frame-inner {
+    top: 0.5px;
+    left: 864px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .image-16-icon {
+    top: 15.6px;
+    left: 0;
+    height: 104.4px;
+  }
+  .image-16-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1008px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .image-13-icon {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 14.8px;
+    max-height: 100%;
+    width: 105.2px;
+    object-fit: cover;
+  }
+  .image-13-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1152px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+  }
+  .frame-parent,
+  .group-parent {
+    position: absolute;
+    top: 0;
+    height: 100%;
+  }
+  .frame-parent {
+    bottom: 0;
+    left: 654px;
+    width: 786px;
+    overflow-x: auto;
+  }
+  .group-parent {
+    left: 0;
+    width: 100%;
+  }
+  .section-2,
+  .section-2-inner {
+    position: absolute;
+    top: 121.8px;
+    left: 240px;
+    width: 1440px;
+    height: 120px;
+  }
+  .section-2 {
+    top: 946px;
+    left: 0;
+    width: 100%;
+    height: 318.6px;
+    font-size: var(--font-size-5xl);
+    font-family: var(--font-manrope);
+  }
+  .close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .image-1-icon,
+  .image-2-icon {
+    position: absolute;
+    top: 271px;
+    left: 0;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+  }
+  .image-2-icon {
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+  }
+  .layer-2-icon {
+    position: absolute;
+    height: 83.28%;
+    width: 33.31%;
+    top: 8.36%;
+    right: 66.69%;
+    bottom: 8.36%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .home-hero-2-1-icon {
+    position: absolute;
+    top: 71px;
+    left: 1344px;
+    width: 576px;
+    height: 601px;
+    overflow: hidden;
+  }
+  .compare-buy {
+    font-family: var(--font-manrope);
+  }
+  .compare-buy-from-canadas,
+  .top-insurers-and-save {
+    margin: 0;
+  }
+  .compare-buy-container {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 343px);
+    display: inline-block;
+    min-height: 132px;
+    width: 100%;
+    height: 100%;
+  }
+  .compare-buy-from-canadas-to-wrapper {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 343.5px);
+    width: 686px;
+    height: 132px;
+  }
+  .tools-for-quotation-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    box-shadow: -2px 4px 48px -12px rgba(16, 24, 40, 0.18);
+    border-radius: var(--br-11xl);
+    background-color: var(--white);
+  }
+  .canadas-fast-growing {
+    position: absolute;
+    top: 82.6%;
+    left: 21.69%;
+    line-height: 170%;
+  }
+  .get-a-free,
+  .group-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 76px;
+  }
+  .group-child {
+    right: 0;
+    bottom: 0;
+    border-radius: 50px;
+    background-color: var(--white);
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+  }
+  .get-a-free {
+    display: inline-block;
+  }
+  .get-a-free-quote-wrapper {
+    position: absolute;
+    height: 18.33%;
+    width: 42.35%;
+    top: 41.67%;
+    right: 28.82%;
+    bottom: 40%;
+    left: 28.82%;
+  }
+  .group-item,
+  .rectangle-parent {
+    position: absolute;
+    height: 17.39%;
+    width: 36.46%;
+    top: 82.61%;
+    right: 31.86%;
+    bottom: 0;
+    left: 31.69%;
+  }
+  .group-item {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    box-shadow: 0 4px 6px -2px rgba(16, 24, 40, 0.03),
+      0 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-400);
+    border: 1px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+  }
+  .group-inner {
+    position: absolute;
+    height: 30.2%;
+    width: 28.22%;
+    top: 63.41%;
+    right: 10.96%;
+    bottom: 6.39%;
+    left: 60.82%;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-powderblue);
+  }
+  .group-icon {
+    position: absolute;
+    height: 43.58%;
+    width: 41.77%;
+    top: 50.13%;
+    right: 18.3%;
+    bottom: 6.29%;
+    left: 39.93%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .insurance,
+  .travel {
+    margin: 0;
+  }
+  .travel-insurance {
+    position: absolute;
+    width: 49.44%;
+    top: 11.58%;
+    left: 10.44%;
+    line-height: 26px;
+    display: inline-block;
+  }
+  .rectangle-div,
+  .rectangle-group {
+    position: absolute;
+    height: 100%;
+    width: 22.8%;
+    top: 0;
+    right: 51.47%;
+    bottom: 0;
+    left: 25.73%;
+  }
+  .rectangle-div {
+    width: 100%;
+    right: 0;
+    left: 0;
+    box-shadow: 0 4px 6px -2px rgba(16, 24, 40, 0.03),
+      0 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-400);
+    border: 1px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+  }
+  .group-child1 {
+    position: absolute;
+    height: 30.2%;
+    width: 28.22%;
+    top: 63.26%;
+    right: 11.19%;
+    bottom: 6.54%;
+    left: 60.58%;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-powderblue);
+  }
+  .auto,
+  .insurance1 {
+    margin: 0;
+  }
+  .auto-insurance {
+    position: absolute;
+    width: 49.44%;
+    top: 11.58%;
+    left: 10.44%;
+    line-height: 26px;
+    display: inline-block;
+  }
+  .group-icon1 {
+    position: absolute;
+    height: 43.28%;
+    width: 40.31%;
+    top: 50.28%;
+    right: 19.94%;
+    bottom: 6.44%;
+    left: 39.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-child2,
+  .rectangle-container {
+    position: absolute;
+    height: 100%;
+    width: 22.8%;
+    top: 0;
+    right: 25.73%;
+    bottom: 0;
+    left: 51.47%;
+  }
+  .group-child2 {
+    width: 100%;
+    right: 0;
+    left: 0;
+    box-shadow: 0 4px 6px -2px rgba(16, 24, 40, 0.03),
+      0 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: var(--br-5xs);
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+  }
+  .group-child3 {
+    position: absolute;
+    height: 30.2%;
+    width: 28.22%;
+    top: 63.26%;
+    right: 10.96%;
+    bottom: 6.54%;
+    left: 60.82%;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-powderblue);
+  }
+  .commercial,
+  .insurance2 {
+    margin: 0;
+  }
+  .commercial-insurance {
+    position: absolute;
+    width: 63.69%;
+    top: 11.58%;
+    left: 10.44%;
+    line-height: 26px;
+    display: inline-block;
+  }
+  .group-child4,
+  .rectangle-parent1 {
+    position: absolute;
+    height: 100%;
+    width: 22.8%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 77.2%;
+  }
+  .group-child4 {
+    width: 100%;
+    left: 0;
+    box-shadow: 0 4px 6px -2px rgba(16, 24, 40, 0.03),
+      0 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: var(--br-5xs);
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+  }
+  .insurance3,
+  .life {
+    margin: 0;
+  }
+  .life-insurance {
+    position: absolute;
+    width: 49.44%;
+    top: 11.58%;
+    left: 10.44%;
+    line-height: 26px;
+    display: inline-block;
+  }
+  .group-child5,
+  .rectangle-parent2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .group-child5 {
+    height: 30.2%;
+    width: 28.22%;
+    top: 63.41%;
+    right: 11.76%;
+    bottom: 6.39%;
+    left: 60.02%;
+    border-radius: var(--br-9xs);
+    background-color: var(--color-powderblue);
+  }
+  .group-icon2 {
+    position: absolute;
+    height: 43.58%;
+    width: 35.61%;
+    top: 50.13%;
+    right: 16.23%;
+    bottom: 6.29%;
+    left: 48.17%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-parent1,
+  .group-parent2 {
+    position: absolute;
+    height: 100%;
+    width: 22.8%;
+    top: 0;
+    right: 77.2%;
+    bottom: 0;
+    left: 0;
+  }
+  .group-parent1 {
+    height: 57.59%;
+    width: 100%;
+    right: 0;
+    bottom: 42.41%;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-darkslategray-100);
+    font-family: var(--heading-1-01);
+  }
+  .group-div {
+    position: absolute;
+    height: 69%;
+    width: 90.11%;
+    top: 10.6%;
+    right: 4.87%;
+    bottom: 20.4%;
+    left: 5.02%;
+    font-size: var(--font-size-base);
+    color: var(--color-deepskyblue);
+    font-family: var(--h4-semibold);
+  }
+  .group-icon3 {
+    position: absolute;
+    height: 16.9%;
+    width: 8.34%;
+    top: 30.76%;
+    right: 9.25%;
+    bottom: 52.34%;
+    left: 82.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .tools-for-quotation {
+    position: absolute;
+    top: 243px;
+    left: calc(50% - 517.5px);
+    width: 100%;
+    height: 500px;
+    font-size: var(--font-size-13xl);
+    color: #7f7f7f;
+    font-family: var(--font-caveat);
+  }
+  .group-container {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: calc(50% - 521.3px);
+    width: 1035px;
+  }
+  .layer-2-parent {
+    position: absolute;
+    height: 7.71%;
+    width: 100%;
+    top: 2.61%;
+    right: -0.22%;
+    bottom: 89.68%;
+    left: 0.22%;
+    text-align: center;
+    font-size: var(--font-size-29xl);
+    color: var(--text-colour-2);
+    font-family: var(--font-manrope);
+  }
+  .group-child6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--white);
+    width: 100%;
+    height: 100%;
+  }
+  .group-child7,
+  .group-child8 {
+    position: absolute;
+    top: 215px;
+    left: 0;
+    border-radius: 0 0 var(--br-99981xl) 0;
+    background: linear-gradient(
+      180deg,
+      rgba(244, 244, 244, 0),
+      rgba(203, 203, 203, 0.3)
+    );
+    width: 1920px;
+    height: 671px;
+  }
+  .group-child9 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-5xl);
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+  }
+  .how-to-compare,
+  .quotes {
+    margin: 0;
+  }
+  .how-to-compare-container {
+    position: absolute;
+    top: 343px;
+    left: 31px;
+    font-size: var(--font-size-5xl);
+  }
+  .group-child10 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl-5);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-gainsboro-100);
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+  }
+  .home-insurance {
+    position: absolute;
+    top: 9px;
+    left: 16px;
+    display: inline-block;
+    min-width: 123px;
+  }
+  .rectangle-parent6 {
+    position: absolute;
+    top: 423px;
+    left: 31px;
+    width: 155px;
+    height: 41px;
+  }
+  .min-read {
+    position: absolute;
+    top: 524px;
+    left: 31px;
+    display: inline-block;
+    min-width: 78px;
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-2xl) var(--br-2xl) 0 0;
+    width: 466px;
+    height: 313px;
+    object-fit: cover;
+  }
+  .group-child11,
+  .rectangle-parent5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+  .rectangle-parent5 {
+    bottom: 0;
+    width: 466px;
+  }
+  .group-child11 {
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-5xl);
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .switching-auto-insurance {
+    position: absolute;
+    top: 343px;
+    left: 31px;
+    font-size: var(--font-size-5xl);
+  }
+  .group-child12 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl-5);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-gainsboro-100);
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+  }
+  .auto-insurance1 {
+    position: absolute;
+    top: 9px;
+    left: 22px;
+    display: inline-block;
+    min-width: 112px;
+  }
+  .rectangle-parent8 {
+    position: absolute;
+    top: 423px;
+    left: 31px;
+    width: 155px;
+    height: 41px;
+  }
+  .min-read1 {
+    position: absolute;
+    top: 524px;
+    left: 31px;
+    display: inline-block;
+    min-width: 78px;
+  }
+  .group-child13 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-2xl) var(--br-2xl) 0 0;
+    width: 466px;
+    height: 313px;
+    object-fit: cover;
+  }
+  .group-child14,
+  .rectangle-parent7 {
+    position: absolute;
+    top: 0;
+    height: 100%;
+  }
+  .rectangle-parent7 {
+    bottom: 0;
+    left: 487px;
+    width: 466px;
+  }
+  .group-child14 {
+    left: 0;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-5xl);
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .benefits-of-travel {
+    position: absolute;
+    top: 343px;
+    left: 31px;
+    font-size: var(--font-size-5xl);
+  }
+  .group-child15 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-xl-5);
+    background-color: var(--color-steelblue);
+    border: 1px solid var(--color-gainsboro-100);
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+  }
+  .travel-insurance1 {
+    position: absolute;
+    top: 9px;
+    left: 18px;
+    display: inline-block;
+    min-width: 120px;
+  }
+  .rectangle-parent10 {
+    position: absolute;
+    top: 423px;
+    left: 31px;
+    width: 155px;
+    height: 41px;
+  }
+  .min-read2 {
+    position: absolute;
+    top: 524px;
+    left: 31px;
+    display: inline-block;
+    min-width: 78px;
+  }
+  .group-child16,
+  .rectangle-parent9 {
+    position: absolute;
+    top: 0;
+    width: 466px;
+  }
+  .group-child16 {
+    left: 0;
+    border-radius: var(--br-2xl) var(--br-2xl) 0 0;
+    height: 313px;
+    object-fit: cover;
+  }
+  .rectangle-parent9 {
+    height: 100%;
+    bottom: 0;
+    left: 974px;
+  }
+  .group-parent4 {
+    position: absolute;
+    top: 154px;
+    left: 0;
+    width: 100%;
+    height: 576px;
+  }
+  .knowledge-articles {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .helpful-insurance-seeker-resou {
+    position: absolute;
+    top: 71.5px;
+    left: 0;
+    font-size: var(--font-size-5xl);
+  }
+  .knowledge-articles-parent {
+    height: 100%;
+    bottom: 0;
+    width: 401px;
+  }
+  .arrow-up-s-line-icon,
+  .knowledge-articles-parent,
+  .see-all-articles {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .arrow-up-s-line-icon {
+    left: 167px;
+    width: 31px;
+    height: 32px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .group-parent5,
+  .see-all-articles-parent {
+    position: absolute;
+    top: 40px;
+    left: 1241px;
+    width: 198px;
+    height: 32px;
+    font-size: var(--font-size-5xl);
+  }
+  .group-parent5 {
+    top: 0;
+    left: 1px;
+    width: 100%;
+    height: 101.5px;
+    font-size: var(--font-size-23xl);
+  }
+  .group-parent3 {
+    position: absolute;
+    top: 0;
+    left: 240px;
+    width: 1440px;
+    height: 730px;
+  }
+  .rectangle-parent4 {
+    position: absolute;
+    top: 96px;
+    left: 0;
+    width: 100%;
+    height: 886px;
+  }
+  .group-child17,
+  .group-child18,
+  .rectangle-parent3 {
+    position: absolute;
+    top: 7207.9px;
+    left: 0;
+    width: 100%;
+    height: 1077px;
+  }
+  .group-child17,
+  .group-child18 {
+    top: 0;
+    background-color: var(--white);
+    height: 100%;
+  }
+  .group-child18 {
+    border: 2px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+  }
+  .at-weve,
+  .how-is-breaking {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    white-space: pre-wrap;
+  }
+  .how-is-breaking {
+    top: 0;
+    left: 0;
+  }
+  .at-weve {
+    top: 45px;
+    margin-left: -73px;
+    text-align: start;
+    font-size: var(--font-size-2xl-5);
+    line-height: 170%;
+    display: inline-block;
+    width: 750px;
+  }
+  .how-is-breaking-the-market-parent,
+  .report-a-damage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 625px;
+    height: 202px;
+  }
+  .report-a-damage {
+    font-weight: 600;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .renew-your-policy,
+  .report-a-damage-or-other-incid-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 394px;
+    height: 30px;
+  }
+  .renew-your-policy {
+    font-weight: 600;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .check-the-status,
+  .renew-your-policy-wrapper {
+    position: absolute;
+    top: 62px;
+    left: 0;
+    width: 216px;
+    height: 30px;
+  }
+  .check-the-status {
+    top: 0;
+    font-weight: 600;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .check-the-status-of-the-case-wrapper {
+    position: absolute;
+    top: 124px;
+    left: 0;
+    width: 326px;
+    height: 30px;
+  }
+  .life-insurance-calculator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .life-insurance-calculator-wrapper {
+    position: absolute;
+    top: 186px;
+    left: 0;
+    width: 280px;
+    height: 30px;
+  }
+  .support-links {
+    position: absolute;
+    height: calc(100% - 2px);
+    top: 0;
+    bottom: 2px;
+    left: 0;
+    width: 394px;
+  }
+  .arrow-left-s-line-icon,
+  .arrow-left-s-line-icon1,
+  .arrow-left-s-line-icon2,
+  .arrow-left-s-line-icon3 {
+    position: absolute;
+    top: 3px;
+    left: 402px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .arrow-left-s-line-icon1,
+  .arrow-left-s-line-icon2,
+  .arrow-left-s-line-icon3 {
+    top: 62px;
+    left: 216px;
+  }
+  .arrow-left-s-line-icon2,
+  .arrow-left-s-line-icon3 {
+    top: 126px;
+    left: 332px;
+  }
+  .arrow-left-s-line-icon3 {
+    top: 188px;
+    left: 287px;
+  }
+  .process-content,
+  .support-links-parent {
+    position: absolute;
+    top: 260px;
+    left: 0;
+    width: 432px;
+    height: 218px;
+  }
+  .process-content {
+    top: 109px;
+    left: 45px;
+    width: 625px;
+    height: 478px;
+  }
+  .rectangle-parent12 {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 714px;
+  }
+  .i-have-a,
+  .questions-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .questions-background {
+    background-color: var(--white);
+    border: 2px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+  }
+  .i-have-a {
+    font-weight: 600;
+    display: inline-block;
+  }
+  .arrow-left-s-line-icon4,
+  .i-have-a-different-question-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 298px;
+    height: 30px;
+  }
+  .arrow-left-s-line-icon4 {
+    top: 2px;
+    left: 301px;
+    width: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .custom-question {
+    position: absolute;
+    top: 608px;
+    left: 23px;
+    width: 331px;
+    height: 32px;
+  }
+  .frequently-asked-questions {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .its-at-the,
+  .when-you-need {
+    margin: 0;
+  }
+  .when-you-need-container {
+    position: absolute;
+    top: 54px;
+    left: calc(50% - 236px);
+    font-size: var(--font-size-2xl-5);
+    line-height: 170%;
+  }
+  .f-a-q-content {
+    position: absolute;
+    top: 0;
+    left: 23px;
+    width: 472px;
+    height: 128px;
+  }
+  .how-is {
+    margin-left: -20px;
+    /* white-space: pre-wrap; */
+  }
+  .agents,
+  .how-is {
+    margin: 0;
+  }
+  .how-is-different-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .question-items {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 416px;
+  }
+  .arrow-left-s-line-icon5 {
+    position: absolute;
+    top: 0;
+    left: 569px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .question-items-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .questions-list-inner,
+  .what-types-of {
+    position: absolute;
+    top: 185px;
+    left: 23px;
+    width: 599px;
+    height: 54px;
+  }
+  .what-types-of {
+    top: 0px;
+    margin-left: -5px;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .what-types-of-insurance-does-o-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 369px;
+    height: 27px;
+  }
+  .arrow-left-s-line-icon6 {
+    position: absolute;
+    top: 25px;
+    left: 680px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .group-parent8 {
+    position: absolute;
+    top: 230px;
+    left: -90px;
+    width: 599px;
+    height: 30px;
+  }
+  .insurance-provider-or,
+  .wouldnt-it-be {
+    margin: 0;
+  }
+  .wouldnt-it-be-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .wouldnt-it-be-cheaper-to-buy-wrapper {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 564px;
+  }
+  .arrow-left-s-line-icon7 {
+    position: absolute;
+    top: 2px;
+    left: 569px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .do-i-pay,
+  .group-parent9 {
+    position: absolute;
+    top: 309px;
+    left: 23px;
+    width: 599px;
+    height: 54px;
+  }
+  .do-i-pay {
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .do-i-pay-fees-to-use-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 211px;
+    height: 27px;
+  }
+  .arrow-left-s-line-icon8 {
+    position: absolute;
+    top: 2px;
+    left: 569px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .group-parent10 {
+    position: absolute;
+    top: 382px;
+    left: 23px;
+    width: 599px;
+    height: 32px;
+  }
+  .what-is-b-insure {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  .first-question-content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 25px;
+  }
+  .arrow-left-s-line-icon9 {
+    position: absolute;
+    top: 0;
+    left: 569px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .first-question {
+    position: absolute;
+    top: 0;
+    left: 23px;
+    width: 599px;
+    height: 30px;
+  }
+  .description-background {
+    display: inline-block;
+    position: absolute;
+    top: 13px;
+    left: 0;
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 100%;
+  }
+  .we-help-our {
+    top: 20px;
+    position: absolute;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 557px;
+  }
+  .question-description {
+    position: absolute;
+    top: 38px;
+    left: 0;
+    width: 622px;
+    height: 123px;
+    font-size: var(--font-size-lg);
+  }
+  .first-question-parent {
+    top: 0;
+    height: 161px;
+    font-size: var(--font-size-xl);
+  }
+  .f-a-q,
+  .first-question-parent,
+  .questions-list {
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  .questions-list {
+    top: 175px;
+    height: 414px;
+    font-size: var(--font-size-2xl-5);
+  }
+  .f-a-q {
+    top: 0;
+    height: 589px;
+  }
+  .questions-content {
+    position: absolute;
+    top: 112px;
+    left: 27px;
+    width: 622px;
+    height: 640px;
+  }
+  .questions-background-parent {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 738px;
+    width: 702px;
+  }
+  .group-parent7 {
+    position: absolute;
+    top: 192px;
+    left: 0;
+    width: 100%;
+    height: 798px;
+  }
+  .get-your-questions {
+    position: absolute;
+    top: 0;
+    left: 33px;
+  }
+  .f-a-q-summary,
+  .find-answers-to {
+    position: absolute;
+    top: 77px;
+    left: 0;
+    font-size: var(--font-size-8xl);
+  }
+  .f-a-q-summary {
+    top: 0;
+    left: 389px;
+    width: 672px;
+    height: 111px;
+    font-size: var(--font-size-23xl);
+  }
+  .group-parent6 {
+    position: absolute;
+    top: 142px;
+    left: 240px;
+    width: 1440px;
+    height: 990px;
+  }
+  .rectangle-parent11 {
+    position: absolute;
+    top: 5190.9px;
+    left: 0;
+    width: 100%;
+    height: 1274px;
+    font-size: var(--font-size-5xl);
+  }
+  .types-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-gray-100);
+    width: 100%;
+    height: 100%;
+  }
+  .types-image-icon {
+    position: absolute;
+    height: 62.41%;
+    width: 43.23%;
+    top: 25.89%;
+    right: 9.92%;
+    bottom: 11.7%;
+    left: 46.85%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .why-b-insure {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .insurance-products-that,
+  .your-family-and {
+    margin: 0;
+  }
+  .insurance-products-that-container {
+    position: absolute;
+    top: 72px;
+    left: 0;
+    font-size: var(--font-size-13xl);
+    line-height: 150%;
+    font-weight: 500;
+  }
+  .types-heading {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 535px;
+    height: 168px;
+  }
+  .auto-motorcycle-commercial-a,
+  .business-insurance,
+  .contractors,
+  .home-condo-tenants-renters,
+  .individual-health-life,
+  .professional-liability {
+    margin: 0;
+  }
+  .auto-motorcycle-commercial-container {
+    position: absolute;
+    top: 0;
+    left: 49.6px;
+    line-height: 201%;
+  }
+  .checkbox-circle-line-icon,
+  .checkbox-circle-line-icon1,
+  .checkbox-circle-line-icon2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+  }
+  .checkbox-circle-line-icon1,
+  .checkbox-circle-line-icon2 {
+    top: 43px;
+  }
+  .checkbox-circle-line-icon2 {
+    top: 86px;
+  }
+  .checkbox-circle-line-icon3,
+  .checkbox-circle-line-icon4,
+  .checkbox-circle-line-icon5 {
+    position: absolute;
+    top: 129px;
+    left: 0;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+  }
+  .checkbox-circle-line-icon4,
+  .checkbox-circle-line-icon5 {
+    top: 172px;
+  }
+  .checkbox-circle-line-icon5 {
+    top: 215px;
+  }
+  .type-icons,
+  .type-items {
+    position: absolute;
+    top: 3.5px;
+    left: 0;
+    width: 36px;
+    height: 251px;
+  }
+  .type-items {
+    top: 193px;
+    width: 100%;
+    height: 258px;
+    font-size: var(--font-size-2xl-5);
+  }
+  .learn-how-to {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+  }
+  .arrow-left-s-line-icon10 {
+    position: absolute;
+    top: 2.1px;
+    left: 314px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .switch-content {
+    position: absolute;
+    top: 11.5px;
+    left: 170px;
+    width: 338px;
+    height: 26px;
+  }
+  .reshot-icon-house-xj53qbrvtc-1 {
+    position: absolute;
+    top: -22.8px;
+    left: -25px;
+    width: 20px;
+    height: 101.3px;
+    overflow: hidden;
+    display: none;
+  }
+  .add-listing {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    min-width: 95px;
+    width: 100%;
+    height: 100%;
+  }
+  .listing-content {
+    align-self: stretch;
+    height: 12px;
+    position: relative;
+  }
+  .button-with-icon {
+    position: absolute;
+    height: 100%;
+    width: 28.94%;
+    top: 0;
+    right: 71.06%;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-deepskyblue);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-mini) var(--padding-7xl);
+    box-sizing: border-box;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--white);
+  }
+  .switch-content-parent {
+    position: absolute;
+    top: 476px;
+    left: 0;
+    width: 508px;
+    height: 48px;
+    font-size: var(--font-size-lg);
+  }
+  .types-content {
+    position: absolute;
+    top: 177.6px;
+    left: 241px;
+    width: 544.6px;
+    height: 524px;
+  }
+  .card-background,
+  .quote-card-child {
+    position: absolute;
+    box-sizing: border-box;
+  }
+  .card-background {
+    top: 0;
+    left: 0;
+    border-radius: 54px;
+    background-color: #eff4f5;
+    border: 8px solid var(--white);
+    width: 100%;
+    height: 100%;
+  }
+  .quote-card-child {
+    top: 228.9px;
+    left: 17.1px;
+    border-radius: 0 0 39px 44px;
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-300);
+    width: 288.2px;
+    height: 408.7px;
+  }
+  .image-logo-icon,
+  .logo-background {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+  .logo-background {
+    background-color: var(--white);
+    border: 1px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+    width: 100%;
+  }
+  .image-logo-icon {
+    width: 37.18%;
+    right: 62.82%;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .canada,
+  .insurance4 {
+    margin: 0;
+  }
+  .canada-insurance,
+  .image-content {
+    position: absolute;
+    top: 2.9px;
+    left: 45.2px;
+  }
+  .image-content {
+    height: 94.69%;
+    width: 45.67%;
+    top: 0;
+    right: 54.33%;
+    bottom: 5.31%;
+    left: 0;
+  }
+  .mo1 {
+    font-size: var(--font-size-sm);
+  }
+  .mo,
+  .year {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    min-width: 76px;
+  }
+  .year {
+    top: 30px;
+    left: 16px;
+    font-size: 10px;
+    font-weight: 600;
+    color: #d0d0d0;
+    min-width: 56px;
+  }
+  .duration-content,
+  .logo-duration {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .logo-duration {
+    top: 0.3px;
+    left: 151.8px;
+    width: 72px;
+    height: 43px;
+    font-size: var(--font-size-5xl);
+  }
+  .logo-image {
+    position: absolute;
+    height: 42.83%;
+    width: 93.41%;
+    top: 0;
+    right: 6.59%;
+    bottom: 57.17%;
+    left: 0;
+  }
+  .quote-button-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 3px;
+    background-color: var(--color-deepskyblue);
+    width: 100%;
+    height: 100%;
+  }
+  .get-a-quote {
+    position: absolute;
+    top: 2.4px;
+    left: calc(50% - 39.65px);
+    line-height: 201%;
+    display: inline-block;
+    min-width: 83px;
+  }
+  .quote-button-background-parent {
+    position: absolute;
+    top: 68.3px;
+    left: 5.1px;
+    width: 234.5px;
+    height: 32.8px;
+    font-size: var(--font-size-sm);
+    color: var(--white);
+  }
+  .logo-content {
+    position: absolute;
+    height: 68.54%;
+    width: 83.14%;
+    top: 15.73%;
+    right: 9.33%;
+    bottom: 15.73%;
+    left: 7.53%;
+  }
+  .logo-container {
+    position: absolute;
+    top: 71.2px;
+    left: 17.1px;
+    width: 288.2px;
+    height: 147.5px;
+  }
+  .form-background,
+  .image-40-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .form-background {
+    border-radius: var(--br-17xl) var(--br-17xl) 0 0;
+    background-color: var(--white);
+  }
+  .image-40-icon {
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+  }
+  .icon-background {
+    position: absolute;
+    height: 71.16%;
+    width: 70.37%;
+    top: 14.23%;
+    right: 15.56%;
+    bottom: 14.61%;
+    left: 14.07%;
+    background-color: var(--white);
+  }
+  .bi-icon {
+    position: absolute;
+    height: 40.82%;
+    width: 40.37%;
+    top: 28.84%;
+    right: 31.11%;
+    bottom: 30.34%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+  }
+  .image-40-parent {
+    position: absolute;
+    height: 100%;
+    width: 11.05%;
+    top: 0;
+    right: 88.95%;
+    bottom: 0;
+    left: 0;
+  }
+  .equal-fill-icon {
+    position: absolute;
+    top: 0.4px;
+    left: 218.4px;
+    border-radius: 35px;
+    width: 26px;
+    height: 26px;
+    overflow: hidden;
+  }
+  .form-content {
+    position: absolute;
+    height: 52.56%;
+    width: 84.8%;
+    top: 27.56%;
+    right: 7.67%;
+    bottom: 19.88%;
+    left: 7.53%;
+  }
+  .form-background-parent {
+    position: absolute;
+    top: 14.3px;
+    left: 17.1px;
+    width: 288.2px;
+    height: 50.8px;
+  }
+  .share-information {
+    margin: 0;
+  }
+  .tell-us-a {
+    margin: 0;
+    color: var(--color-dimgray-200);
+  }
+  .compare-quotes {
+    margin: 0;
+  }
+  .we-instantly-show {
+    margin: 0;
+    color: var(--color-dimgray-200);
+  }
+  .save-money {
+    margin: 0;
+  }
+  .choose-your-quote {
+    margin: 0;
+    color: var(--color-dimgray-200);
+  }
+  .share-information-tell-container {
+    position: absolute;
+    top: 0;
+    left: 37.5px;
+    line-height: 180%;
+    display: inline-block;
+    width: 217.8px;
+  }
+  .heading-dots,
+  .heading-dots1,
+  .heading-dots2 {
+    position: absolute;
+    top: 3.1px;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-deepskyblue);
+    width: 27.6px;
+    height: 27.6px;
+  }
+  .heading-dots1,
+  .heading-dots2 {
+    top: 117.2px;
+  }
+  .heading-dots2 {
+    top: 237.2px;
+  }
+  .form-heading-child {
+    position: absolute;
+    top: 18.2px;
+    left: 13.8px;
+    border-right: 1px dashed var(--color-deepskyblue);
+    box-sizing: border-box;
+    width: 1px;
+    height: 239.1px;
+  }
+  .form-heading {
+    position: absolute;
+    top: 248.5px;
+    left: 31.7px;
+    width: 255.4px;
+    height: 348px;
+    font-size: var(--font-size-base);
+    color: var(--color-deepskyblue);
+  }
+  .form-image-icon,
+  .quote-card {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 323.4px;
+  }
+  .form-image-icon {
+    height: 81.7%;
+    width: 57.46%;
+    top: 18.29%;
+    right: 0;
+    bottom: 0.02%;
+    left: 42.54%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .quote-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .quote-container-wrapper {
+    position: absolute;
+    top: 111.5px;
+    left: 1004px;
+    width: 677px;
+    height: 656.2px;
+    font-size: 12px;
+  }
+  .insurance-types {
+    position: absolute;
+    top: 4311.8px;
+    left: -1px;
+    width: 100%;
+    height: 879.2px;
+    font-size: var(--font-size-29xl);
+  }
+  .card-background1 {
+    background-color: var(--white);
+    width: 100%;
+    height: 100%;
+  }
+  .card-background1,
+  .lets-get-started {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .insurance-companies-compared {
+    position: absolute;
+    top: 77px;
+    left: 0;
+    font-size: var(--font-size-8xl);
+  }
+  .lets-get-started-parent {
+    position: absolute;
+    top: 0;
+    left: 15px;
+    width: 597px;
+    height: 111px;
+    font-size: var(--font-size-23xl);
+  }
+  .individual {
+    position: absolute;
+    top: 33px;
+    left: 40.5px;
+    font-size: var(--font-size-13xl);
+  }
+  .insurance-you-can {
+    position: absolute;
+    top: 97px;
+    left: 40px;
+    font-size: var(--font-size-lg-5);
+    line-height: 170%;
+    color: var(--color-dimgray-300);
+    display: inline-block;
+    width: 363px;
+  }
+  .icon-100-1 {
+    position: absolute;
+    top: 305.9px;
+    left: 298.4px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-200);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .explore-solutions {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+  }
+  .arrow-left-s-line-icon11 {
+    position: absolute;
+    top: 3px;
+    left: 157.5px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .card-buttons {
+    position: absolute;
+    top: 183px;
+    left: 40px;
+    width: 181.5px;
+    height: 27px;
+  }
+  .view-articles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+    display: inline-block;
+    min-width: 113px;
+  }
+  .arrow-left-s-line-icon12 {
+    position: absolute;
+    top: 3px;
+    left: 120px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .card-links {
+    position: absolute;
+    top: 222px;
+    left: 40px;
+    width: 144px;
+    height: 27px;
+  }
+  .wrapper-group-1997-child {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 12px;
+    transform: scale(1.277);
+  }
+  .wrapper-group-1997 {
+    position: absolute;
+    height: 19.5%;
+    width: 20.36%;
+    top: 70.41%;
+    right: 11.7%;
+    bottom: 10.09%;
+    left: 67.94%;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    position: absolute;
+    top: 169px;
+    left: 0;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-mini);
+    background-color: var(--white);
+    border: 1px solid var(--color-silver-100);
+    box-sizing: border-box;
+    width: 446px;
+    height: 444px;
+    overflow: hidden;
+  }
+  .commercial1 {
+    position: absolute;
+    top: 33px;
+    left: 40.5px;
+    font-size: var(--font-size-13xl);
+  }
+  .insurance-you-can1 {
+    position: absolute;
+    top: 97px;
+    left: 40px;
+    font-size: var(--font-size-lg-5);
+    line-height: 170%;
+    color: var(--color-dimgray-300);
+    display: inline-block;
+    width: 363px;
+  }
+  .icon-100-11 {
+    position: absolute;
+    top: 307px;
+    left: 303px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gray-200);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .explore-solutions1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+  }
+  .arrow-left-s-line-icon13 {
+    position: absolute;
+    top: 3px;
+    left: 153px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .explore-solutions-parent {
+    position: absolute;
+    top: 183px;
+    left: 40px;
+    width: 177px;
+    height: 27px;
+  }
+  .view-articles1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+    display: inline-block;
+    min-width: 113px;
+  }
+  .arrow-left-s-line-icon14 {
+    position: absolute;
+    top: 3px;
+    left: 120px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .view-articles-parent {
+    position: absolute;
+    top: 222px;
+    left: 40px;
+    width: 144px;
+    height: 27px;
+  }
+  .card1,
+  .commercial-1-icon {
+    position: absolute;
+    top: 308.4px;
+    left: 305.5px;
+    width: 95px;
+    height: 95px;
+    overflow: hidden;
+  }
+  .card1 {
+    top: 169px;
+    left: 495px;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-base);
+    background-color: var(--white);
+    border: 1px solid var(--color-silver-100);
+    box-sizing: border-box;
+    width: 446px;
+    height: 444px;
+  }
+  .travel-insurance2 {
+    position: absolute;
+    top: 33px;
+    left: 40.5px;
+    font-size: var(--font-size-13xl);
+  }
+  .insurance-you-can2 {
+    position: absolute;
+    top: 97px;
+    left: 40px;
+    font-size: var(--font-size-lg-5);
+    line-height: 170%;
+    color: var(--color-dimgray-300);
+    display: inline-block;
+    width: 363px;
+  }
+  .icon-100-12 {
+    position: absolute;
+    top: 305.9px;
+    left: 303px;
+    border-radius: var(--br-5xs);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+  .explore-solutions2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+    white-space: pre-wrap;
+  }
+  .arrow-left-s-line-icon15 {
+    position: absolute;
+    top: 3px;
+    left: 154px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .explore-solutions-group {
+    position: absolute;
+    top: 183px;
+    left: 40px;
+    width: 178px;
+    height: 27px;
+  }
+  .view-articles2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+    display: inline-block;
+    min-width: 113px;
+  }
+  .arrow-left-s-line-icon16 {
+    position: absolute;
+    top: 3px;
+    left: 120px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .card2,
+  .view-articles-group {
+    position: absolute;
+    top: 222px;
+    left: 40px;
+    width: 144px;
+    height: 27px;
+  }
+  .card2 {
+    top: 169px;
+    left: 990px;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-base);
+    background-color: var(--white);
+    border: 1px solid var(--color-silver-100);
+    box-sizing: border-box;
+    width: 446px;
+    height: 444px;
+    overflow: hidden;
+  }
+  .card-container {
+    position: absolute;
+    top: 156.3px;
+    left: 244px;
+    width: 1436px;
+    height: 613px;
+  }
+  .card-background-parent {
+    position: absolute;
+    top: 3386.1px;
+    left: 0;
+    width: 100%;
+    height: 925.6px;
+    font-size: var(--font-size-lg);
+  }
+  .group-child19 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: linear-gradient(108.97deg, #effcff, #c0ecf7);
+    width: 100%;
+    height: 100%;
+  }
+  .illustration-top-icon {
+    position: absolute;
+    height: 23.98%;
+    width: 23.02%;
+    top: 0;
+    right: 20.2%;
+    bottom: 76.02%;
+    left: 56.78%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .logo-icon,
+  .wrapper-logo-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    left: 0;
+  }
+  .logo-icon {
+    overflow: hidden;
+    object-fit: contain;
+    top: 12px;
+    transform: scale(1.061);
+  }
+  .wrapper-logo-icon {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand-elements-icon,
+  .insurance-icon {
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+  }
+  .insurance-icon {
+    height: 4.33%;
+    width: 28.09%;
+    top: 8.23%;
+    right: 40.18%;
+    bottom: 87.44%;
+    left: 31.73%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .brand-elements-icon {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 4px;
+    transform: scale(1.197);
+  }
+  .wrapper-brand-elements {
+    position: absolute;
+    height: 15.43%;
+    width: 79.46%;
+    top: 18.82%;
+    right: 12.5%;
+    bottom: 65.75%;
+    left: 8.04%;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand-elements-icon1 {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 12px;
+    transform: scale(1.394);
+  }
+  .wrapper-brand-elements1 {
+    position: absolute;
+    height: 15.43%;
+    width: 79.46%;
+    top: 38.68%;
+    right: 10.38%;
+    bottom: 45.9%;
+    left: 10.15%;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand-elements-icon2 {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    transform: scale(1.197);
+  }
+  .wrapper-brand-elements2 {
+    position: absolute;
+    height: 15.43%;
+    width: 79.46%;
+    top: 58.51%;
+    right: 8.27%;
+    bottom: 26.06%;
+    left: 12.27%;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .brand-elements-icon3 {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    transform: scale(1.197);
+  }
+  .wrapper-brand-elements3 {
+    position: absolute;
+    height: 15.43%;
+    width: 79.46%;
+    top: 78.34%;
+    right: 6.12%;
+    bottom: 6.23%;
+    left: 14.41%;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .blue-shapes-icon,
+  .green-shapes-icon {
+    position: absolute;
+    height: 64.52%;
+    width: 64.21%;
+    top: 23.82%;
+    right: 0;
+    bottom: 11.66%;
+    left: 35.79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .green-shapes-icon {
+    height: 100%;
+    width: 25.76%;
+    top: 0;
+    right: 74.24%;
+    bottom: 0;
+    left: 0;
+  }
+  .brand-elements {
+    position: absolute;
+    height: 10.21%;
+    width: 39.41%;
+    top: 20.8%;
+    right: 49.54%;
+    bottom: 69%;
+    left: 11.05%;
+  }
+  .shape-part-one,
+  .shape-part-two {
+    position: absolute;
+    height: 47.45%;
+    width: 62.24%;
+    top: 30.84%;
+    right: -0.06%;
+    bottom: 21.72%;
+    left: 37.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .shape-part-two {
+    height: 100%;
+    width: 32.87%;
+    top: 0;
+    right: 67.13%;
+    bottom: 0;
+    left: 0;
+  }
+  .purple-shape {
+    position: absolute;
+    height: 13.88%;
+    width: 42.3%;
+    top: 38.8%;
+    right: 46.43%;
+    bottom: 47.32%;
+    left: 11.28%;
+  }
+  .group-icon4,
+  .group-icon5 {
+    position: absolute;
+    height: 64.52%;
+    width: 64.91%;
+    top: 23.82%;
+    right: 0;
+    bottom: 11.66%;
+    left: 35.09%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-icon5 {
+    height: 100%;
+    width: 25.25%;
+    top: 0;
+    right: 74.75%;
+    bottom: 0;
+    left: 0;
+  }
+  .brand-elements1 {
+    position: absolute;
+    height: 10.21%;
+    width: 40.2%;
+    top: 60.49%;
+    right: 44.52%;
+    bottom: 29.31%;
+    left: 15.28%;
+  }
+  .group-icon6,
+  .group-icon7 {
+    position: absolute;
+    height: 64.52%;
+    width: 65.18%;
+    top: 23.82%;
+    right: 0;
+    bottom: 11.66%;
+    left: 34.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-icon7 {
+    height: 100%;
+    width: 25.06%;
+    top: 0;
+    right: 74.94%;
+    bottom: 0;
+    left: 0;
+  }
+  .brand-elements2,
+  .green-blob-icon {
+    position: absolute;
+    height: 10.21%;
+    width: 40.51%;
+    top: 80.32%;
+    right: 42.09%;
+    bottom: 9.47%;
+    left: 17.4%;
+  }
+  .green-blob-icon {
+    height: 3.65%;
+    width: 5.97%;
+    top: 43.92%;
+    right: 78.78%;
+    bottom: 52.43%;
+    left: 15.26%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .poll {
+    position: absolute;
+    height: 60.02%;
+    width: 57.59%;
+    top: 6.28%;
+    right: 33.42%;
+    bottom: 33.7%;
+    left: 8.99%;
+  }
+  .decor-icon,
+  .woman-icon {
+    position: absolute;
+    height: 86%;
+    width: 52.09%;
+    top: 14%;
+    right: 0;
+    bottom: 0;
+    left: 47.91%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .decor-icon {
+    height: 95.04%;
+    width: 95.05%;
+    top: 0;
+    right: 4.95%;
+    bottom: 4.96%;
+    left: 0;
+  }
+  .illustration-bottom,
+  .quote-illustration,
+  .woman-illustration {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .illustration-bottom,
+  .quote-illustration {
+    height: 91.91%;
+    top: 8.09%;
+  }
+  .quote-illustration {
+    height: 100%;
+    width: 48%;
+    top: 0;
+    right: 52%;
+  }
+  .get-insurance-quotes {
+    align-self: stretch;
+    height: 90px;
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+  }
+  .get-insurance-quotes-securely-wrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .blank-line,
+  .its-simple-just,
+  .this-includes-the {
+    margin: 0;
+  }
+  .its-simple-just-container {
+    width: 629px;
+    height: 181px;
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    max-width: 116%;
+    flex-shrink: 0;
+  }
+  .simple-process {
+    width: 564px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-xl) 0 0;
+    box-sizing: border-box;
+    max-width: 100%;
+    font-size: var(--font-size-lg);
+  }
+  .description-content-inner,
+  .frame-group {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+  .frame-group {
+    top: calc(50% - 159.5px);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+    height: 100%;
+  }
+  .description-content-inner {
+    top: calc(50% - 201.25px);
+    height: 319px;
+  }
+  .reshot-icon-house-xj53qbrvtc-11 {
+    position: absolute;
+    top: -22.8px;
+    left: -25px;
+    width: 20px;
+    height: 101.3px;
+    overflow: hidden;
+    display: none;
+  }
+  .add-listing1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    min-width: 95px;
+    width: 100%;
+    height: 100%;
+  }
+  .button-label {
+    align-self: stretch;
+    height: 12px;
+    position: relative;
+  }
+  .button-with-icon1 {
+    position: absolute;
+    height: 11.93%;
+    width: 23.37%;
+    top: 88.07%;
+    right: 76.63%;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-deepskyblue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-mini) var(--padding-7xl);
+    box-sizing: border-box;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--white);
+  }
+  .description-content,
+  .quote-description {
+    position: absolute;
+    top: calc(50% - 201.25px);
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+  }
+  .quote-description {
+    left: 789.2px;
+    width: 629px;
+    height: 402.5px;
+  }
+  .quote-content {
+    position: absolute;
+    height: 75.63%;
+    width: calc(100% - 20.8px);
+    top: 0;
+    right: 10.4px;
+    bottom: 24.37%;
+    left: 10.4px;
+    max-width: 100%;
+  }
+  .learn-more-about {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 140%;
+  }
+  .arrow-left-s-line-icon17 {
+    position: absolute;
+    top: 0;
+    left: 325px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+  }
+  .learn-more-link {
+    position: absolute;
+    top: 164.6px;
+    left: 542px;
+    width: 355px;
+    height: 30px;
+  }
+  .communication-options-child {
+    position: absolute;
+    top: calc(50% + 36px);
+    left: calc(50% - 719.5px);
+    border-top: 1px solid #828383;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 1px;
+  }
+  .step-1 {
+    margin: 0;
+  }
+  .answer-few-questions {
+    margin: 0;
+    font-weight: 600;
+  }
+  .communicate-with-your-container {
+    align-self: stretch;
+    position: relative;
+  }
+  .block-icons {
+    width: 48px;
+    height: 48px;
+    position: relative;
+  }
+  .communicate {
+    position: absolute;
+    top: 0;
+    left: 10.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .step-2 {
+    margin: 0;
+  }
+  .get-a-quote1 {
+    margin: 0;
+    font-weight: 600;
+  }
+  .communicate-with-your-container1 {
+    align-self: stretch;
+    position: relative;
+  }
+  .communicate-child {
+    width: 48px;
+    height: 48px;
+    position: relative;
+  }
+  .communicate1 {
+    position: absolute;
+    top: 0;
+    left: 638.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .step-3 {
+    margin: 0;
+  }
+  .purchase-your-best {
+    margin: 0;
+    font-weight: 600;
+  }
+  .communicate-with-your-container2 {
+    position: relative;
+  }
+  .communicate-item {
+    width: 48px;
+    height: 48px;
+    position: relative;
+  }
+  .communicate2 {
+    position: absolute;
+    top: 0;
+    left: 1153.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+  }
+  .communication-options,
+  .employee-communication {
+    position: absolute;
+    top: calc(50% - 60px);
+    left: calc(50% - 719.5px);
+    width: 100%;
+    height: 100%;
+  }
+  .employee-communication {
+    top: calc(50% - 97.3px);
+    height: 120px;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-darkslategray-200);
+  }
+  .learn-more-link-parent {
+    position: absolute;
+    top: 751.7px;
+    left: 0;
+    width: 100%;
+    height: 194.6px;
+    font-size: var(--font-size-2xl-5);
+    color: var(--color-darkslategray-300);
+  }
+  .quote-container1 {
+    position: absolute;
+    height: 83.17%;
+    width: 74.95%;
+    top: 8.41%;
+    right: 12.5%;
+    bottom: 8.42%;
+    left: 12.55%;
+    max-width: 100%;
+  }
+  .rectangle-parent13 {
+    position: absolute;
+    top: 2248.4px;
+    left: 0;
+    width: 100%;
+    height: 1137.8px;
+    max-width: 100%;
+    font-size: var(--heading-1-01-size);
+    color: var(--neutral-07);
+  }
+  .benefit-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--white);
+    width: 100%;
+    height: 100%;
+  }
+  .help-build-financial {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+  }
+  .between-balancing-work,
+  .our-fast-straightforward {
+    margin: 0;
+  }
+  .between-balancing-work-container {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--font-size-lg-5);
+    line-height: 170%;
+    text-align: center;
+  }
+  .rating {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 605px);
+    background-color: var(--white);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 0 35px;
+    box-sizing: border-box;
+    gap: 43px;
+    max-width: 100%;
+  }
+  .zero-fees {
+    position: absolute;
+    top: 32.6px;
+    left: 40px;
+  }
+  .no-hidden-charges,
+  .to-your-premiums,
+  .we-never-add {
+    margin: 0;
+  }
+  .no-hidden-charges-container {
+    position: absolute;
+    top: 102px;
+    left: 39.5px;
+    font-size: var(--font-size-lg);
+    line-height: 170%;
+    color: var(--color-dimgray-300);
+    display: inline-block;
+    width: 286px;
+  }
+  .home-canadian-dollar-1-icon {
+    position: absolute;
+    top: 256px;
+    left: 238px;
+    width: 109px;
+    height: 109px;
+    overflow: hidden;
+  }
+  .b,
+  .card3 {
+    position: absolute;
+  }
+  .card3 {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-mini);
+    background-color: var(--white);
+    border: 2px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+    width: 380px;
+    overflow: hidden;
+  }
+  .b {
+    top: 32.6px;
+    left: 34.8px;
+  }
+  .policy-options,
+  .we-pick-the {
+    margin: 0;
+  }
+  .policy-options-we-container {
+    position: absolute;
+    top: 102px;
+    left: 35.5px;
+    font-size: var(--font-size-lg);
+    line-height: 170%;
+    color: var(--color-dimgray-300);
+    display: inline-block;
+    width: 295px;
+  }
+  .policy-options-1-icon {
+    position: absolute;
+    top: 261px;
+    left: 246px;
+    width: 99px;
+    height: 99px;
+    overflow: hidden;
+  }
+  .card4,
+  .m {
+    position: absolute;
+  }
+  .card4 {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 428px;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-mini);
+    background-color: var(--white);
+    border: 2px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+    width: 380px;
+    overflow: hidden;
+  }
+  .m {
+    top: 32.6px;
+    left: 40.7px;
+  }
+  .coverage-placed,
+  .weve-helped-over {
+    margin: 0;
+  }
+  .coverage-placed-weve-container {
+    position: absolute;
+    top: 102px;
+    left: 41.5px;
+    font-size: var(--font-size-lg);
+    line-height: 170%;
+    color: var(--color-dimgray-300);
+    display: inline-block;
+    width: 290px;
+  }
+  .card5,
+  .insurance-coverage-1-icon {
+    position: absolute;
+    top: 259px;
+    left: 258px;
+    width: 101px;
+    height: 103px;
+    overflow: hidden;
+  }
+  .card5 {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 856px;
+    box-shadow: var(--shadow-light-xlarge);
+    border-radius: var(--br-mini);
+    background-color: var(--white);
+    border: 2px solid var(--color-gainsboro-200);
+    box-sizing: border-box;
+    width: 380px;
+  }
+  .benefit-cards {
+    position: absolute;
+    top: 314.4px;
+    left: 0;
+    width: 100%;
+    height: 392px;
+  }
+  .benefits {
+    position: absolute;
+    top: 115px;
+    left: calc(50% - 619.5px);
+    width: 1236px;
+    height: 706.4px;
+    max-width: 100%;
+  }
+  .section-3 {
+    position: absolute;
+    top: 1264.6px;
+    left: -1px;
+    width: 100%;
+    height: 983.7px;
+    font-size: var(--font-size-23xl);
+  }
+  .banner-background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-darkslategray-200);
+  }
+  .close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .heads-up-our {
+    position: absolute;
+    top: 35%;
+    left: 12.76%;
+    font-weight: 600;
+  }
+  .infobar,
+  .variants-background {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .infobar {
+    height: 40px;
+    color: var(--white);
+  }
+  .variants-background {
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    background-color: var(--white);
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+  }
+  .variants-content {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0;
+    left: 44.11%;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-deepskyblue);
+  }
+  .image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+  }
+  .logo-background1 {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.07%;
+    right: 15.6%;
+    bottom: 14.92%;
+    left: 14.09%;
+    background-color: var(--white);
+  }
+  .bi-icon1,
+  .logo-container1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .bi-icon1 {
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+  }
+  .binsure-logo {
+    position: absolute;
+    height: calc(100% - 21px);
+    width: 3.1%;
+    top: 11px;
+    right: 84.4%;
+    bottom: 10px;
+    left: 12.5%;
+  }
+  .home {
+    position: relative;
+    display: inline-block;
+    min-width: 47px;
+  }
+  .navigation-items {
+    position: absolute;
+    height: 79.17%;
+    width: 9.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0;
+    border-radius: var(--br-11xl);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-smi) var(--padding-base) var(--padding-8xs);
+    box-sizing: border-box;
+  }
+  .individual1 {
+    position: relative;
+    display: inline-block;
+    min-width: 73px;
+  }
+  .navigation-items1 {
+    position: absolute;
+    height: 79.17%;
+    width: 12.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-royalblue);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-smi) var(--padding-base) var(--padding-8xs);
+    box-sizing: border-box;
+  }
+  .commercial2 {
+    position: relative;
+    display: inline-block;
+    min-width: 94px;
+  }
+  .navigation-items2 {
+    position: absolute;
+    height: 79.17%;
+    width: 15.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-royalblue);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-smi) var(--padding-base) var(--padding-8xs);
+    box-sizing: border-box;
+  }
+  .travel1 {
+    position: relative;
+    display: inline-block;
+    min-width: 44px;
+  }
+  .navigation-items3 {
+    position: absolute;
+    height: 79.17%;
+    width: 9.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-royalblue);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-smi) var(--padding-base) var(--padding-8xs);
+    box-sizing: border-box;
+  }
+  .support {
+    position: relative;
+    display: inline-block;
+    min-width: 63px;
+  }
+  .navigation-items4 {
+    position: absolute;
+    height: 79.17%;
+    width: 11.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-royalblue);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-smi) var(--padding-base) var(--padding-8xs);
+    box-sizing: border-box;
+  }
+  .reshot-icon-house-xj53qbrvtc-12 {
+    position: absolute;
+    top: -115.3px;
+    left: -25px;
+    width: 20px;
+    height: 512.6px;
+    overflow: hidden;
+    display: none;
+  }
+  .add-listing2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 95px;
+    width: 100%;
+    height: 100%;
+  }
+  .button-content {
+    align-self: stretch;
+    height: 12px;
+    position: relative;
+  }
+  .button-with-icon2 {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0;
+    right: 9.72%;
+    bottom: 0;
+    left: 72.54%;
+    border-radius: var(--br-5xs);
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-mini) var(--padding-7xl);
+    box-sizing: border-box;
+    text-align: center;
+    color: var(--white);
+  }
+  .navigation-divider {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+  }
+  .search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .navigation {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+  }
+  .binsure {
+    position: absolute;
+    top: 32%;
+    left: 16.09%;
+    font-size: var(--font-size-xl);
+    display: inline-block;
+    font-family: var(--font-cunia);
+    color: #1e1e1e;
+    min-width: 90px;
+  }
+  .b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    color: var(--text-colour-2);
+  }
+  .group-child20 {
+    background-color: var(--white);
+  }
+  .group-child20,
+  .group-frame,
+  .group-wrapper,
+  .icon,
+  .rectangle-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .icon {
+    left: 2.3px;
+    width: 91.7px;
+    height: 97.2px;
+  }
+  .lets-hear-what,
+  .our-customer-are {
+    margin: 0;
+  }
+  .our-customer-are-container {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    line-height: 170%;
+  }
+  .instance-child {
+    height: 50px;
+    width: 50px;
+    position: relative;
+  }
+  .frame-div {
+    position: absolute;
+    top: 0;
+    left: 69px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-icon {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    max-height: 100%;
+    width: 50px;
+    object-fit: contain;
+  }
+  .instance-parent {
+    position: absolute;
+    top: 160px;
+    left: 0;
+    width: 119px;
+    height: 50px;
+  }
+  .what-people-say {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--heading-1-01-size);
+    line-height: 48px;
+    display: inline-block;
+    color: var(--neutral-07);
+    width: 415px;
+  }
+  .group-child21,
+  .our-customer-are-our-top-prior-parent {
+    position: absolute;
+    top: 141.1px;
+    left: 0;
+    width: 415px;
+    height: 210px;
+  }
+  .group-child21 {
+    top: 0;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: var(--br-11xl);
+    background-color: var(--white);
+    width: 100%;
+    height: 100%;
+  }
+  .group-child22 {
+    position: absolute;
+    top: 373.3px;
+    left: 736.2px;
+    width: 117.7px;
+    height: 24px;
+  }
+  .barbara-d-smith,
+  .i-highly-recommend {
+    position: absolute;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .i-highly-recommend {
+    top: 65.1px;
+    left: 65.7px;
+    line-height: 210%;
+    width: 788.2px;
+    height: 136px;
+  }
+  .barbara-d-smith {
+    top: 376.4px;
+    left: 147.8px;
+    font-size: var(--h4-semibold-size);
+    font-family: var(--h4-semibold);
+    color: var(--color-darkslategray-300);
+    width: 209.7px;
+    height: 17.7px;
+  }
+  .line-div {
+    position: absolute;
+    top: 328.4px;
+    right: 62.1px;
+    border-top: 1px solid var(--text-colour-5);
+    box-sizing: border-box;
+    width: 789.2px;
+    height: 1px;
+  }
+  .ellipse-icon {
+    position: absolute;
+    top: 353.7px;
+    right: 788.1px;
+    border-radius: 50%;
+    width: 63.2px;
+    height: 63.2px;
+    object-fit: cover;
+  }
+  .rectangle-parent14 {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 461.6px;
+    width: 917px;
+    font-size: var(--font-size-2xl-5);
+  }
+  .group-parent11,
+  .parent {
+    position: absolute;
+    top: 145.4px;
+    left: 270.7px;
+    width: 1378.6px;
+    height: 452.2px;
+  }
+  .group-parent11 {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .b-insure-insurance-broker-home-inner {
+    position: absolute;
+    top: 6464.9px;
+    left: 0;
+    width: 100%;
+    height: 743px;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-300);
+  }
+  .youre-in-good {
+    position: absolute;
+    top: 0;
+    left: 250px;
+  }
+  .join-over-3000,
+  .protect-improve-and {
+    margin: 0;
+  }
+  .join-over-3000-container {
+    position: absolute;
+    top: 77px;
+    left: 0;
+    font-size: var(--font-size-5xl);
+    line-height: 170%;
+    color: #556c75;
+  }
+  .testimonial {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1005px;
+    height: 159px;
+  }
+  .input-background {
+    position: absolute;
+    height: calc(100% - 0.2px);
+    top: 0.2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--white);
+    border: 3px solid var(--color-gainsboro-300);
+    box-sizing: border-box;
+    width: 786px;
+  }
+  .enter-your-email {
+    position: absolute;
+    top: 24.3px;
+    left: 26.2px;
+  }
+  .reshot-icon-house-xj53qbrvtc-13 {
+    position: absolute;
+    top: -364.5px;
+    left: -81px;
+    width: 43.3px;
+    height: 1620px;
+    overflow: hidden;
+    display: none;
+  }
+  .add-listing3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 90%;
+  }
+  .button-label1 {
+    width: 150px;
+    height: 16px;
+    position: relative;
+  }
+  .button-with-icon3 {
+    position: absolute;
+    height: 98.3%;
+    width: 24.44%;
+    top: 0;
+    right: 0;
+    bottom: 0.64%;
+    left: 75.56%;
+    background-color: var(--color-deepskyblue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: var(--padding-mini) var(--padding-7xl);
+    box-sizing: border-box;
+    font-size: var(--font-size-2xl-5);
+    color: var(--white);
+  }
+  .email-input,
+  .signup-form {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .signup-form {
+    height: 78.5px;
+  }
+  .find-out-how,
+  .newsletter {
+    position: absolute;
+    top: 100.1px;
+    left: 8.9px;
+    font-size: var(--font-size-2xl-5);
+  }
+  .newsletter {
+    top: 230.9px;
+    left: 57px;
+    width: 957.5px;
+    height: 127.1px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-dimgray-100);
+  }
+  .footer-content {
+    position: absolute;
+    top: 0;
+    left: 457.6px;
+    width: 1014.5px;
+    height: 358px;
+  }
+  .image-placeholder-icon {
+    position: absolute;
+    height: 57.76%;
+    width: 100%;
+    top: 42.24%;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .footer {
+    position: absolute;
+    top: 8284.9px;
+    left: -0.1px;
+    width: 100%;
+    height: 755.2px;
+    text-align: center;
+    font-size: var(--font-size-23xl);
+  }
+  .image-35-icon1,
+  .info-background {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    right: 0;
+    left: 0;
+  }
+  .info-background {
+    top: 100%;
+    bottom: -100%;
+    background-color: var(--color-darkslategray-200);
+  }
+  .image-35-icon1 {
+    top: 0;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+  }
+  .logo-elements-child {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.08%;
+    right: 15.49%;
+    bottom: 14.86%;
+    left: 14.15%;
+    background-color: var(--white);
+  }
+  .bi-icon2,
+  .logo-elements {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .bi-icon2 {
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+  }
+  .info-content-inner,
+  .logo-container-wrapper,
+  .logo-container2 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .info-content-inner {
+    height: 50.21%;
+    width: 59.92%;
+    right: 40.08%;
+    bottom: 49.79%;
+  }
+  .blank-line1,
+  .carebinsureca,
+  .p,
+  .po-box-9999 {
+    margin: 0;
+  }
+  .info-content,
+  .po-box-9999-container {
+    position: absolute;
+    top: 57.14%;
+    left: 0;
+    color: black;
+  }
+  .info-content {
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: var(--font-size-2xl);
+    color:black;
+  }
+  .b-insure-variantsfooter-child {
+    position: absolute;
+    height: 0.33%;
+    width: 75.1%;
+    top: 80.8%;
+    right: 12.45%;
+    bottom: 18.86%;
+    left: 12.45%;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+    color:black;
+  }
+  .quick-links {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-2xl);
+    display: inline-block;
+    min-width: 111px;
+    color:black;
+  }
+  .about,
+  .blog,
+  .careers,
+  .contact-us,
+  .faqs,
+  .sitemap {
+    position: absolute;
+    top: 21.05%;
+    left: 0;
+    display: inline-block;
+    min-width: 81px;
+    color:black;
+  }
+  .about,
+  .blog,
+  .careers,
+  .contact-us,
+  .faqs {
+    top: 35.79%;
+    min-width: 76px;
+  }
+  .about,
+  .blog,
+  .contact-us,
+  .faqs {
+    top: 50.53%;
+    min-width: 104px;
+  }
+  .about,
+  .blog,
+  .faqs {
+    top: 65.26%;
+    min-width: 45px;
+  }
+  .about,
+  .faqs {
+    top: 80%;
+    min-width: 51px;
+  }
+  .about {
+    top: 94.74%;
+    min-width: 59px;
+  }
+  .quick-links-parent {
+    position: absolute;
+    height: 47.58%;
+    width: 5.78%;
+    top: 13.52%;
+    right: 27.45%;
+    bottom: 38.9%;
+    left: 66.77%;
+  }
+  .terms-of-use {
+    position: absolute;
+    top: 36.94%;
+    left: 0;
+    display: inline-block;
+    min-width: 118px;
+  }
+  .cookie-policy,
+  .legal,
+  .privacy-policy {
+    position: absolute;
+    top: 63.69%;
+    left: 0;
+    
+  }
+  .cookie-policy,
+  .legal {
+    top: 90.45%;
+    color:black;
+  }
+  .legal {
+    top: 0;
+    font-size: var(--font-size-2xl);
+    display: inline-block;
+    min-width: 56px;
+    color:black;
+  }
+  .policies {
+    position: absolute;
+    height: 26.21%;
+    width: 6.88%;
+    top: 13.52%;
+    right: 13.85%;
+    bottom: 60.27%;
+    left: 79.27%;
+    color:black;
+  }
+  .copyright-2024 {
+    position: absolute;
+    top: 87.15%;
+    left: 13.02%;
+    white-space: pre-wrap;
+    color:black;
+  }
+  .wrapper-group-536-child {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    object-fit: contain;
+    position: absolute;
+    left: 0;
+    top: 4px;
+    transform: scale(1.154);
+    color:black;
+  }
+  .wrapper-group-536 {
+    position: absolute;
+    height: 13.02%;
+    width: 4.06%;
+    top: 74.46%;
+    right: 4.43%;
+    bottom: 12.52%;
+    left: 91.51%;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .b-insure-variantsfooter {
+    position: absolute;
+    top: 9040.2px;
+    left: 0;
+    width: 100%;
+    height: 599px;
+    font-size: var(--font-size-xl);
+    color: var(--white);
+  }
+  .b-insure-insurance-broker-home {
+    width: 100%;
+    height: 9639px;
+    position: relative;
+    background-color: var(--white);
+    overflow: hidden;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-darkslategray-300);
+    font-family: var(--heading-1-01);
+  }
+  @media screen and (max-width: 767px) {
+    .compare-buy-container {
+      font-size: var(--font-size-19xl);
+    }
+    .canadas-fast-growing {
+      font-size: var(--font-size-7xl);
+      line-height: 44px;
+    }
+    .get-your-questions,
+    .knowledge-articles {
+      font-size: var(--font-size-15xl);
+    }
+    .why-b-insure {
+      font-size: var(--font-size-19xl);
+    }
+    .insurance-products-that-container {
+      font-size: var(--font-size-7xl);
+      line-height: 38px;
+    }
+    .lets-get-started {
+      font-size: var(--font-size-15xl);
+    }
+    .commercial1,
+    .individual,
+    .travel-insurance2 {
+      font-size: var(--font-size-7xl);
+    }
+    .get-insurance-quotes {
+      font-size: var(--font-size-13xl);
+      line-height: 48px;
+    }
+    .b,
+    .help-build-financial,
+    .m,
+    .zero-fees {
+      font-size: var(--font-size-15xl);
+    }
+    .what-people-say {
+      font-size: var(--font-size-13xl);
+      line-height: 38px;
+    }
+    .youre-in-good {
+      font-size: var(--font-size-15xl);
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .partnerships-with-leading-container {
+      font-size: var(--font-size-lgi);
+      line-height: 33px;
+    }
+    .compare-buy-container {
+      font-size: var(--font-size-10xl);
+    }
+    .canadas-fast-growing {
+      line-height: 33px;
+    }
+    .benefits-of-travel,
+    .canadas-fast-growing,
+    .how-to-compare-container,
+    .switching-auto-insurance {
+      font-size: var(--font-size-lgi);
+    }
+    .knowledge-articles {
+      font-size: var(--font-size-6xl);
+    }
+    .helpful-insurance-seeker-resou,
+    .how-is-breaking,
+    .see-all-articles {
+      font-size: var(--font-size-lgi);
+    }
+    .at-weve {
+      font-size: var(--font-size-mid);
+      line-height: 29px;
+    }
+    .check-the-status,
+    .frequently-asked-questions,
+    .i-have-a,
+    .life-insurance-calculator,
+    .renew-your-policy,
+    .report-a-damage {
+      font-size: var(--font-size-lgi);
+    }
+    .when-you-need-container {
+      line-height: 29px;
+    }
+    .do-i-pay,
+    .how-is-different-container,
+    .what-types-of,
+    .when-you-need-container,
+    .wouldnt-it-be-container {
+      font-size: var(--font-size-mid);
+    }
+    .what-is-b-insure {
+      font-size: var(--font-size-base);
+    }
+    .get-your-questions {
+      font-size: var(--font-size-6xl);
+    }
+    .find-answers-to {
+      font-size: var(--font-size-3xl);
+    }
+    .why-b-insure {
+      font-size: var(--font-size-10xl);
+    }
+    .insurance-products-that-container {
+      font-size: var(--font-size-lgi);
+      line-height: 29px;
+    }
+    .auto-motorcycle-commercial-container {
+      font-size: var(--font-size-mid);
+      line-height: 35px;
+    }
+    .lets-get-started {
+      font-size: var(--font-size-6xl);
+    }
+    .insurance-companies-compared {
+      font-size: var(--font-size-3xl);
+    }
+    .commercial1,
+    .individual,
+    .travel-insurance2 {
+      font-size: var(--font-size-lgi);
+    }
+    .get-insurance-quotes {
+      font-size: var(--font-size-5xl);
+      line-height: 36px;
+    }
+    .learn-more-about {
+      font-size: var(--font-size-mid);
+      line-height: 24px;
+    }
+    .communicate-with-your-container,
+    .communicate-with-your-container1,
+    .communicate-with-your-container2 {
+      font-size: var(--font-size-lgi);
+    }
+    .b,
+    .help-build-financial,
+    .m,
+    .zero-fees {
+      font-size: var(--font-size-6xl);
+    }
+    .binsure,
+    .our-customer-are-container {
+      font-size: var(--font-size-base);
+    }
+    .our-customer-are-container {
+      line-height: 27px;
+    }
+    .what-people-say {
+      font-size: var(--font-size-5xl);
+      line-height: 29px;
+    }
+    .i-highly-recommend {
+      font-size: var(--font-size-mid);
+      line-height: 36px;
+    }
+    .youre-in-good {
+      font-size: var(--font-size-6xl);
+    }
+    .join-over-3000-container {
+      line-height: 33px;
+    }
+    .enter-your-email,
+    .join-over-3000-container {
+      font-size: var(--font-size-lgi);
+    }
+    .add-listing3,
+    .find-out-how,
+    .po-box-9999-container,
+    .quick-links {
+      font-size: var(--font-size-mid);
+    }
+    .about,
+    .blog,
+    .careers,
+    .contact-us,
+    .cookie-policy,
+    .faqs,
+    .privacy-policy,
+    .sitemap,
+    .terms-of-use {
+      font-size: var(--font-size-base);
+    }
+    .legal {
+      font-size: var(--font-size-mid);
+    }
+    .copyright-2024 {
+      font-size: var(--font-size-base);
+    }
+  }
+  #individual_button:hover, #commerecial2:hover, #travel1:hover, #support:hover{
+    font-weight: bold ;
+    /* background-color: red; */
+    /* transform: scale(1.2); */
+    transition-delay: 20ms;
+    transition-duration: 1s;
+  }
+  #group-child4:hover, #group-item:hover, #rectangle-div:hover, #group-child2:hover{
+    background-color: #a2ebff;
+    opacity: 0.5;
+  }
+  /* a2ebff */
