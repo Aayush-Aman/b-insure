@@ -1,0 +1,3638 @@
+@media (max-width:1285px){
+    .b-insure-variants{
+        margin-left: -400px;
+    }
+}
+body{
+    height: 100vh;
+}
+.homee{
+    transform: scale(0.8);
+    transform-origin: top left;
+    width: 125%;
+    height: 125%;
+}
+.image-1-icon {
+    position: absolute;
+    top: 366px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.image-2-icon {
+    position: absolute;
+    top: 366px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655.01px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 0.01px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.image-2-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 1433.01px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #353535;
+    width: 1920px;
+    height: 599px;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-item {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-frame {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.group-wrapper {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.blank-line {
+    margin: 0;
+}
+.po-box-9999-container {
+    position: absolute;
+    top: 160px;
+    left: 0px;
+}
+.group-container {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.group-inner {
+    position: absolute;
+    top: 485px;
+    left: 240px;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+    width: 1442px;
+    height: 2px;
+}
+.quick-links {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+}
+.careers {
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+.contact-us {
+    position: absolute;
+    top: 144px;
+    left: 0px;
+}
+.insurance {
+    position: absolute;
+    top: 186px;
+    left: 0px;
+}
+.blog {
+    position: absolute;
+    top: 228px;
+    left: 0px;
+}
+.faqs {
+    position: absolute;
+    top: 270px;
+    left: 0px;
+}
+.about {
+    position: absolute;
+    top: 312px;
+    left: 0px;
+}
+.quick-links-parent {
+    position: absolute;
+    top: 81px;
+    left: 1282px;
+    width: 111px;
+    height: 327px;
+}
+.terms-of-use {
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+.cookie-policy {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+}
+.terms-of-use-parent {
+    position: absolute;
+    top: 81px;
+    left: 1522px;
+    width: 132px;
+    height: 157px;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 522px;
+    left: 250px;
+    white-space: pre-wrap;
+}
+.group-icon {
+    position: absolute;
+    top: 446px;
+    left: 1757px;
+    width: 78px;
+    height: 78px;
+    cursor: pointer;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 166.93px;
+    left: 0.07px;
+    width: 1920px;
+    height: 599px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #2079ff;
+    width: 1921px;
+    height: 166.9px;
+}
+.add-listing {
+    position: absolute;
+    top: -2px;
+    left: 0px;
+}
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.add-listing1 {
+    position: absolute;
+    top: 2px;
+    left: 28px;
+}
+.button-with-icon {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 0%;
+    bottom: 14.84%;
+    left: 82.78%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 18.36%;
+    bottom: 14.84%;
+    left: 64.41%;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    color: #046eb6;
+}
+.join-the-team {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    line-height: 170%;
+}
+.change-insurance-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.join-the-team-that-is-making-h-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+}
+.group-wrapper1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+    text-align: left;
+}
+.button-with-icon-parent {
+    position: absolute;
+    height: 54.52%;
+    width: 74.96%;
+    top: 22.59%;
+    right: 12.52%;
+    bottom: 22.89%;
+    left: 12.52%;
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 166.9px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.group-parent {
+    position: absolute;
+    top: 8031.71px;
+    left: -0.06px;
+    width: 1921px;
+    height: 765.9px;
+    font-size: 20px;
+    color: #fff;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1921px;
+    height: 904px;
+}
+.great-rates-and-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    display: inline-block;
+    width: 607px;
+    font-family: Manrope;
+}
+.buttons-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #0086aa;
+    box-sizing: border-box;
+}
+.how-it-works {
+    position: absolute;
+    top: 32.03%;
+    left: 24.34%;
+    letter-spacing: 0.01em;
+}
+.buttons {
+    position: absolute;
+    top: 379.5px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 226px;
+    height: 64px;
+    text-align: center;
+    color: #0086aa;
+}
+.span {
+    text-decoration: underline;
+}
+.a {
+    color: inherit;
+}
+.get-a-free-container {
+    position: absolute;
+    top: 164px;
+    left: 5.01px;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    line-height: 170%;
+    display: inline-block;
+    width: 737px;
+}
+.trusted-by-over-container {
+    position: absolute;
+    top: 0px;
+    left: 59.97px;
+    line-height: 153%;
+    display: inline-block;
+    width: 232.1px;
+}
+.vector-icon {
+    position: absolute;
+    height: 73.21%;
+    width: 13.01%;
+    top: 14.32%;
+    right: 86.99%;
+    bottom: 12.47%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.trusted-by-over-10000-canadia-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 292.1px;
+    height: 56px;
+}
+.save-up-to {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 153%;
+    display: inline-block;
+    width: 193.9px;
+}
+.save-up-to-35-on-your-insuran-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 62.98px;
+    width: 193.9px;
+    height: 56px;
+}
+.flying-money-1-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 41px;
+    height: 40px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 335.09px;
+    width: 256.9px;
+    height: 56px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 278px;
+    left: 4.32px;
+    width: 592px;
+    height: 56px;
+}
+.great-rates-and-expert-advice-parent {
+    position: absolute;
+    top: 216.5px;
+    left: 288.05px;
+    width: 742px;
+    height: 443.5px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    box-shadow: 0px -4px 6px 6px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 481.5px;
+    height: 626px;
+}
+.i-agree-to-container {
+    position: absolute;
+    top: 542.02px;
+    left: 43.45px;
+    line-height: 170%;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+    width: 379.6px;
+    height: 60px;
+}
+.get-a-free {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 189.5px);
+    width: 100%;
+    height: 99%;
+    background-color: transparent;
+    border-color: transparent;
+    font-family: jakarata-sans;
+    color: white;
+    cursor: pointer;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: bold;
+}
+.group-wrapper4 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 379.6px;
+    height: 60px;
+}
+.group-wrapper3 {
+    position: absolute;
+    top: 423.12px;
+    right: 0.1px;
+    width: 379.6px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.your-name {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+}
+.group-child3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    box-sizing: border-box;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    padding: 10px;
+    position: relative;
+}
+
+.input-wrapper .group-child3{
+    border-radius: 0 50px 50px 0;
+    width: 76%;
+    height: 47px;
+}
+ /* Hide the spinner for number input */
+ input[type=number]::-webkit-outer-spin-button,
+ input[type=number]::-webkit-inner-spin-button,
+ input[type=number] {
+     -webkit-appearance: none;
+     margin: 0;
+ }
+ .country-code-select {
+    padding: 10px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    border-radius: 50px 0 0 50px; /* Rounded corners for the left side */
+    font-family: 'Plus Jakarta Sans';
+    font-size: large;
+    height: calc(100% - 22px); /* Adjust height to match the input field */
+    box-sizing: border-box;
+}
+.your-name1 {
+    position: absolute;
+    top: 24.89%;
+    left: 5.45%;
+}
+.rectangle-parent2 {
+    position: absolute;
+    height: 66.67%;
+    width: 100%;
+    top: 33.33%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-family: Poppins;
+}
+.your-name-parent {
+    position: absolute;
+    height: 16.77%;
+    width: 99.97%;
+    top: 0%;
+    right: 0.03%;
+    bottom: 83.23%;
+    left: 0%;
+}
+.span1 {
+    color: #8c1823;
+}
+.contact-number {
+    position: absolute;
+    top: 24.89%;
+    left: 21.87%;
+}
+.div {
+    position: absolute;
+    top: 0.17%;
+    left: 0%;
+}
+.arrow-up-s-line-icon {
+    position: absolute;
+    height: 100%;
+    width: 40.68%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 59.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent {
+    position: absolute;
+    height: 44.44%;
+    width: 15.54%;
+    top: 27.78%;
+    right: 80.5%;
+    bottom: 27.78%;
+    left: 3.96%;
+}
+.group-parent4 {
+    position: absolute;
+    height: 65.85%;
+    width: 100%;
+    top: 34.15%;
+    right: -0.01%;
+    bottom: 0%;
+    left: 0.01%;
+    font-family: Poppins;
+}
+.contact-number-parent {
+    position: absolute;
+    height: 16.97%;
+    width: 99.97%;
+    top: 65.95%;
+    right: 0.03%;
+    bottom: 17.08%;
+    left: 0%;
+}
+.arrow-up-s-line-icon1 {
+    position: absolute;
+    height: 44.44%;
+    width: 6.32%;
+    top: 27.78%;
+    right: 5.11%;
+    bottom: 27.78%;
+    left: 88.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.weeks {
+    position: absolute;
+    top: 24.89%;
+    left: 5.27%;
+    line-height: 26px;
+}
+.rectangle-parent4 {
+    position: absolute;
+    height: 63.53%;
+    width: 100%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.planning-to-buy {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-parent5 {
+    position: absolute;
+    height: 17.59%;
+    width: 99.95%;
+    top: 21.43%;
+    right: 0.05%;
+    bottom: 60.98%;
+    left: 0%;
+    font-family: Poppins;
+}
+.email-address {
+    position: absolute;
+    top: 24.89%;
+    left: 5.44%;
+}
+.rectangle-parent5 {
+    position: absolute;
+    height: 63.53%;
+    width: 99.97%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0.02%;
+}
+.group-parent6 {
+    position: absolute;
+    height: 17.59%;
+    width: 100%;
+    top: 43.69%;
+    right: 0%;
+    bottom: 38.72%;
+    left: 0%;
+    font-family: Poppins;
+}
+.group-parent3 {
+    position: absolute;
+    top: 36.37px;
+    right: 58.35px;
+    width: 379.7px;
+    height: 483.1px;
+    color: #5a5555;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-container {
+    position: absolute;
+    top: 138.98px;
+    right: 260.29px;
+    width: 481.5px;
+    height: 626px;
+    font-size: 16px;
+    color: #5c6163;
+    font-family: Lora;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 120px;
+    left: -0.07px;
+    width: 1921px;
+    height: 904px;
+}
+.get-instant-travel-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 170%;
+}
+.get-instant-travel-insurance-q-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    width: 411px;
+    height: 82px;
+}
+.image-11-icon {
+    position: absolute;
+    top: 16.4px;
+    left: 0px;
+    width: 120px;
+    height: 100.8px;
+    object-fit: cover;
+}
+.image-11-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 0px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-8-icon {
+    position: absolute;
+    top: 17.6px;
+    left: 14.8px;
+    width: 95.6px;
+    height: 84px;
+    object-fit: cover;
+}
+.image-8-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 144px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-12-icon {
+    position: absolute;
+    top: 16.8px;
+    left: 0px;
+    width: 113.6px;
+    height: 103.2px;
+    object-fit: cover;
+}
+.image-12-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 288px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-9-icon {
+    position: absolute;
+    top: 0px;
+    left: 14.8px;
+    width: 105.2px;
+    height: 120px;
+    object-fit: cover;
+}
+.image-9-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 432px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-child {
+    position: absolute;
+    top: 0.5px;
+    left: 576px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-item {
+    position: absolute;
+    top: 0.5px;
+    left: 720px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: 0.5px;
+    left: 864px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.image-16-icon {
+    position: absolute;
+    top: 15.6px;
+    left: 0px;
+    width: 120px;
+    height: 104.4px;
+    object-fit: cover;
+}
+.image-16-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1008px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-13-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1152px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 120px;
+    overflow-x: auto;
+}
+.group-parent7 {
+    position: absolute;
+    top: 1048px;
+    left: 240px;
+    width: 1440px;
+    height: 120px;
+    font-size: 24px;
+    font-family: Manrope;
+}
+.group-child7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 330px;
+    height: 454.5px;
+}
+.icon-100-1 {
+    position: absolute;
+    top: 322.34px;
+    left: 202px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.tailored-house-insurance-container {
+    position: absolute;
+    top: 40.55px;
+    left: 24.13px;
+}
+.get-house-insurance {
+    position: absolute;
+    top: 159.29px;
+    left: 24.13px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 283.1px;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 330px;
+    height: 454.5px;
+}
+.group-icon1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon2 {
+    position: absolute;
+    height: 28.48%;
+    width: 99.09%;
+    top: 71.45%;
+    right: 0.91%;
+    bottom: 0.07%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon3 {
+    position: absolute;
+    height: 9.09%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 90.91%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon4 {
+    position: absolute;
+    height: 9.09%;
+    width: 100%;
+    top: 30.31%;
+    right: 0%;
+    bottom: 60.6%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon5 {
+    position: absolute;
+    height: 9.09%;
+    width: 100%;
+    top: 60.62%;
+    right: 0%;
+    bottom: 30.29%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon6 {
+    position: absolute;
+    height: 9.09%;
+    width: 100%;
+    top: 90.93%;
+    right: 0%;
+    bottom: -0.02%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group2 {
+    position: absolute;
+    height: 53.43%;
+    width: 51.06%;
+    top: 0%;
+    right: 45.49%;
+    bottom: 46.57%;
+    left: 3.44%;
+}
+.group-icon7 {
+    position: absolute;
+    height: 15.58%;
+    width: 19.09%;
+    top: 15.64%;
+    right: -0.01%;
+    bottom: 68.79%;
+    left: 80.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group1 {
+    position: absolute;
+    height: 59.7%;
+    width: 78.67%;
+    top: 32.64%;
+    right: 12.48%;
+    bottom: 7.66%;
+    left: 8.86%;
+}
+.group {
+    position: absolute;
+    height: 100%;
+    width: 83.9%;
+    top: 0%;
+    right: 8.05%;
+    bottom: 0%;
+    left: 8.05%;
+}
+.claim-1 {
+    position: absolute;
+    top: -0.37px;
+    left: -0.35px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.icon-100-11 {
+    position: absolute;
+    top: 322.34px;
+    left: 202.74px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.outstanding-claims-experience {
+    position: absolute;
+    top: 40.55px;
+    left: 21.74px;
+    display: inline-block;
+    width: 275.5px;
+}
+.take-advantage-of {
+    position: absolute;
+    top: 159.29px;
+    left: 21.74px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 289.3px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 368px;
+    width: 330px;
+    height: 454.5px;
+}
+.icon-100-12 {
+    position: absolute;
+    top: 322.34px;
+    left: 202.74px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.some-of-the {
+    position: absolute;
+    top: 40.55px;
+    left: 21.74px;
+    display: inline-block;
+    width: 276.3px;
+}
+.get-peace-of {
+    position: absolute;
+    top: 159.29px;
+    left: 21.74px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 296.7px;
+}
+.rectangle-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 736px;
+    width: 330px;
+    height: 454.5px;
+}
+.icon-100-13 {
+    position: absolute;
+    top: 322.34px;
+    left: 206px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.bundle-your-house {
+    position: absolute;
+    top: 40.55px;
+    left: 34.88px;
+    display: inline-block;
+    width: 250px;
+}
+.get-the-best {
+    position: absolute;
+    top: 159.29px;
+    left: 34.88px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 264.3px;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 1104px;
+    width: 330px;
+    height: 454.5px;
+}
+.group-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1434px;
+    height: 454.5px;
+}
+.group-wrapper6 {
+    position: absolute;
+    top: 200.44px;
+    left: 0px;
+    width: 1434px;
+    height: 454.5px;
+}
+.why-choose {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 838.7px;
+}
+.your-house-is {
+    position: absolute;
+    top: 76.8px;
+    left: 126px;
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 622px;
+}
+.why-choose-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-wrapper7 {
+    position: absolute;
+    top: 0px;
+    left: 297.66px;
+    width: 838.7px;
+    height: 138.8px;
+    text-align: center;
+    font-size: 42px;
+}
+.group-parent8 {
+    position: absolute;
+    top: 142.59px;
+    left: 243.38px;
+    width: 1434px;
+    height: 655px;
+}
+.about-hero-background-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 940.1px;
+}
+.home-inner {
+    position: absolute;
+    top: 2216px;
+    left: -0.76px;
+    width: 1921px;
+    height: 940.1px;
+    font-size: 24px;
+}
+.group-child11 {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 803px;
+}
+.feature-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fcfcfc;
+    width: 1920px;
+    height: 1024px;
+    overflow: hidden;
+}
+.rectangle-parent10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1024px;
+}
+.icon-100-14 {
+    position: absolute;
+    top: 0px;
+    left: 130.02px;
+    box-shadow: 0px 4px 6px -2px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 4px;
+    background-color: #fff;
+    width: 524.4px;
+    height: 502.3px;
+    overflow: hidden;
+    transform:  rotate(15deg);
+    transform-origin: 0 0;
+}
+.icon-100-1-wrapper {
+    position: absolute;
+    top: 25.53px;
+    left: 37.99px;
+    width: 636.5px;
+    height: 620.9px;
+}
+.compare-quotes-purchase-and-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 558px;
+    height: 23px;
+}
+.group-wrapper10 {
+    position: absolute;
+    top: 237.92px;
+    left: 0px;
+    width: 558px;
+    height: 23px;
+}
+.as-canadas-first-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 190%;
+    display: inline-block;
+    width: 621.4px;
+}
+.as-canadas-first-full-service-wrapper {
+    position: absolute;
+    top: 283.5px;
+    left: 0px;
+    width: 621.4px;
+    height: 272px;
+}
+.no-fuss-just {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 40px;
+    line-height: 48px;
+    display: inline-block;
+    color: #121d2f;
+    width: 544px;
+}
+.we-will-find-container {
+    position: absolute;
+    top: 163px;
+    left: 0px;
+    line-height: 170%;
+    color: #121d2f;
+}
+.group-parent13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 621.4px;
+    height: 555.5px;
+}
+.button-with-icon2 {
+    position: absolute;
+    height: 7.18%;
+    width: 23.66%;
+    top: 92.82%;
+    right: 76.34%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+.group-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 791.53px;
+    width: 621.4px;
+    height: 668.4px;
+}
+.group-icon8 {
+    position: absolute;
+    height: 100%;
+    width: 48.02%;
+    top: 0%;
+    right: -0.01%;
+    bottom: 0%;
+    left: 51.99%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon9 {
+    position: absolute;
+    height: 100%;
+    width: 48.02%;
+    top: 0%;
+    right: 51.98%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group6 {
+    position: absolute;
+    height: 100%;
+    width: 65.81%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 34.19%;
+}
+.group-icon10 {
+    position: absolute;
+    height: 100%;
+    width: 31.6%;
+    top: 0%;
+    right: 68.4%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group5 {
+    position: absolute;
+    height: 81.8%;
+    width: 81.23%;
+    top: 0%;
+    right: 9.39%;
+    bottom: 18.2%;
+    left: 9.39%;
+}
+.group-icon11 {
+    position: absolute;
+    height: 0.03%;
+    width: 100%;
+    top: 99.96%;
+    right: 0%;
+    bottom: 0.01%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group4 {
+    position: absolute;
+    height: 90.77%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 9.23%;
+    left: 0%;
+}
+.group-icon12 {
+    position: absolute;
+    height: 4.81%;
+    width: 89.16%;
+    top: 95.21%;
+    right: 5.42%;
+    bottom: -0.01%;
+    left: 5.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group3 {
+    position: absolute;
+    height: 89%;
+    width: 100%;
+    top: 7.71%;
+    right: 0%;
+    bottom: 3.3%;
+    left: 0%;
+}
+.group-icon13 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -7.23%;
+    right: 27.09%;
+    bottom: 78.19%;
+    left: -0.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.dropdown {
+    margin-top: 10px;
+    padding: 5px;
+    display: none;
+    position: fixed;
+    width: 253px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #f4e8e8;
+    box-shadow: 0px 12px 16px -4px #10182814, -1px 3px 6px 4px #10182808;
+    overflow: inherit;
+    z-index: 1;
+    top: 102px;
+}
+.dropdown-option{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    /* background-color: #f8f8f8; */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    /* align-items: center; */
+}
+
+.dropdown-option:hover {
+    background-color: #e8e8e8;
+}
+
+.dropdown-option .line1 {
+    width: 125px;
+    position: fixed;
+    font-size: 16px;
+    line-height: 170%;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    color: #373737;
+    text-align: left;
+}
+
+.dropdown-option .line2 {
+    width: auto;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 300%;
+    font-family: 'Plus Jakarta Sans';
+    color: #7f7c7c;
+    text-align: left;
+    display: inline-block;
+    top: 29%;
+}
+
+.group-icon14 {
+    position: absolute;
+    height: 4.04%;
+    width: 6.96%;
+    top: 6.68%;
+    right: 58.24%;
+    bottom: 89.29%;
+    left: 34.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon15 {
+    position: absolute;
+    height: 37.22%;
+    width: 22.89%;
+    top: 0%;
+    right: 36.58%;
+    bottom: 62.78%;
+    left: 40.53%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon16 {
+    position: absolute;
+    height: 82.53%;
+    width: 24.39%;
+    top: 17.47%;
+    right: 2.82%;
+    bottom: 0%;
+    left: 72.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon17 {
+    position: absolute;
+    height: 6.54%;
+    width: 11.31%;
+    top: 2.32%;
+    right: 20.41%;
+    bottom: 91.15%;
+    left: 68.29%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon18 {
+    position: absolute;
+    height: 6.54%;
+    width: 11.31%;
+    top: 32.5%;
+    right: 82.3%;
+    bottom: 60.97%;
+    left: 6.4%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon19 {
+    position: absolute;
+    height: 4.04%;
+    width: 6.96%;
+    top: 13.15%;
+    right: 5.48%;
+    bottom: 82.81%;
+    left: 87.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon20 {
+    position: absolute;
+    height: 4.04%;
+    width: 6.96%;
+    top: 0.31%;
+    right: 84.89%;
+    bottom: 95.66%;
+    left: 8.15%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.background-complete {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 6.54%;
+    right: 0%;
+    bottom: 10.22%;
+    left: 0%;
+}
+.background-simple-icon {
+    position: absolute;
+    height: 69.24%;
+    width: 76.28%;
+    top: 8.78%;
+    right: 7.91%;
+    bottom: 21.98%;
+    left: 15.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+}
+.shadow-icon {
+    position: absolute;
+    height: 9.06%;
+    width: 82.63%;
+    top: 87.2%;
+    right: 8.13%;
+    bottom: 3.74%;
+    left: 9.24%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.tree-icon {
+    position: absolute;
+    height: 48.64%;
+    width: 21.29%;
+    top: 41.8%;
+    right: 74.13%;
+    bottom: 9.56%;
+    left: 4.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.speech-bubble-icon {
+    position: absolute;
+    height: 9.26%;
+    width: 6.51%;
+    top: 19.6%;
+    right: 17.45%;
+    bottom: 71.14%;
+    left: 76.04%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.document-icon {
+    position: absolute;
+    height: 55.88%;
+    width: 30.75%;
+    top: 8.92%;
+    right: 58.76%;
+    bottom: 35.2%;
+    left: 10.49%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.house-icon {
+    position: absolute;
+    height: 57.78%;
+    width: 59.47%;
+    top: 32.31%;
+    right: 20.49%;
+    bottom: 9.91%;
+    left: 20.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.characters-icon {
+    position: absolute;
+    height: 68.58%;
+    width: 29.37%;
+    top: 26.45%;
+    right: 6.21%;
+    bottom: 4.97%;
+    left: 64.42%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.home-insurance-1 {
+    position: absolute;
+    top: 57.5px;
+    left: 0px;
+    width: 750px;
+    height: 500px;
+    overflow: hidden;
+}
+.group-parent11 {
+    position: absolute;
+    top: 177.79px;
+    left: 240.07px;
+    width: 1413px;
+    height: 668.4px;
+}
+.group-parent10 {
+    position: absolute;
+    top: 1192px;
+    left: -0.07px;
+    width: 1920px;
+    height: 1024px;
+}
+.group-child12 {
+    position: absolute;
+    top: 38.53px;
+    left: calc(50% - 960px);
+    background: linear-gradient(90deg, #14677d, #29474f);
+    width: 1920px;
+    height: 400.6px;
+}
+.group-child13 {
+    position: absolute;
+    height: 29.13%;
+    width: 15.03%;
+    top: 70.44%;
+    right: 12.87%;
+    bottom: 0.43%;
+    left: 72.11%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button-with-icon3 {
+    position: absolute;
+    height: 30.9%;
+    width: 44.81%;
+    top: 69.1%;
+    right: 55.19%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.chat-with-our {
+    position: absolute;
+    top: 63.02px;
+    left: 0px;
+    line-height: 170%;
+    display: inline-block;
+    width: 553.4px;
+}
+.chat-with-our-licensed-advisor-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 125px;
+}
+.group-wrapper12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 125px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.group-wrapper11 {
+    position: absolute;
+    height: 47.16%;
+    width: 28.82%;
+    top: 30.8%;
+    right: 54.89%;
+    bottom: 22.03%;
+    left: 16.29%;
+}
+.group-child14 {
+    position: absolute;
+    height: 99.57%;
+    width: 14.37%;
+    top: 0%;
+    right: 17.58%;
+    bottom: 0.43%;
+    left: 68.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent11 {
+    position: absolute;
+    top: 4191.63px;
+    left: calc(50% - 960px);
+    width: 1920px;
+    height: 439.1px;
+    text-align: center;
+    font-size: 21.5px;
+    color: #fff;
+}
+.group-child15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 1552.9px;
+}
+.the-main-piece {
+    position: absolute;
+    top: 110.23px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 170%;
+    font-weight: 500;
+    display: inline-block;
+    width: 614.5px;
+}
+.exact-address {
+    margin-bottom: 0px;
+}
+.your-current-policy {
+    font-weight: 500;
+    font-family: 'Plus Jakarta Sans';
+}
+.claims-history {
+    font-family: 'Plus Jakarta Sans';
+}
+.exact-address-insurance-inform {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 24px;
+}
+.exact-address-insurance-container {
+    position: absolute;
+    top: 274.49px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 210%;
+    display: inline-block;
+    width: 655.7px;
+}
+.what-information-is-needed-for-parent {
+    position: absolute;
+    top: 26.52px;
+    left: 0px;
+    width: 655.7px;
+    height: 578.5px;
+}
+.group-child16 {
+    position: absolute;
+    top: 0px;
+    left: 702.99px;
+    width: 719.9px;
+    height: 569.5px;
+}
+.group-parent15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1422.9px;
+    height: 605px;
+}
+.how-can-i {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 620px;
+}
+.there-are-discounts {
+    position: absolute;
+    top: 111.51px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 170%;
+    font-weight: 500;
+    display: inline-block;
+    width: 642.9px;
+}
+.when-you-bundle-insurance-poli {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 24px;
+}
+.when-you-bundle-container {
+    position: absolute;
+    top: 203.07px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 186%;
+    font-weight: 500;
+    display: inline-block;
+    width: 621px;
+}
+.how-can-i-get-a-more-affordabl-parent {
+    position: absolute;
+    top: 0px;
+    left: 759.13px;
+    width: 642.9px;
+    height: 500.1px;
+}
+.group-child17 {
+    position: absolute;
+    top: 13.5px;
+    left: 0px;
+    width: 572.7px;
+    height: 524.4px;
+    object-fit: cover;
+}
+.group-parent16 {
+    position: absolute;
+    top: 707.04px;
+    left: 20.91px;
+    width: 1402px;
+    height: 537.9px;
+}
+.group-parent14 {
+    position: absolute;
+    top: 138.27px;
+    left: 256.93px;
+    width: 1422.9px;
+    height: 1245px;
+}
+.rectangle-parent12 {
+    position: absolute;
+    top: 4624.45px;
+    left: 0.14px;
+    width: 1919.9px;
+    height: 1552.9px;
+    font-size: 36px;
+}
+.background-complete-icon {
+    position: absolute;
+    height: 69.3%;
+    width: 100%;
+    top: 10.99%;
+    right: 0%;
+    bottom: 19.71%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.background-simple-icon1 {
+    position: absolute;
+    height: 53.16%;
+    width: 75.5%;
+    top: 16.25%;
+    right: 13.06%;
+    bottom: 30.59%;
+    left: 11.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+}
+.shadow-icon1 {
+    position: absolute;
+    height: 4.52%;
+    width: 77.56%;
+    top: 80.21%;
+    right: 11.22%;
+    bottom: 15.27%;
+    left: 11.22%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.character-icon {
+    position: absolute;
+    height: 56.8%;
+    width: 15.94%;
+    top: 25.64%;
+    right: 16.63%;
+    bottom: 17.56%;
+    left: 67.43%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.building-icon {
+    position: absolute;
+    height: 36.7%;
+    width: 23.42%;
+    top: 44.69%;
+    right: 60.64%;
+    bottom: 18.61%;
+    left: 15.94%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon21 {
+    position: absolute;
+    height: 95.05%;
+    width: 100%;
+    top: 4.97%;
+    right: 0%;
+    bottom: -0.02%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 84.55%;
+    width: 88.18%;
+    top: 10.21%;
+    right: 4.12%;
+    bottom: 5.23%;
+    left: 7.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon2 {
+    position: absolute;
+    height: 3.96%;
+    width: 31.57%;
+    top: 17.35%;
+    right: 37.76%;
+    bottom: 78.69%;
+    left: 30.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon22 {
+    position: absolute;
+    height: 3.96%;
+    width: 63.7%;
+    top: 46.11%;
+    right: 17.44%;
+    bottom: 49.93%;
+    left: 18.86%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon23 {
+    position: absolute;
+    height: 21.05%;
+    width: 70.18%;
+    top: 0%;
+    right: 1.02%;
+    bottom: 78.95%;
+    left: 28.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon24 {
+    position: absolute;
+    height: 21.05%;
+    width: 100%;
+    top: 79.1%;
+    right: 0%;
+    bottom: -0.16%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group8 {
+    position: absolute;
+    height: 3.27%;
+    width: 41.14%;
+    top: 26.54%;
+    right: 41.17%;
+    bottom: 70.19%;
+    left: 17.7%;
+}
+.group-icon25 {
+    position: absolute;
+    height: 16.74%;
+    width: 63.53%;
+    top: 25.97%;
+    right: 18.62%;
+    bottom: 57.29%;
+    left: 17.85%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon26 {
+    position: absolute;
+    height: 100%;
+    width: 31.23%;
+    top: 0%;
+    right: 68.77%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon27 {
+    position: absolute;
+    height: 100%;
+    width: 31.23%;
+    top: 0%;
+    right: 0.02%;
+    bottom: 0%;
+    left: 68.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group9 {
+    position: absolute;
+    height: 0.69%;
+    width: 65.05%;
+    top: 90.58%;
+    right: 10.27%;
+    bottom: 8.73%;
+    left: 24.67%;
+}
+.group-icon28 {
+    position: absolute;
+    height: 11.23%;
+    width: 59.09%;
+    top: 69.51%;
+    right: 11.99%;
+    bottom: 19.26%;
+    left: 28.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon29 {
+    position: absolute;
+    height: 13.12%;
+    width: 66.01%;
+    top: 53.09%;
+    right: 14.43%;
+    bottom: 33.79%;
+    left: 19.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon30 {
+    position: absolute;
+    height: 10.11%;
+    width: 4.56%;
+    top: 69.98%;
+    right: 72.45%;
+    bottom: 19.91%;
+    left: 22.99%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon31 {
+    position: absolute;
+    height: 13.12%;
+    width: 31.91%;
+    top: 0%;
+    right: 38.46%;
+    bottom: 86.88%;
+    left: 29.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon32 {
+    position: absolute;
+    height: 13.3%;
+    width: 39.56%;
+    top: 79.48%;
+    right: 16.25%;
+    bottom: 7.22%;
+    left: 44.18%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.form {
+    position: absolute;
+    height: 46.48%;
+    width: 35.54%;
+    top: 34.77%;
+    right: 31.04%;
+    bottom: 18.75%;
+    left: 33.42%;
+}
+.home-insurance-calculator-1 {
+    position: absolute;
+    top: -88.64px;
+    left: -88.79px;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+.icon-100-15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #d7f7ff;
+    width: 402px;
+    height: 419px;
+    overflow: hidden;
+}
+.icon-100-1-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 402px;
+    height: 419px;
+}
+.group-wrapper14 {
+    position: absolute;
+    top: 116.42px;
+    left: 957.03px;
+    width: 402px;
+    height: 419px;
+}
+.when-trying-to {
+    margin: 0;
+    font-weight: 500;
+}
+.when-trying-to-container {
+    position: absolute;
+    top: 80.35px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 200%;
+    display: inline-block;
+    width: 714px;
+}
+.how-much-home-insurance-do-i-n-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 714px;
+    height: 639.4px;
+}
+.button-with-icon4 {
+    position: absolute;
+    height: 6.69%;
+    width: 20.59%;
+    top: 93.31%;
+    right: 79.41%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+.group-parent18 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 714px;
+    height: 717.3px;
+}
+.group-parent17 {
+    position: absolute;
+    top: 3315.22px;
+    left: 243.78px;
+    width: 1359px;
+    height: 717.3px;
+    font-size: 36px;
+}
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 24%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.b-insure-variants-item {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0%;
+    left: 44.11%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+}
+.group-child18 {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.17%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent19 {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 10.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.individual {
+    position: relative;
+}
+.individual-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 13.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 18.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.travel-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 10.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.support-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 13.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 122px;
+    overflow-x: hidden; /* Hide the horizontal scrollbar */
+    display: flex;
+    align-items: center; /* Vertically center the images */
+    /* animation: moveRight 10s linear infinite; */
+}
+.frame-parent-inner {
+    display: flex;
+	width: 200%; /* Double the width to accommodate the duplicated images */
+    animation: moveRight 10s linear infinite;
+	height: 122px;
+}
+
+.frame-parent-inner img {
+    flex-shrink: 0; /* Prevent images from shrinking */
+    margin-right: 10px; /* Adjust the gap between images as needed */
+}
+@keyframes moveRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%); /* Move left by 50% of the container's width */
+    }
+}
+.button-with-icon5 {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0%;
+    right: 9.72%;
+    bottom: 0%;
+    left: 72.54%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+.line-div {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+.search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-group {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 1920px;
+    height: 80px;
+    font-size: 16px;
+    color: #2b2b2b;
+}
+.group-child19 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 992px;
+}
+.icon {
+    position: absolute;
+    top: 21.84px;
+    left: 0px;
+    width: 261.4px;
+    height: 277.3px;
+}
+.icon1 {
+    position: absolute;
+    top: 325.64px;
+    left: 1182.18px;
+    width: 261.4px;
+    height: 277.3px;
+    object-fit: contain;
+}
+.logo-2 {
+    position: absolute;
+    top: 40px;
+    left: 22px;
+    background-color: #fff;
+    width: 200px;
+    height: 32px;
+    display: none;
+}
+.best-product-ever {
+    position: absolute;
+    top: 49.21px;
+    left: 22px;
+    line-height: 170%;
+    display: inline-block;
+    width: 268px;
+}
+.frame-child1 {
+    width: 17px;
+    position: relative;
+    border-top: 1px solid #8d96a6;
+    box-sizing: border-box;
+    height: 1px;
+}
+.line-parent {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-child {
+    position: absolute;
+    top: 356.37px;
+    left: 21.59px;
+    width: 117.7px;
+    height: 24px;
+}
+.testimonial-card {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 6px 20px rgba(37, 98, 204, 0.18);
+    border-radius: 24px;
+    background-color: #fff;
+    width: 312px;
+    height: 408px;
+}
+.testimonial-card-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 408px;
+}
+.group-wrapper16 {
+    position: absolute;
+    top: 97.71px;
+    left: 339.4px;
+    width: 312px;
+    height: 408px;
+}
+.line-group {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: right;
+    font-size: 16px;
+}
+.testimonial-card-item {
+    position: absolute;
+    top: 356.07px;
+    left: 22.19px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper17 {
+    position: absolute;
+    top: 0px;
+    left: 678.8px;
+    width: 312px;
+    height: 408px;
+}
+.line-container {
+    position: absolute;
+    top: 363.34px;
+    left: 136.2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-inner {
+    position: absolute;
+    top: 356.37px;
+    left: 18.55px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper18 {
+    position: absolute;
+    top: 97.71px;
+    left: 1018.2px;
+    width: 312px;
+    height: 408px;
+}
+.frame-div {
+    position: absolute;
+    top: 105.83px;
+    left: 93.4px;
+    width: 219px;
+    height: 300px;
+    overflow: hidden;
+    opacity: 0.2;
+}
+.testimonial-card-child1 {
+    position: absolute;
+    top: 356.07px;
+    left: 21.98px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-parent21 {
+    position: absolute;
+    top: 183px;
+    left: 0px;
+    width: 1330.2px;
+    height: 505.7px;
+}
+.what-people-say {
+    position: relative;
+    line-height: 48px;
+}
+.what-people-say-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.our-customer-are-container {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.frame-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.frame-wrapper {
+    position: absolute;
+    top: calc(50% - 344.35px);
+    left: calc(50% - 162.2px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent20 {
+    position: absolute;
+    top: 0px;
+    left: 56.78px;
+    width: 1330.2px;
+    height: 688.7px;
+}
+.container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.group-wrapper15 {
+    position: absolute;
+    top: 151.66px;
+    left: 237.67px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.rectangle-parent13 {
+    position: absolute;
+    top: 6183.6px;
+    left: 0.14px;
+    width: 1919.9px;
+    height: 992px;
+    color: #5a5555;
+}
+.group-child20 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 45%;
+    overflow: hidden;
+}
+.i-have-a {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.i-have-a-different-question-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 298px;
+    height: 30px;
+}
+.arrow-left-s-line-icon {
+    position: absolute;
+    top: 2px;
+    left: 301px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent24 {
+    position: absolute;
+    top: 171.4px;
+    left: 0px;
+    width: 331px;
+    height: 32px;
+}
+.when-you-need-container {
+    position: absolute;
+    top: 70.9px;
+    left: calc(50% - 241px);
+    font-size: 21.5px;
+    line-height: 170%;
+}
+.frequently-asked-questions-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 144.9px;
+    font-size: 36px;
+}
+.group-parent23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 203.4px;
+}
+.is-it-mandatory {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 589.9px;
+}
+.is-it-mandatory-to-have-house-wrapper {
+    position: absolute;
+    top: 2.5px;
+    left: 0px;
+    width: 589.9px;
+    height: 25px;
+}
+.arrow-left-s-line-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 601.7px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+    transition: transform 0.3s;
+    transform: rotate(180deg);
+    cursor: pointer;
+}
+.arrow-left-s-line-icon1.rotate {
+    transform: rotate(0deg);
+  }
+  .content {
+    overflow: hidden;
+    max-height: 0; /* Collapsed by default */
+    transition: max-height 0.3s ease, padding 0.3s ease; /* Smooth transition */
+    padding: 0;
+}
+  
+.content.show {
+    padding: 15px 0; /* Adjust padding as needed */
+}
+.new-arrow-left-s-line-icon1 {
+    /*Adjust spacing as needed*/
+    transition: transform 0.3s ease; /* Smooth rotation */
+    flex-shrink: 0; /* Prevent arrow icon from shrinking */
+    transform: rotate(180deg);
+  }
+  
+  
+  /* Initial styles */
+  .new-content {
+    display: none;
+    overflow: hidden;
+  }
+  
+  /* Arrow rotation */
+  .new-arrow-left-s-line-icon1.collapsed {
+    transform: rotate(360deg);
+  }
+  
+  /* Section toggled open */
+  .new-content.active {
+    display: block;
+  }
+  .new-what-is-a-life-insurance-wrapper {
+    flex-grow: 1; /* Allow text to take available space */
+    flex-shrink: 1; /* Allow text to shrink i
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    white-space: nowrap; /* Prevent text from wrapping */
+
+}
+/* .group-parent25{
+    overflow: hidden;
+} */
+.group-parent27 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 30px;
+    display: flex;
+}
+.group-child21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 171.6px;
+}
+.in-canada-home {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 601.7px;
+}
+.rectangle-parent15 {
+    position: absolute;
+    top: 54.81px;
+    left: 0px;
+    width: 654.7px;
+    height: 171.6px;
+    font-size: 18px;
+}
+.group-parent26 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 654.7px;
+    /* height: 226.4px; */
+    font-size: 20px;
+}
+.how-much-is-house-insurance-in-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 514px;
+    height: 27px;
+}
+.group-parent29 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 631.7px;
+    height: 30px;
+    display: flex;
+}
+.group-child22 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 246.2px;
+}
+.on-a-monthly {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 595.8px;
+}
+.rectangle-parent16 {
+    position: absolute;
+    top: 50.59px;
+    left: 0px;
+    width: 654.7px;
+    height: 246.2px;
+    font-size: 18px;
+}
+.group-parent28 {
+    position: absolute;
+    display: flex;
+    top: 109.44px;
+    left: 0px;
+    width: 654.7px;
+    height: 296.8px;
+}
+.are-house-insurance-premiums-g-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 520px;
+    height: 27px;
+}
+.group-child23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 219.4px;
+}
+.rectangle-parent17 {
+    position: absolute;
+    top: 53.14px;
+    left: 0px;
+    width: 654.7px;
+    height: 219.4px;
+    font-size: 18px;
+}
+.group-parent30 {
+    position: relative;
+    top: 55.25px;
+    left: 0px;
+    width: 654.7px;
+    height: 272.5px;
+}
+.does-house-insurance {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 559px;
+}
+.does-house-insurance-cost-more-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 54px;
+}
+.group-parent33 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 55.6px;
+}
+.group-child24 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 214.5px;
+}
+.rectangle-parent18 {
+    position: absolute;
+    top: 77.84px;
+    left: 0px;
+    width: 654.7px;
+    height: 214.5px;
+    font-size: 18px;
+}
+.group-parent32 {
+    position: absolute;
+    display: flex;
+    top: 153.76px;
+    left: 0px;
+    width: 654.7px;
+    height: 292.4px;
+}
+.can-i-claim {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 559px;
+}
+.can-i-claim-a-broken-fence-on-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 64px;
+}
+.group-parent35 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 65.6px;
+}
+.group-child25 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 223px;
+}
+.rectangle-parent19 {
+    position: absolute;
+    top: 90.84px;
+    left: 0px;
+    width: 654.7px;
+    height: 223px;
+    font-size: 18px;
+}
+.group-parent34 {
+    position: absolute;
+    top: 230.12px;
+    left: 0px;
+    width: 654.7px;
+    height: 313.9px;
+}
+.group-parent25 {
+    position: absolute;
+    top: 0px;
+    left: 706.23px;
+    width: 654.7px;
+    height: 1500%;
+    font-size: 21.5px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    /* overflow: hidden; */
+
+}
+.group-parent22 {
+    position: absolute;
+    top: 147.9px;
+    left: 285.63px;
+    width: 1360.9px;
+    /* height: 40%; */
+    display: flex;
+}
+.rectangle-parent14 {
+    position: absolute;
+    top: 7175.62px;
+    left: -0.07px;
+    width: 1919.9px;
+    height: 1856.1px;
+    font-size: 24px;
+}
+.background-complete-icon1 {
+    position: absolute;
+    height: 90.07%;
+    width: 133.9%;
+    top: 0.01%;
+    right: -22.26%;
+    bottom: 9.91%;
+    left: -11.65%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.background-simple-icon2 {
+    position: absolute;
+    height: 69.08%;
+    width: 101.1%;
+    top: 6.86%;
+    right: -4.77%;
+    bottom: 24.06%;
+    left: 3.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+}
+.shadow-icon2 {
+    position: absolute;
+    height: 5.89%;
+    width: 103.86%;
+    top: 89.98%;
+    right: -7.24%;
+    bottom: 4.13%;
+    left: 3.38%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.building-icon1 {
+    position: absolute;
+    height: 47.71%;
+    width: 31.36%;
+    top: 43.81%;
+    right: 58.95%;
+    bottom: 8.49%;
+    left: 9.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon33 {
+    position: absolute;
+    height: 95.04%;
+    width: 100%;
+    top: 4.96%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon3 {
+    position: absolute;
+    height: 84.53%;
+    width: 88.19%;
+    top: 10.21%;
+    right: 4.11%;
+    bottom: 5.26%;
+    left: 7.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon4 {
+    position: absolute;
+    height: 3.96%;
+    width: 31.59%;
+    top: 17.35%;
+    right: 37.72%;
+    bottom: 78.7%;
+    left: 30.68%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon34 {
+    position: absolute;
+    height: 3.96%;
+    width: 63.7%;
+    top: 46.1%;
+    right: 17.44%;
+    bottom: 49.94%;
+    left: 18.86%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon35 {
+    position: absolute;
+    height: 21.08%;
+    width: 70.17%;
+    top: 0%;
+    right: 1.02%;
+    bottom: 78.92%;
+    left: 28.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon36 {
+    position: absolute;
+    height: 21.08%;
+    width: 100%;
+    top: 79.17%;
+    right: 0%;
+    bottom: -0.25%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group11 {
+    position: absolute;
+    height: 3.27%;
+    width: 41.14%;
+    top: 26.54%;
+    right: 41.16%;
+    bottom: 70.19%;
+    left: 17.7%;
+}
+.group-icon37 {
+    position: absolute;
+    height: 16.73%;
+    width: 63.55%;
+    top: 25.97%;
+    right: 18.6%;
+    bottom: 57.3%;
+    left: 17.86%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon38 {
+    position: absolute;
+    height: 100%;
+    width: 31.24%;
+    top: 0%;
+    right: 68.76%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon39 {
+    position: absolute;
+    height: 100%;
+    width: 31.24%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 68.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group12 {
+    position: absolute;
+    height: 0.69%;
+    width: 65.06%;
+    top: 90.56%;
+    right: 10.26%;
+    bottom: 8.75%;
+    left: 24.68%;
+}
+.group-icon40 {
+    position: absolute;
+    height: 11.22%;
+    width: 59.12%;
+    top: 69.5%;
+    right: 11.95%;
+    bottom: 19.29%;
+    left: 28.93%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon41 {
+    position: absolute;
+    height: 13.13%;
+    width: 66.01%;
+    top: 53.08%;
+    right: 14.42%;
+    bottom: 33.79%;
+    left: 19.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon42 {
+    position: absolute;
+    height: 10.14%;
+    width: 4.58%;
+    top: 69.97%;
+    right: 72.43%;
+    bottom: 19.89%;
+    left: 22.99%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon43 {
+    position: absolute;
+    height: 13.13%;
+    width: 31.95%;
+    top: 0%;
+    right: 38.41%;
+    bottom: 86.87%;
+    left: 29.64%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon44 {
+    position: absolute;
+    height: 13.28%;
+    width: 39.57%;
+    top: 79.47%;
+    right: 16.24%;
+    bottom: 7.24%;
+    left: 44.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.form1 {
+    position: absolute;
+    height: 60.42%;
+    width: 47.58%;
+    top: 30.92%;
+    right: 19.32%;
+    bottom: 8.67%;
+    left: 33.11%;
+}
+.home-insurance-calculator-11 {
+    position: absolute;
+    top: 3220.64px;
+    left: 969.94px;
+    width: 817px;
+    height: 841px;
+    overflow: hidden;
+}
+.home {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 8798px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+@media(max-width: 1285px){
+    .frame-group,.b-insure-variants-item{
+        margin-left: -200px;
+    }
+    .image-35-icon,.binsure{
+        margin-left: 240px;
+    }
+    .great-rates-and-expert-advice-parent{
+        margin-left: -240px;
+
+    }
+    .group-child1{
+        margin-right: 10px;
+
+    }
+    .rectangle-container{
+        margin-right: 440px;
+
+    }
+    .group-parent7{
+        margin-left: -240px;
+
+    }
+    .group-parent11{
+        margin-left: -240px;
+
+    }
+    .group-parent8{
+        margin-left: -240px;
+
+    }
+    .group-parent18{
+        margin-left: -240px;
+
+    }
+    .group-icon33{
+        margin-left: -320px;
+
+    }
+    .chat-with-our-licensed-advisor-parent{
+        margin-left: -40px;
+    }
+    .button-with-icon3{
+        margin-left: -80px;
+
+    }
+    .group-parent15{
+        margin-left: -250px;
+
+    }
+    .group-parent16{
+        margin-left: -250px;
+
+    }
+    .container{
+        margin-left: -250px;
+
+    }
+    .group-parent22{
+        margin-left: -250px;
+
+    }
+    .button-with-icon-parent{
+        margin-left: -230px;
+
+    }
+    .image-35-icon{
+        margin-left: -240px;
+
+    }
+    .group-container{
+        margin-left: -150px;
+    }
+    .quick-links-parent{
+        margin-left: -550px;
+
+    }
+    .terms-of-use-parent{
+        margin-left: -550px;
+
+    }
+}
+@media(max-width: 1150px){
+    .frame-group,.b-insure-variants-item{
+        margin-left: -200px;
+    }
+    .image-35-icon,.binsure{
+        margin-left: 240px;
+    }
+    .great-rates-and-expert-advice-parent{
+        margin-left: -240px;
+
+    }
+    .group-child1{
+        margin-right: 10px;
+
+    }
+    .rectangle-container{
+        margin-right: 440px;
+
+    }
+    .group-parent7{
+        margin-left: -240px;
+
+    }
+    .group-parent11{
+        transform: scale(0.9);
+        margin-left: -350px;
+
+    }
+    .group-parent8{
+        transform: scale(0.9);
+        margin-left: -300px;
+
+    }
+    .group-parent18{
+        transform: scale(0.9);
+        margin-left: -250px;
+
+    }
+    .group-icon33{
+        transform: scale(0.9);
+        margin-left: -500px;
+
+    }
+    .chat-with-our-licensed-advisor-parent{
+        transform: scale(0.9);
+
+        margin-left: -40px;
+    }
+    .button-with-icon3{
+        transform: scale(0.9);
+        margin-left: -80px;
+
+    }
+    .group-parent15{
+        transform: scale(0.8);
+        margin-left: -250px;
+
+    }
+    .group-parent16{
+        transform: scale(0.8);
+
+        margin-left: -250px;
+
+    }
+    .container{
+        transform: scale(0.8);
+        margin-left: -250px;
+
+    }
+    .group-parent22{
+        margin-left: -250px;
+
+    }
+    .button-with-icon-parent{
+        transform: scale(.8);
+        margin-left: -380px;
+
+    }
+    .image-35-icon{
+        margin-left: -240px;
+
+    }
+    .group-container{
+        margin-left: -150px;
+    }
+    .quick-links-parent{
+        margin-left: -550px;
+
+    }
+    .terms-of-use-parent{
+        margin-left: -550px;
+
+    }
+    .group-child14,.group-child13{
+        margin-right: 950px;
+    }
+    .group-parent25{
+        margin-left: -200px;
+    }
+}
+@media(max-width: 950px){
+    .homee{
+        transform: scale(0.6);
+        width: 170%;
+    }
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+

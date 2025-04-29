@@ -1,0 +1,2993 @@
+body{
+    height: 100vh;
+}
+.car-I{
+    transform: scale(0.8);
+    transform-origin: top left;
+    width: 125%;
+    height: 125%;
+}
+.image-1-icon {
+    position: absolute;
+    top: 366px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.image-2-icon {
+    position: absolute;
+    top: 366px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655.01px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 0.01px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.image-2-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 1433.01px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #353535;
+    width: 1920px;
+    height: 599px;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-item {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-frame {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.group-wrapper {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.blank-line {
+    margin: 0;
+}
+
+.po-box-9999-container {
+    position: absolute;
+    top: 160px;
+    left: 0px;
+}
+.group-container {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.group-inner {
+    position: absolute;
+    top: 485px;
+    left: 240px;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+    width: 1442px;
+    height: 2px;
+}
+.quick-links {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+}
+.careers {
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+.contact-us {
+    position: absolute;
+    top: 144px;
+    left: 0px;
+}
+.insurance {
+    position: absolute;
+    top: 186px;
+    left: 0px;
+}
+.blog {
+    position: absolute;
+    top: 228px;
+    left: 0px;
+}
+.faqs {
+    position: absolute;
+    top: 270px;
+    left: 0px;
+}
+.about {
+    position: absolute;
+    top: 312px;
+    left: 0px;
+}
+.quick-links-parent {
+    position: absolute;
+    top: 81px;
+    left: 1282px;
+    width: 111px;
+    height: 327px;
+}
+.terms-of-use {
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+.cookie-policy {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+}
+.terms-of-use-parent {
+    position: absolute;
+    top: 81px;
+    left: 1522px;
+    width: 132px;
+    height: 157px;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 522px;
+    left: 250px;
+    white-space: pre-wrap;
+}
+.group-icon {
+    position: absolute;
+    top: 446px;
+    left: 1757px;
+    width: 78px;
+    height: 78px;
+    cursor: pointer;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 166.93px;
+    left: 0.07px;
+    width: 1920px;
+    height: 599px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #2079ff;
+    width: 1921px;
+    height: 166.9px;
+}
+.add-listing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.add-listing-1 {
+    position: absolute;
+    top: 3px;
+    left: 27px;
+
+}
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.button-with-icon {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 0%;
+    bottom: 14.84%;
+    left: 82.78%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 18.36%;
+    bottom: 14.84%;
+    left: 64.41%;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    color: #046eb6;
+}
+.join-the-team {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    line-height: 170%;
+}
+.change-insurance-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.join-the-team-that-is-making-h-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+}
+.group-wrapper1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+    text-align: left;
+}
+.button-with-icon-parent {
+    position: absolute;
+    height: 54.52%;
+    width: 74.96%;
+    top: 22.59%;
+    right: 12.52%;
+    bottom: 22.89%;
+    left: 12.52%;
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 166.9px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.group-parent {
+    position: absolute;
+    top: 9519.64px;
+    left: -0.06px;
+    width: 1921px;
+    height: 765.9px;
+    font-size: 20px;
+    color: #fff;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1921px;
+    height: 904px;
+}
+.trusted-by-over-container {
+    position: absolute;
+    top: 0px;
+    left: 59.97px;
+    line-height: 153%;
+    display: inline-block;
+    width: 232.1px;
+}
+.vector-icon {
+    position: absolute;
+    height: 73.21%;
+    width: 13.01%;
+    top: 14.32%;
+    right: 86.99%;
+    bottom: 12.47%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.trusted-by-over-10000-canadia-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 292.1px;
+    height: 56px;
+}
+.save-up-to {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 153%;
+    display: inline-block;
+    width: 193.9px;
+}
+.save-up-to-35-on-your-insuran-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 62.97px;
+    width: 193.9px;
+    height: 56px;
+}
+.flying-money-1-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 41px;
+    height: 40px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent4 {
+    position: absolute;
+    top: 0px;
+    left: 334.68px;
+    width: 256.9px;
+    height: 56px;
+}
+.group-parent3 {
+    position: absolute;
+    top: 355.12px;
+    left: 0px;
+    width: 591.6px;
+    height: 56px;
+}
+.with-us-you-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    display: inline-block;
+    width: 799.2px;
+    font-family: Manrope;
+}
+.buttons-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #0086aa;
+    box-sizing: border-box;
+}
+.get-instant-quote {
+    position: absolute;
+    top: 32.03%;
+    left: 15.04%;
+    letter-spacing: 0.01em;
+}
+.buttons {
+    position: absolute;
+    top: 448.64px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 226px;
+    height: 64px;
+    text-align: center;
+    color: #0086aa;
+}
+.get-a-personalized {
+    position: absolute;
+    top: 235.56px;
+    left: 5.01px;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    line-height: 170%;
+    display: inline-block;
+    width: 737px;
+}
+.group-parent2 {
+    position: absolute;
+    top: 56.7px;
+    left: 0px;
+    width: 799.2px;
+    height: 512.6px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    box-shadow: 0px -4px 6px 6px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 481.5px;
+    height: 626px;
+}
+.terms-of-use1 {
+    text-decoration: underline;
+}
+.i-agree-to-container {
+    position: absolute;
+    top: 542.02px;
+    left: 43.44px;
+    line-height: 170%;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+    width: 379.6px;
+    height: 60px;
+}
+.get-a-free {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 189.5px);
+    width: 100%;
+    height: 99%;
+    background-color: transparent;
+    border-color: transparent;
+    font-family: jakarata-sans;
+    color: white;
+    cursor: pointer;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: bold;
+}
+.group-wrapper4 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 379.6px;
+    height: 60px;
+}
+.group-wrapper3 {
+    position: absolute;
+    top: 423.12px;
+    right: 0.1px;
+    width: 379.6px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.your-name {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+}
+.country-code-select {
+    padding: 10px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    border-radius: 50px 0 0 50px; /* Rounded corners for the left side */
+    font-family: 'Plus Jakarta Sans';
+    font-size: large;
+    height: calc(100% - 22px); /* Adjust height to match the input field */
+    box-sizing: border-box;
+}
+.group-child3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    box-sizing: border-box;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    padding: 10px;
+    position: relative;
+}
+
+.input-wrapper .group-child3{
+    border-radius: 0 50px 50px 0;
+    width: 76%;
+    height: 47px;
+}
+ /* Hide the spinner for number input */
+ input[type=number]::-webkit-outer-spin-button,
+ input[type=number]::-webkit-inner-spin-button,
+ input[type=number] {
+     -webkit-appearance: none;
+     margin: 0;
+ }
+.your-name1 {
+    position: absolute;
+    top: 24.89%;
+    left: 5.45%;
+}
+.rectangle-parent2 {
+    position: absolute;
+    height: 66.67%;
+    width: 100%;
+    top: 33.33%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-family: Poppins;
+}
+.your-name-parent {
+    position: absolute;
+    height: 16.77%;
+    width: 99.97%;
+    top: 0%;
+    right: 0.03%;
+    bottom: 83.23%;
+    left: 0%;
+}
+.span {
+    color: #8c1823;
+}
+.contact-number {
+    position: absolute;
+    top: 24.89%;
+    left: 21.87%;
+}
+.div {
+    position: absolute;
+    top: 0.17%;
+    left: 0%;
+}
+.arrow-up-s-line-icon {
+    position: absolute;
+    height: 100%;
+    width: 40.68%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 59.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent {
+    position: absolute;
+    height: 44.44%;
+    width: 15.54%;
+    top: 27.78%;
+    right: 80.5%;
+    bottom: 27.78%;
+    left: 3.96%;
+}
+.group-parent6 {
+    position: absolute;
+    height: 65.85%;
+    width: 100%;
+    top: 34.15%;
+    right: -0.01%;
+    bottom: 0%;
+    left: 0.01%;
+    font-family: Poppins;
+}
+.contact-number-parent {
+    position: absolute;
+    height: 16.97%;
+    width: 99.97%;
+    top: 65.95%;
+    right: 0.03%;
+    bottom: 17.08%;
+    left: 0%;
+}
+.arrow-up-s-line-icon1 {
+    position: absolute;
+    height: 44.44%;
+    width: 6.32%;
+    top: 27.78%;
+    right: 5.11%;
+    bottom: 27.78%;
+    left: 88.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.weeks {
+    position: absolute;
+    top: 24.89%;
+    left: 5.27%;
+    line-height: 26px;
+}
+.rectangle-parent4 {
+    position: absolute;
+    height: 63.53%;
+    width: 100%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.planning-to-buy {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-parent7 {
+    position: absolute;
+    height: 17.59%;
+    width: 99.95%;
+    top: 21.43%;
+    right: 0.05%;
+    bottom: 60.98%;
+    left: 0%;
+    font-family: Poppins;
+}
+.email-address {
+    position: absolute;
+    top: 24.89%;
+    left: 5.44%;
+}
+.rectangle-parent5 {
+    position: absolute;
+    height: 63.53%;
+    width: 99.97%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0.02%;
+}
+.group-parent8 {
+    position: absolute;
+    height: 17.59%;
+    width: 100%;
+    top: 43.69%;
+    right: 0%;
+    bottom: 38.72%;
+    left: 0%;
+    font-family: Poppins;
+}
+.group-parent5 {
+    position: absolute;
+    top: 36.37px;
+    right: 58.36px;
+    width: 379.7px;
+    height: 483.1px;
+    color: #5a5555;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-container {
+    position: absolute;
+    top: 0px;
+    right: -0.04px;
+    width: 481.5px;
+    height: 626px;
+    font-size: 16px;
+    color: #5c6163;
+    font-family: Lora;
+}
+.group-parent1 {
+    position: absolute;
+    top: 138.98px;
+    left: 270.88px;
+    width: 1389.8px;
+    height: 626px;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 904px;
+}
+.car-insurance-inner {
+    position: absolute;
+    top: 120px;
+    left: -0.07px;
+    width: 1921px;
+    height: 904px;
+    font-size: 18px;
+}
+.get-instant-travel-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 170%;
+}
+.get-instant-travel-insurance-q-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    width: 411px;
+    height: 82px;
+}
+.image-11-icon {
+    position: absolute;
+    top: 16.4px;
+    left: 0px;
+    width: 120px;
+    height: 100.8px;
+    object-fit: cover;
+}
+.image-11-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 0px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-8-icon {
+    position: absolute;
+    top: 17.6px;
+    left: 14.8px;
+    width: 95.6px;
+    height: 84px;
+    object-fit: cover;
+}
+.image-8-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 144px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-12-icon {
+    position: absolute;
+    top: 16.8px;
+    left: 0px;
+    width: 113.6px;
+    height: 103.2px;
+    object-fit: cover;
+}
+.image-12-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 288px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-9-icon {
+    position: absolute;
+    top: 0px;
+    left: 14.8px;
+    width: 105.2px;
+    height: 120px;
+    object-fit: cover;
+}
+.image-9-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 432px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-child {
+    position: absolute;
+    top: 0.5px;
+    left: 576px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-item {
+    position: absolute;
+    top: 0.5px;
+    left: 720px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: 0.5px;
+    left: 864px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.image-16-icon {
+    position: absolute;
+    top: 15.6px;
+    left: 0px;
+    width: 120px;
+    height: 104.4px;
+    object-fit: cover;
+}
+.image-16-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1008px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-13-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1152px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 120px;
+    overflow-x: auto;
+}
+.group-parent9 {
+    position: absolute;
+    top: 1048px;
+    left: 240px;
+    width: 1440px;
+    height: 120px;
+    font-size: 24px;
+    font-family: Manrope;
+}
+.about-hero-background-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 1031.2px;
+}
+.why-choose {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 838.7px;
+}
+.we-help-canada-container {
+    position: absolute;
+    top: 76.8px;
+    left: 126px;
+    font-size: 18px;
+    line-height: 170%;
+}
+.why-choose-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-wrapper5 {
+    position: absolute;
+    top: 0px;
+    left: 282.38px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-child7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 472.6px;
+}
+.dropdown {
+    margin-top: 10px;
+    padding: 5px;
+    display: none;
+    position: fixed;
+    width: 253px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #f4e8e8;
+    box-shadow: 0px 12px 16px -4px #10182814, -1px 3px 6px 4px #10182808;
+    overflow: inherit;
+    z-index: 1;
+    top: 102px;
+}
+.dropdown-option{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    /* background-color: #f8f8f8; */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    /* align-items: center; */
+}
+
+.dropdown-option:hover {
+    background-color: #e8e8e8;
+}
+
+.dropdown-option .line1 {
+    width: 125px;
+    position: fixed;
+    font-size: 16px;
+    line-height: 170%;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    color: #373737;
+    text-align: left;
+}
+
+.dropdown-option .line2 {
+    width: auto;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 300%;
+    font-family: 'Plus Jakarta Sans';
+    color: #7f7c7c;
+    text-align: left;
+    display: inline-block;
+    top: 29%;
+}
+
+.group-icon1 {
+    position: absolute;
+    height: 100.67%;
+    width: 100.08%;
+    top: 0%;
+    right: 8.69%;
+    bottom: 43.33%;
+    left: 0.23%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon2 {
+    position: absolute;
+    height: 38.65%;
+    width: 100%;
+    top: 61.34%;
+    right: 0%;
+    bottom: 0.01%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon3 {
+    position: absolute;
+    height: 41.04%;
+    width: 33.85%;
+    top: 1.81%;
+    right: 59.6%;
+    bottom: 57.15%;
+    left: 6.54%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: -0.03%;
+    bottom: 0%;
+    left: 0.03%;
+}
+.car-insurance-4 {
+    position: absolute;
+    top: 1.58px;
+    left: 2px;
+    width: 96px;
+    height: 96px;
+    overflow: hidden;
+}
+.icon-100-1 {
+    position: absolute;
+    top: 347.12px;
+    left: 326px;
+    border-radius: 4px;
+    background-color: #fefefe;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.personalized-car-insurance-container {
+    position: absolute;
+    top: 40.55px;
+    left: 33.55px;
+}
+.get-car-insurance {
+    position: absolute;
+    top: 122.83px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 402.9px;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 472.6px;
+}
+.icon-100-11 {
+    position: absolute;
+    top: 347.12px;
+    left: 330.41px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.roadside-assistance {
+    position: absolute;
+    top: 40.55px;
+    left: 40.2px;
+}
+.drive-worry-free-with {
+    position: absolute;
+    top: 122.83px;
+    left: 40.2px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 390.2px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 489.28px;
+    width: 454.3px;
+    height: 472.6px;
+}
+.no-one-wants-container {
+    position: absolute;
+    top: 122.83px;
+    left: 40.2px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 372px;
+}
+.rectangle-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 978.56px;
+    width: 454.3px;
+    height: 472.6px;
+}
+.group-parent11 {
+    position: absolute;
+    top: 218.8px;
+    left: 0px;
+    width: 1432.8px;
+    height: 472.6px;
+    text-align: left;
+    font-size: 27px;
+    color: #000;
+}
+.group-parent10 {
+    position: absolute;
+    top: 169.89px;
+    left: 240.57px;
+    width: 1432.8px;
+    height: 691.4px;
+}
+.about-hero-background-group {
+    position: absolute;
+    top: 1193.61px;
+    left: -0.57px;
+    width: 1921px;
+    height: 1031.2px;
+    text-align: center;
+}
+.car-insurance-child {
+    position: absolute;
+    top: 7158.84px;
+    left: -0.07px;
+    background-color: #fcfcfc;
+    width: 1920px;
+    height: 1661.5px;
+}
+.group-child10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 526.7px;
+}
+.icon-100-13 {
+    position: absolute;
+    top: 393.77px;
+    left: 326px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.with-us-you {
+    position: absolute;
+    top: 108.16px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 383.6px;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 526.7px;
+}
+.icon-100-14 {
+    position: absolute;
+    top: 393.77px;
+    left: 330.41px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.motorcycle-insurance {
+    position: absolute;
+    top: 40.55px;
+    left: 40.2px;
+    line-height: 150%;
+}
+.motorcycle-motorcycle-insuranc {
+    position: absolute;
+    top: 108.16px;
+    left: 40.2px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 390.2px;
+}
+.rectangle-parent10 {
+    position: absolute;
+    top: 0px;
+    left: 489.28px;
+    width: 454.3px;
+    height: 526.7px;
+}
+.rectangle-parent11 {
+    position: absolute;
+    top: 0px;
+    left: 978.56px;
+    width: 454.3px;
+    height: 526.7px;
+}
+.group-parent13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1432.8px;
+    height: 526.7px;
+}
+.group-child13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 504.3px;
+}
+.icon-100-16 {
+    position: absolute;
+    top: 377.03px;
+    left: 326px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.snowmobile-insurance {
+    position: absolute;
+    top: 29.55px;
+    left: 33.55px;
+    line-height: 150%;
+}
+.head-out-for {
+    position: absolute;
+    top: 103.39px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 402.9px;
+}
+.rectangle-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 504.3px;
+}
+.group-wrapper8 {
+    position: absolute;
+    top: 554.74px;
+    left: 0px;
+    width: 454.3px;
+    height: 504.3px;
+}
+.group-wrapper9 {
+    position: absolute;
+    top: 554.74px;
+    left: 482.55px;
+    width: 454.3px;
+    height: 504.3px;
+}
+.group-wrapper10 {
+    position: absolute;
+    top: 554.74px;
+    left: 978.56px;
+    width: 454.3px;
+    height: 504.3px;
+}
+.group-parent12 {
+    position: absolute;
+    top: 7496.47px;
+    left: 243.58px;
+    width: 1432.8px;
+    height: 1059.1px;
+    font-size: 27px;
+}
+.find-the-right {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 376.5px);
+    line-height: 150%;
+}
+.car-rv-atv {
+    position: absolute;
+    top: 72px;
+    left: calc(50% - 336px);
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+}
+.find-the-right-coverage-for-yo-parent {
+    position: absolute;
+    top: 7331.47px;
+    left: calc(50% - 376.56px);
+    width: 753px;
+    height: 85px;
+    text-align: center;
+    font-size: 40px;
+    color: #121d2f;
+}
+.button-with-icon2 {
+    position: absolute;
+    height: 0.43%;
+    top: 77.44%;
+    bottom: 22.13%;
+    left: calc(50% - 113px);
+    border-radius: 8px;
+    background-color: #24bbe3;
+    width: 226px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    visibility: hidden;
+}
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 22%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.b-insure-variants-item {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0%;
+    left: 44.11%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+}
+.group-child16 {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.17%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent14 {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home {
+    position: relative;
+}
+.home-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.individual-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 12.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 15.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.travel-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.support-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 11.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 122px;
+    overflow-x: hidden; /* Hide the horizontal scrollbar */
+    display: flex;
+    align-items: center; /* Vertically center the images */
+    /* animation: moveRight 10s linear infinite; */
+}
+.frame-parent-inner {
+    display: flex;
+	width: 200%; /* Double the width to accommodate the duplicated images */
+    animation: moveRight 10s linear infinite;
+	height: 122px;
+}
+
+.frame-parent-inner img {
+    flex-shrink: 0; /* Prevent images from shrinking */
+    margin-right: 10px; /* Adjust the gap between images as needed */
+}
+@keyframes moveRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%); /* Move left by 50% of the container's width */
+    }
+}
+.button-with-icon3 {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0%;
+    right: 9.72%;
+    bottom: 0%;
+    left: 72.54%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+}
+.line-div {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+.search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-group {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 1920px;
+    height: 80px;
+    font-size: 16px;
+    color: #2b2b2b;
+}
+.group-child17 {
+    position: absolute;
+    top: 38.53px;
+    left: 0px;
+    background: linear-gradient(90deg, #14677d, #29474f);
+    width: 1920.1px;
+    height: 400.6px;
+}
+.group-child18 {
+    position: absolute;
+    height: 29.13%;
+    width: 15.03%;
+    top: 70.44%;
+    right: 12.87%;
+    bottom: 0.43%;
+    left: 72.11%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button-with-icon4 {
+    position: absolute;
+    height: 30.9%;
+    width: 44.81%;
+    top: 69.1%;
+    right: 55.19%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.chat-with-our {
+    position: absolute;
+    top: 63.02px;
+    left: 0px;
+    line-height: 170%;
+    display: inline-block;
+    width: 553.4px;
+}
+.chat-with-our-licensed-advisor-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 125px;
+}
+.group-wrapper12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 125px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.group-wrapper11 {
+    position: absolute;
+    height: 47.16%;
+    width: 28.82%;
+    top: 30.8%;
+    right: 54.89%;
+    bottom: 22.03%;
+    left: 16.29%;
+}
+.group-child19 {
+    position: absolute;
+    height: 99.57%;
+    width: 14.37%;
+    top: 0%;
+    right: 17.58%;
+    bottom: 0.43%;
+    left: 68.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.1px;
+    height: 439.1px;
+}
+.group-child20 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 992px;
+}
+.icon {
+    position: absolute;
+    top: 21.84px;
+    left: 0px;
+    width: 261.4px;
+    height: 277.3px;
+}
+.icon1 {
+    position: absolute;
+    top: 325.64px;
+    left: 1182.18px;
+    width: 261.4px;
+    height: 277.3px;
+    object-fit: contain;
+}
+.logo-2 {
+    position: absolute;
+    top: 40px;
+    left: 22px;
+    background-color: #fff;
+    width: 200px;
+    height: 32px;
+    display: none;
+}
+.best-product-ever {
+    position: absolute;
+    top: 49.21px;
+    left: 22px;
+    line-height: 170%;
+    display: inline-block;
+    width: 268px;
+}
+.frame-child1 {
+    width: 17px;
+    position: relative;
+    border-top: 1px solid #8d96a6;
+    box-sizing: border-box;
+    height: 1px;
+}
+.line-parent {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-child {
+    position: absolute;
+    top: 356.37px;
+    left: 21.59px;
+    width: 117.7px;
+    height: 24px;
+}
+.testimonial-card {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 6px 20px rgba(37, 98, 204, 0.18);
+    border-radius: 24px;
+    background-color: #fff;
+    width: 312px;
+    height: 408px;
+}
+.testimonial-card-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 408px;
+}
+.group-wrapper15 {
+    position: absolute;
+    top: 97.71px;
+    left: 339.4px;
+    width: 312px;
+    height: 408px;
+}
+.line-group {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: right;
+    font-size: 16px;
+}
+.testimonial-card-item {
+    position: absolute;
+    top: 356.07px;
+    left: 22.19px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper16 {
+    position: absolute;
+    top: 0px;
+    left: 678.8px;
+    width: 312px;
+    height: 408px;
+}
+.line-container {
+    position: absolute;
+    top: 363.34px;
+    left: 136.2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-inner {
+    position: absolute;
+    top: 356.37px;
+    left: 18.55px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper17 {
+    position: absolute;
+    top: 97.71px;
+    left: 1018.2px;
+    width: 312px;
+    height: 408px;
+}
+.frame-div {
+    position: absolute;
+    top: 105.83px;
+    left: 93.4px;
+    width: 219px;
+    height: 300px;
+    overflow: hidden;
+    opacity: 0.2;
+}
+.testimonial-card-child1 {
+    position: absolute;
+    top: 356.07px;
+    left: 21.98px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-parent17 {
+    position: absolute;
+    top: 183px;
+    left: 0px;
+    width: 1330.2px;
+    height: 505.7px;
+}
+.what-people-say {
+    position: relative;
+    line-height: 48px;
+}
+.what-people-say-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.our-customer-are-container {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.frame-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.frame-wrapper {
+    position: absolute;
+    top: calc(50% - 344.35px);
+    left: calc(50% - 162.2px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent16 {
+    position: absolute;
+    top: 0px;
+    left: 56.78px;
+    width: 1330.2px;
+    height: 688.7px;
+}
+.container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.group-wrapper14 {
+    position: absolute;
+    top: 151.66px;
+    left: 237.67px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.rectangle-parent16 {
+    position: absolute;
+    top: 439.1px;
+    left: 0.19px;
+    width: 1919.9px;
+    height: 992px;
+    text-align: left;
+    font-size: 18px;
+    color: #5a5555;
+}
+.group-parent15 {
+    position: absolute;
+    top: 5662.71px;
+    left: -0.05px;
+    width: 1920.1px;
+    height: 1431.1px;
+    text-align: center;
+    font-size: 21.5px;
+    color: #fff;
+}
+.about-hero-background-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.8px;
+    height: 1545.5px;
+}
+.auto-insurance-coverages {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 265.5px);
+}
+.have-the-right {
+    position: absolute;
+    top: 76.8px;
+    left: calc(50% - 427.3px);
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 854.6px;
+}
+.auto-insurance-coverages-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 427.3px);
+    width: 854.6px;
+    height: 169.8px;
+}
+.group-wrapper19 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 427.15px);
+    width: 854.6px;
+    height: 169.8px;
+}
+.liability-bodily-injury {
+    position: absolute;
+    top: 108.16px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 402.9px;
+}
+.physical-damage-optional {
+    position: absolute;
+    top: 29.55px;
+    left: 33.55px;
+    line-height: 150%;
+    white-space: pre-wrap;
+}
+.group-parent19 {
+    position: absolute;
+    top: 218.8px;
+    left: 0px;
+    width: 1432.8px;
+    height: 1059.1px;
+    text-align: left;
+    font-size: 27px;
+    color: #000;
+}
+.group-parent18 {
+    position: absolute;
+    top: 133.8px;
+    left: calc(50% - 719.63px);
+    width: 1432.8px;
+    height: 1277.9px;
+}
+.about-hero-background-container {
+    position: absolute;
+    top: 2224.78px;
+    left: -0.77px;
+    width: 1920.8px;
+    height: 1545.5px;
+    text-align: center;
+}
+.group-child27 {
+    position: absolute;
+    top: 64.49px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 803px;
+}
+.group-child28 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #fcfcfc;
+    box-sizing: border-box;
+    width: 345.6px;
+    height: 108px;
+}
+.vehicle-type {
+    position: absolute;
+    top: 29.55px;
+    left: 24.4px;
+    line-height: 150%;
+}
+.group-wrapper23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper24 {
+    position: absolute;
+    top: 119.54px;
+    left: 0px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper25 {
+    position: absolute;
+    top: 239.09px;
+    left: 0px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper26 {
+    position: absolute;
+    top: 0px;
+    left: 365.2px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper27 {
+    position: absolute;
+    top: 119.54px;
+    left: 365.2px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper28 {
+    position: absolute;
+    top: 239.09px;
+    left: 365.2px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper29 {
+    position: absolute;
+    top: 0px;
+    left: 730.39px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper30 {
+    position: absolute;
+    top: 119.54px;
+    left: 730.39px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper31 {
+    position: absolute;
+    top: 0px;
+    left: 1095.59px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-wrapper32 {
+    position: absolute;
+    top: 119.54px;
+    left: 1095.59px;
+    width: 345.6px;
+    height: 108px;
+}
+.group-parent22 {
+    position: absolute;
+    top: 208.25px;
+    left: 0px;
+    filter: drop-shadow(0px 4px 6px rgba(16, 24, 40, 0.03)) drop-shadow(0px 12px 16px rgba(16, 24, 40, 0.08));
+    width: 1441.1px;
+    height: 347.1px;
+}
+.factors-that-affect {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 544px;
+}
+.insurance-companies-consider {
+    position: absolute;
+    top: 138px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 170%;
+}
+.factors-that-affect-your-car-i-parent {
+    position: absolute;
+    top: 0px;
+    left: 1.15px;
+    width: 689px;
+    height: 151px;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent21 {
+    position: absolute;
+    top: 173.21px;
+    left: 238.85px;
+    width: 1441.1px;
+    height: 555.4px;
+}
+.feature-2 {
+    position: absolute;
+    top: calc(50% - 451px);
+    left: calc(50% - 959.96px);
+    background-color: #fcfcfc;
+    width: 1920px;
+    height: 902px;
+    overflow: hidden;
+}
+.rectangle-parent22 {
+    position: absolute;
+    top: 3772px;
+    left: -0.07px;
+    width: 1920px;
+    height: 902px;
+    font-size: 27px;
+}
+.about-hero-background-icon2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 988.7px;
+}
+.ready-to-compare {
+    position: absolute;
+    top: 76.8px;
+    left: 21px;
+    font-size: 18px;
+    line-height: 170%;
+}
+.how-we-deliver-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 329px;
+    height: 107.8px;
+}
+.group-wrapper33 {
+    position: absolute;
+    top: 0px;
+    left: 544.38px;
+    width: 329px;
+    height: 107.8px;
+}
+.group-child38 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 351.1px;
+    height: 403.8px;
+    font-size: large;
+}
+.icon-100-114 {
+    position: absolute;
+    top: 294.5px;
+    left: 243.03px;
+    border-radius: 4px;
+    width: 77.3px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.tell-us-about {
+    position: absolute;
+    top: 37.29px;
+    left: 31.07px;
+    line-height: 150%;
+    display: inline-block;
+    width: 250.6px;
+}
+.answer-a-few {
+    position: absolute;
+    top: 129.39px;
+    left: 31.07px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 293.3px;
+}
+.rectangle-parent33 {
+    position: absolute;
+    top: 0.49px;
+    left: 0px;
+    width: 351.1px;
+    height: 403.8px;
+}
+.group-child39 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 351px;
+    height: 404px;
+}
+.icon-100-115 {
+    position: absolute;
+    top: 295px;
+    left: 251.94px;
+    border-radius: 4px;
+    width: 76px;
+    height: 74px;
+    overflow: hidden;
+}
+.compare-your-quotes {
+    position: absolute;
+    top: 38px;
+    left: 29.94px;
+    line-height: 150%;
+    display: inline-block;
+    width: 222px;
+}
+.see-quotes-from {
+    position: absolute;
+    top: 129.88px;
+    left: 29.94px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 275px;
+}
+.rectangle-parent34 {
+    position: absolute;
+    top: 0px;
+    left: 363.06px;
+    width: 351px;
+    height: 404px;
+}
+.icon-100-116 {
+    position: absolute;
+    top: 295px;
+    left: 243.27px;
+    border-radius: 4px;
+    width: 77.8px;
+    height: 74px;
+    overflow: hidden;
+}
+.choose-the-right-container {
+    position: absolute;
+    top: 38px;
+    left: 29.91px;
+    line-height: 150%;
+    display: inline-block;
+    width: 197.4px;
+}
+.find-the-right1 {
+    position: absolute;
+    top: 129.88px;
+    left: 29.91px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 289.1px;
+}
+.rectangle-parent35 {
+    position: absolute;
+    top: 0px;
+    left: 725.98px;
+    width: 351px;
+    height: 404px;
+}
+.icon-100-2 {
+    position: absolute;
+    top: 294.5px;
+    left: 255.37px;
+    border-radius: 4px;
+    width: 77.3px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.get-covered {
+    position: absolute;
+    top: 37.29px;
+    left: 31.08px;
+    line-height: 150%;
+    display: inline-block;
+    width: 146.6px;
+}
+.connect-with-the {
+    position: absolute;
+    top: 129.39px;
+    left: 31.08px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 289.1px;
+}
+.get-a-free1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 79px);
+}
+.get-a-free-quote-wrapper {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 79px);
+    width: 158px;
+    height: 15px;
+}
+.group-wrapper36 {
+    position: absolute;
+    top: 4.63px;
+    left: calc(50% - 93.2px);
+    width: 158px;
+    height: 15px;
+}
+.arrow-up-s-line-icon2 {
+    position: absolute;
+    top: 0px;
+    left: 165.47px;
+    width: 20.9px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent25 {
+    position: absolute;
+    top: 213.25px;
+    left: calc(50% - 144.46px);
+    width: 186.4px;
+    height: 24px;
+    text-align: center;
+    font-size: 20px;
+}
+.rectangle-parent36 {
+    position: absolute;
+    top: 0.49px;
+    left: 1088.9px;
+    width: 351.1px;
+    height: 403.8px;
+}
+.group-parent24 {
+    position: absolute;
+    top: 187.8px;
+    left: 0px;
+    width: 1440px;
+    height: 404.3px;
+    text-align: left;
+    font-size: 24px;
+}
+.group-parent23 {
+    position: absolute;
+    top: 173.08px;
+    left: 240.5px;
+    width: 1440px;
+    height: 592.1px;
+}
+.about-hero-background-parent1 {
+    position: absolute;
+    top: 4674px;
+    left: -0.77px;
+    width: 1921px;
+    height: 988.7px;
+    text-align: center;
+}
+.group-child42 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 699.3px;
+}
+.i-have-a {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.i-have-a-different-question-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 298px;
+    height: 30px;
+}
+.arrow-left-s-line-icon {
+    position: absolute;
+    top: 2px;
+    left: 301px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent28 {
+    position: absolute;
+    top: 171.4px;
+    left: 0px;
+    width: 331px;
+    height: 32px;
+}
+.when-you-need-container {
+    position: absolute;
+    top: 70.9px;
+    left: calc(50% - 241px);
+    font-size: 21.5px;
+    line-height: 170%;
+}
+.frequently-asked-questions-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 144.9px;
+    font-size: 36px;
+}
+.group-parent27 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 203.4px;
+}
+.how-can-i {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 589.9px;
+}
+.how-can-i-get-a-discount-on-my-wrapper {
+    position: absolute;
+    top: 2.5px;
+    left: 0px;
+    width: 589.9px;
+    height: 25px;
+}
+.arrow-left-s-line-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 601.7px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+    rotate: 180deg;
+}
+.group-parent31 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 30px;
+}
+.group-child43 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 171.6px;
+}
+.if-you-combine {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 601.7px;
+}
+.rectangle-parent38 {
+    position: absolute;
+    top: 54.81px;
+    left: 0px;
+    width: 654.7px;
+    height: 171.6px;
+    font-size: 18px;
+}
+.group-parent30 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 654.7px;
+    height: 226.4px;
+    font-size: 20px;
+}
+.what-vehicles-do-you-insure-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 301px;
+    height: 27px;
+}
+.group-parent33 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 631.7px;
+    height: 30px;
+}
+.group-child44 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 205.9px;
+}
+.we-provide-insurance {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 595.8px;
+}
+.rectangle-parent39 {
+    position: absolute;
+    top: 50.59px;
+    left: 0px;
+    width: 654.7px;
+    height: 205.9px;
+    font-size: 18px;
+}
+.group-parent32 {
+    position: absolute;
+    top: 262.44px;
+    left: 0px;
+    width: 654.7px;
+    height: 256.5px;
+}
+.what-does-full-car-insurance-c-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 489px;
+    height: 27px;
+}
+.group-child45 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 376.8px;
+}
+.rectangle-parent40 {
+    position: absolute;
+    top: 53.14px;
+    left: 0px;
+    width: 654.7px;
+    height: 376.8px;
+    font-size: 18px;
+}
+.group-parent34 {
+    position: absolute;
+    top: 554.91px;
+    left: 0px;
+    width: 654.7px;
+    height: 429.9px;
+}
+.how-much-does {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 559px;
+}
+.how-much-does-car-insurance-co-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 32px;
+}
+.group-parent37 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 33.6px;
+}
+.group-child46 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 223px;
+}
+.rectangle-parent41 {
+    position: absolute;
+    top: 69.22px;
+    left: 0px;
+    width: 654.7px;
+    height: 223px;
+    font-size: 18px;
+}
+.group-parent36 {
+    position: absolute;
+    top: 1020.83px;
+    left: 0px;
+    width: 654.7px;
+    height: 292.3px;
+}
+.group-parent29 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    top: 0px;
+    left: 706.23px;
+    width: 654.7px;
+    height: 550.1px;
+    font-size: 21.5px;
+    overflow: hidden;
+}
+.group-parent26 {
+    position: absolute;
+    top: 147.9px;
+    left: 285.63px;
+    width: 1360.9px;
+    height: 613.1px;
+}
+.rectangle-parent37 {
+    position: absolute;
+    top: 8820.39px;
+    left: -0.07px;
+    width: 1919.9px;
+    height: 1099.3px;
+    font-size: 24px;
+}
+.car-insurance {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1061%;
+    overflow: hidden;
+    text-align: left;
+    font-size: 42px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+@media(max-width: 1280px){
+    .frame-group,.b-insure-variants-item{
+        margin-left: -120px;
+    }
+    .image-35-icon,.binsure{
+        margin-left: -150px;
+    }
+    #header-logo{
+        margin-left: -15px;
+    }
+    #header-image{
+        margin-left: -152px;
+        
+
+    }
+   
+    .group-parent1{
+        margin-left: -120px;
+    }
+    .group-parent9{
+        margin-left: -120px;
+    }
+    .group-parent10{
+        margin-left: -140px;
+
+    }
+    .group-parent18{
+        margin-left: -140px;
+
+    }
+    .group-parent21{
+        margin-left: -140px;
+
+    }
+    .group-parent23{
+        margin-left: -140px;
+
+    }
+    .group-frame{
+        margin-left: -140px;
+
+    }
+    .group-child19{
+        margin-left: -240px;
+
+    }
+    .group-child18{
+        margin-left: -240px;
+
+    }
+    .container{
+        margin-left: -140px;
+
+    }
+    .find-the-right-coverage-for-yo-parent,.group-parent12{
+        margin-left: -240px;
+
+    }
+    .group-parent26{
+        margin-left: -240px;
+
+    }
+    .button-with-icon-parent{
+        margin-left: -200px;
+
+    }
+    .quick-links-parent{
+        margin-left: -500px;
+
+    }
+    .terms-of-use-parent{
+        margin-left: -500px;
+
+    }
+    .group-container,.copyright-2024{
+        margin-left: -150px;
+    }
+    #footer-logo{
+        margin-left: 400px;
+    }
+    #footer-image{
+        margin-left: 270px;
+    }
+    #code{
+        margin-left: 140px;
+        margin-right: -150px;
+    }
+}
+@media(max-width: 1150px){
+    .frame-group,.b-insure-variants-item{
+        margin-left: -350px;
+    }
+    .image-35-icon,.binsure{
+        margin-left: -240px;
+    }
+    #header-logo{
+        margin-left: -95px;
+    }
+    #header-image{
+        margin-left: -235px;
+        
+
+    }
+    
+    .group-parent1{
+        margin-left: -270px;
+    }
+    .group-parent9{
+        margin-left: -220px;
+    }
+    .group-parent10{
+        margin-left: -240px;
+
+    }
+    .group-parent18{
+        margin-left: -240px;
+
+    }
+    .group-parent21{
+        margin-left: -240px;
+
+    }
+    .group-parent23{
+        margin-left: -240px;
+
+    }
+    .group-frame{
+        margin-left: -240px;
+
+    }
+    .group-child19{
+        margin-left: -340px;
+
+    }
+    .group-child18{
+        margin-left: -340px;
+
+    }
+    .container{
+        margin-left: -240px;
+
+    }
+    .find-the-right-coverage-for-yo-parent,.group-parent12{
+        margin-left: -240px;
+
+    }
+    .group-parent26{
+        margin-left: -280px;
+
+    }
+    .button-with-icon-parent{
+        margin-left: -230px;
+
+    }
+    .quick-links-parent{
+        margin-left: -600px;
+
+    }
+    .terms-of-use-parent{
+        margin-left: -600px;
+
+    }
+    .group-container,.copyright-2024{
+        margin-left: -150px;
+    }
+    #footer-logo{
+        margin-left: 700px;
+    }
+    #footer-image{
+        margin-left: 460px;
+    }
+    #code{
+        margin-left: 240px;
+        margin-right: -250px;
+    }
+}
+@media(max-width:1000px){
+    .car-I{
+        transform: scale(0.68);
+        width: 150%;
+
+    }
+    .group-child1{
+        margin-left: -120px;
+    }
+}
+@media(max-width:842px){
+    .car-I{
+        transform: scale(0.5);
+        width: 200%;
+
+    }
+    .group-child1{
+        margin-left: -950px;
+    }
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+.new-arrow-left-s-line-icon1 {
+    /*Adjust spacing as needed*/
+    transition: transform 0.3s ease; /* Smooth rotation */
+    flex-shrink: 0; /* Prevent arrow icon from shrinking */
+    transform: rotate(180deg);
+  }
+  
+  
+  /* Initial styles */
+  .new-content {
+    display: none;
+    overflow: hidden;
+  }
+  
+  /* Arrow rotation */
+  .new-arrow-left-s-line-icon1.collapsed {
+    transform: rotate(360deg);
+  }
+  
+  /* Section toggled open */
+  .new-content.active {
+    display: block;
+  }
+  .new-what-is-a-life-insurance-wrapper {
+    flex-grow: 1; /* Allow text to take available space */
+    flex-shrink: 1; /* Allow text to shrink i
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    white-space: nowrap; /* Prevent text from wrapping */
+
+}
+

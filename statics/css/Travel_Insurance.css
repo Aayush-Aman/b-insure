@@ -1,0 +1,3477 @@
+body{
+    height: 100vh;
+}
+.travel{
+    transform: scale(0.8);
+    transform-origin: top left;
+    width: 125%;
+    height: 125%;
+}
+.image-1-icon {
+    position: absolute;
+    top: 366px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.image-2-icon {
+    position: absolute;
+    top: 366px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655.01px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 0.01px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.image-2-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 1433.01px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1921px;
+    height: 904px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    box-shadow: 0px -4px 6px 6px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 481.5px;
+    height: 626px;
+}
+.terms-of-use {
+    text-decoration: underline;
+}
+.i-agree-to-terms-of-use-and-pr {
+    margin: 0;
+}
+.i-agree-to-container {
+    position: absolute;
+    top: 542.02px;
+    left: 43.44px;
+    line-height: 170%;
+}
+.group-item {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+    width: 379.6px;
+    height: 60px;
+}
+.get-a-free {
+    position: absolute;
+    top: 16px;
+    left: calc(50% - 80.5px);
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 379.6px;
+    height: 60px;
+}
+.group-wrapper1 {
+    position: absolute;
+    top: 423.12px;
+    right: 0.1px;
+    width: 379.6px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.your-name {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+}
+.group-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    box-sizing: border-box;
+}
+.your-name1 {
+    position: absolute;
+    top: 24.89%;
+    left: 5.45%;
+}
+.rectangle-container {
+    position: absolute;
+    height: 66.67%;
+    width: 100%;
+    top: 33.33%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-family: Poppins;
+}
+.your-name-parent {
+    position: absolute;
+    height: 16.77%;
+    width: 99.97%;
+    top: 0%;
+    right: 0.03%;
+    bottom: 83.23%;
+    left: 0%;
+}
+.span {
+    color: #8c1823;
+}
+.contact-number {
+    position: absolute;
+    top: 24.89%;
+    left: 21.87%;
+}
+.div {
+    position: absolute;
+    top: 0.17%;
+    left: 0%;
+}
+.arrow-up-s-line-icon {
+    position: absolute;
+    height: 100%;
+    width: 40.68%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 59.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent {
+    position: absolute;
+    height: 44.44%;
+    width: 15.54%;
+    top: 27.78%;
+    right: 80.5%;
+    bottom: 27.78%;
+    left: 3.96%;
+}
+.group-parent1 {
+    position: absolute;
+    height: 65.85%;
+    width: 100%;
+    top: 34.15%;
+    right: -0.01%;
+    bottom: 0%;
+    left: 0.01%;
+    font-family: Poppins;
+}
+.contact-number-parent {
+    position: absolute;
+    height: 16.97%;
+    width: 99.97%;
+    top: 65.95%;
+    right: 0.03%;
+    bottom: 17.08%;
+    left: 0%;
+}
+.arrow-up-s-line-icon1 {
+    position: absolute;
+    height: 44.44%;
+    width: 6.32%;
+    top: 27.78%;
+    right: 5.11%;
+    bottom: 27.78%;
+    left: 88.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.weeks {
+    position: absolute;
+    top: 24.89%;
+    left: 5.27%;
+    line-height: 26px;
+}
+.rectangle-parent2 {
+    position: absolute;
+    height: 63.53%;
+    width: 100%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.planning-to-buy {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-parent2 {
+    position: absolute;
+    height: 17.59%;
+    width: 99.95%;
+    top: 21.43%;
+    right: 0.05%;
+    bottom: 60.98%;
+    left: 0%;
+    font-family: Poppins;
+}
+.email-address {
+    position: absolute;
+    top: 24.89%;
+    left: 5.44%;
+}
+.rectangle-parent3 {
+    position: absolute;
+    height: 63.53%;
+    width: 99.97%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0.02%;
+}
+.group-parent3 {
+    position: absolute;
+    height: 17.59%;
+    width: 100%;
+    top: 43.69%;
+    right: 0%;
+    bottom: 38.72%;
+    left: 0%;
+    font-family: Poppins;
+}
+.group-div {
+    position: absolute;
+    top: 36.37px;
+    right: 58.36px;
+    width: 379.7px;
+    height: 483.1px;
+    color: #5a5555;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-parent {
+    position: absolute;
+    top: 0px;
+    right: -0.02px;
+    width: 481.5px;
+    height: 626px;
+}
+.buttons-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #0086aa;
+    box-sizing: border-box;
+}
+.how-it-works {
+    position: absolute;
+    top: 32.03%;
+    left: 24.34%;
+    letter-spacing: 0.01em;
+}
+.buttons {
+    position: absolute;
+    top: 458.65px;
+    left: 5.01px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 226px;
+    height: 64px;
+    text-align: center;
+    color: #0086aa;
+}
+.enjoy-safer-travel-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    font-family: Manrope;
+}
+.the-last-thing {
+    position: absolute;
+    top: 181.22px;
+    left: 5.01px;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    line-height: 170%;
+    display: inline-block;
+    width: 737px;
+}
+.trusted-by-over-container {
+    position: absolute;
+    top: 0px;
+    left: 59.97px;
+    line-height: 153%;
+    display: inline-block;
+    width: 232.1px;
+}
+.vector-icon {
+    position: absolute;
+    height: 73.21%;
+    width: 13.01%;
+    top: 14.32%;
+    right: 86.99%;
+    bottom: 12.47%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.trusted-by-over-10000-canadia-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 292.1px;
+    height: 56px;
+}
+.save-up-to {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 153%;
+    display: inline-block;
+    width: 193.9px;
+}
+.save-up-to-35-on-your-insuran-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 62.98px;
+    width: 193.9px;
+    height: 56px;
+}
+.flying-money-1-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 41px;
+    height: 40px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent5 {
+    position: absolute;
+    top: 0px;
+    left: 335.09px;
+    width: 256.9px;
+    height: 56px;
+}
+.group-parent4 {
+    position: absolute;
+    top: 353.43px;
+    left: 4.58px;
+    width: 592px;
+    height: 56px;
+}
+.buttons-parent {
+    position: absolute;
+    top: 51.7px;
+    left: 0px;
+    width: 742px;
+    height: 522.7px;
+    font-size: 18px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 1410.9px;
+    height: 626px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 138.98px;
+    right: 260.3px;
+    width: 1410.9px;
+    height: 626px;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 120px;
+    left: -0.06px;
+    width: 1921px;
+    height: 904px;
+    color: #5c6163;
+    font-family: Lora;
+}
+.get-instant-travel-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 170%;
+}
+.get-instant-travel-insurance-q-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    width: 411px;
+    height: 82px;
+}
+.image-11-icon {
+    position: absolute;
+    top: 16.4px;
+    left: 0px;
+    width: 120px;
+    height: 100.8px;
+    object-fit: cover;
+}
+.image-11-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 0px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-8-icon {
+    position: absolute;
+    top: 17.6px;
+    left: 14.8px;
+    width: 95.6px;
+    height: 84px;
+    object-fit: cover;
+}
+.image-8-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 144px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-12-icon {
+    position: absolute;
+    top: 16.8px;
+    left: 0px;
+    width: 113.6px;
+    height: 103.2px;
+    object-fit: cover;
+}
+.image-12-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 288px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-9-icon {
+    position: absolute;
+    top: 0px;
+    left: 14.8px;
+    width: 105.2px;
+    height: 120px;
+    object-fit: cover;
+}
+.image-9-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 432px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-child {
+    position: absolute;
+    top: 0.5px;
+    left: 576px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-item {
+    position: absolute;
+    top: 0.5px;
+    left: 720px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: 0.5px;
+    left: 864px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.image-16-icon {
+    position: absolute;
+    top: 15.6px;
+    left: 0px;
+    width: 120px;
+    height: 104.4px;
+    object-fit: cover;
+}
+.image-16-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1008px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-13-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1152px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 121px;
+    overflow-x: auto;
+}
+.group-parent6 {
+    position: absolute;
+    top: 1024px;
+    left: 239.99px;
+    width: 1440px;
+    height: 120px;
+    font-size: 24px;
+    font-family: Manrope;
+}
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 23%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: -0.01px;
+    width: 1920px;
+    height: 40px;
+    color: #fff;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.b-insure-variants-item {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0%;
+    left: 44.11%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-child3 {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.17%;
+    background-color: #fff;
+}
+.image-35-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent7 {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home {
+    position: relative;
+}
+.home-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.individual-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 12.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 15.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.travel-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.support-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 11.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 122px;
+    overflow-x: hidden; /* Hide the horizontal scrollbar */
+    display: flex;
+    align-items: center; /* Vertically center the images */
+    /* animation: moveRight 10s linear infinite; */
+}
+.frame-parent-inner {
+    display: flex;
+	width: 200%; /* Double the width to accommodate the duplicated images */
+    animation: moveRight 10s linear infinite;
+	height: 122px;
+}
+
+.frame-parent-inner img {
+    flex-shrink: 0; /* Prevent images from shrinking */
+    margin-right: 10px; /* Adjust the gap between images as needed */
+}
+@keyframes moveRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%); /* Move left by 50% of the container's width */
+    }
+}
+.add-listing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.button-with-icon {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0%;
+    right: 9.72%;
+    bottom: 0%;
+    left: 72.54%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+}
+.line-div {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+.search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-group {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: -0.01px;
+    width: 1920px;
+    height: 80px;
+    color: #2b2b2b;
+}
+.group-child4 {
+    position: absolute;
+    top: 38.53px;
+    left: 0px;
+    background: linear-gradient(90deg, #14677d, #29474f);
+    width: 1920.3px;
+    height: 400.6px;
+}
+.group-icon {
+    position: absolute;
+    height: 29.13%;
+    width: 15.01%;
+    top: 70.44%;
+    right: 12.97%;
+    bottom: 0.43%;
+    left: 72.03%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 30.9%;
+    width: 44.82%;
+    top: 69.1%;
+    right: 55.18%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.chat-with-our {
+    position: absolute;
+    top: 63.02px;
+    left: 0px;
+    line-height: 170%;
+    display: inline-block;
+    width: 552.9px;
+}
+.need-insurance-answers {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+    display: inline-block;
+    width: 377.6px;
+}
+.chat-with-our-licensed-advisor-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 552.9px;
+    height: 125px;
+}
+.group-wrapper5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 552.9px;
+    height: 125px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.group-wrapper4 {
+    position: absolute;
+    height: 47.16%;
+    width: 28.79%;
+    top: 30.8%;
+    right: 54.94%;
+    bottom: 22.03%;
+    left: 16.27%;
+}
+.group-child5 {
+    position: absolute;
+    height: 99.57%;
+    width: 14.36%;
+    top: 0%;
+    right: 17.67%;
+    bottom: 0.43%;
+    left: 67.97%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent4 {
+    position: absolute;
+    top: 8053.44px;
+    left: 0.02px;
+    width: 1920.3px;
+    height: 439.1px;
+    text-align: center;
+    font-size: 21.5px;
+    color: #fff;
+}
+.group-child6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 992px;
+}
+.icon {
+    position: absolute;
+    top: 21.84px;
+    left: 0px;
+    width: 261.4px;
+    height: 277.3px;
+}
+.icon1 {
+    position: absolute;
+    top: 325.64px;
+    left: 1182.18px;
+    width: 261.4px;
+    height: 277.3px;
+    object-fit: contain;
+}
+.logo-2 {
+    position: absolute;
+    top: 40px;
+    left: 22px;
+    background-color: #fff;
+    width: 200px;
+    height: 32px;
+    display: none;
+}
+.best-product-ever {
+    position: absolute;
+    top: 49.21px;
+    left: 22px;
+    line-height: 170%;
+    display: inline-block;
+    width: 268px;
+}
+.frame-child1 {
+    width: 17px;
+    position: relative;
+    border-top: 1px solid #8d96a6;
+    box-sizing: border-box;
+    height: 1px;
+}
+.line-parent {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-child {
+    position: absolute;
+    top: 356.37px;
+    left: 21.59px;
+    width: 117.7px;
+    height: 24px;
+}
+.testimonial-card {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 6px 20px rgba(37, 98, 204, 0.18);
+    border-radius: 24px;
+    background-color: #fff;
+    width: 312px;
+    height: 408px;
+}
+.testimonial-card-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 408px;
+}
+.group-wrapper8 {
+    position: absolute;
+    top: 97.71px;
+    left: 339.4px;
+    width: 312px;
+    height: 408px;
+}
+.line-group {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: right;
+    font-size: 16px;
+}
+.testimonial-card-item {
+    position: absolute;
+    top: 356.07px;
+    left: 22.19px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper9 {
+    position: absolute;
+    top: 0px;
+    left: 678.8px;
+    width: 312px;
+    height: 408px;
+}
+.line-container {
+    position: absolute;
+    top: 363.34px;
+    left: 136.2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-inner {
+    position: absolute;
+    top: 356.37px;
+    left: 18.55px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper10 {
+    position: absolute;
+    top: 97.71px;
+    left: 1018.2px;
+    width: 312px;
+    height: 408px;
+}
+.frame-div {
+    position: absolute;
+    top: 105.83px;
+    left: 93.4px;
+    width: 219px;
+    height: 300px;
+    overflow: hidden;
+    opacity: 0.2;
+}
+.testimonial-card-child1 {
+    position: absolute;
+    top: 356.07px;
+    left: 21.98px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-parent9 {
+    position: absolute;
+    top: 183px;
+    left: 0px;
+    width: 1330.2px;
+    height: 505.7px;
+}
+.what-people-say {
+    position: relative;
+    line-height: 48px;
+}
+.what-people-say-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.our-customer-are-container {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.frame-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.frame-wrapper {
+    position: absolute;
+    top: calc(50% - 344.35px);
+    left: calc(50% - 162.2px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 56.78px;
+    width: 1330.2px;
+    height: 688.7px;
+}
+.group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.group-wrapper7 {
+    position: absolute;
+    top: 151.66px;
+    left: 237.67px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.rectangle-parent5 {
+    position: absolute;
+    top: 8492.54px;
+    left: 0.14px;
+    width: 1919.9px;
+    height: 992px;
+    font-size: 18px;
+    color: #5a5555;
+}
+.about-hero-background-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.8px;
+    height: 1545.5px;
+}
+.travel-insurance-coverages {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 275.52px);
+}
+.travel-insurance-provides-container {
+    position: absolute;
+    top: 76.8px;
+    left: calc(50% - 378.9px);
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 757.8px;
+}
+.travel-insurance-coverages-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 378.9px);
+    width: 757.8px;
+    height: 138.8px;
+}
+.group-wrapper12 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 378.73px);
+    width: 757.8px;
+    height: 138.8px;
+}
+.group-child7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 474.6px;
+}
+.icon-100-1 {
+    position: absolute;
+    top: 344.62px;
+    left: 326px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.complete-medical-coverage-container {
+    position: absolute;
+    top: 40.55px;
+    left: 33.55px;
+}
+.the-top-priority {
+    position: absolute;
+    top: 136.02px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 402.9px;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 474.6px;
+}
+.icon-100-11 {
+    position: absolute;
+    top: 344.62px;
+    left: 330.41px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.trip-cancellation-container {
+    position: absolute;
+    top: 40.55px;
+    left: 40.2px;
+    line-height: 150%;
+}
+.assistance-against-unexpected {
+    position: absolute;
+    top: 136.02px;
+    left: 40.2px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 390.2px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 489.28px;
+    width: 454.3px;
+    height: 474.6px;
+}
+.emergency-evacuations-container {
+    position: absolute;
+    top: 40.55px;
+    left: 40.2px;
+}
+.rectangle-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 978.56px;
+    width: 454.3px;
+    height: 474.6px;
+}
+.group-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1432.8px;
+    height: 474.6px;
+}
+.group-child10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 544.2px;
+}
+.icon-100-13 {
+    position: absolute;
+    top: 416.4px;
+    left: 326px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.coverage-for-personal-container {
+    position: absolute;
+    top: 29.55px;
+    left: 33.55px;
+    line-height: 150%;
+}
+.offers-coverage-for {
+    position: absolute;
+    top: 130.71px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 402.9px;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 544.2px;
+}
+.group-wrapper15 {
+    position: absolute;
+    top: 509.22px;
+    left: 0px;
+    width: 454.3px;
+    height: 544.2px;
+}
+.group-wrapper16 {
+    position: absolute;
+    top: 509.22px;
+    left: 482.55px;
+    width: 454.3px;
+    height: 544.2px;
+}
+.group-parent11 {
+    position: absolute;
+    top: 218.8px;
+    left: 0px;
+    width: 1432.8px;
+    height: 1053.4px;
+    text-align: left;
+    font-size: 27px;
+    color: #000;
+}
+.group-parent10 {
+    position: absolute;
+    top: 149.36px;
+    left: calc(50% - 719.63px);
+    width: 1432.8px;
+    height: 1272.2px;
+}
+.about-hero-background-group {
+    position: absolute;
+    top: 2128px;
+    left: -0.77px;
+    width: 1920.8px;
+    height: 1545.5px;
+    text-align: center;
+    font-size: 42px;
+}
+.group-child12 {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 803px;
+}
+.feature-2 {
+    position: absolute;
+    top: 0px;
+    left: 0.06px;
+    background-color: #fcfcfc;
+    width: 1920px;
+    height: 984px;
+    overflow: hidden;
+}
+.rectangle-parent11 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.1px;
+    height: 984px;
+}
+.lost-baggage {
+    font-family: 'Plus Jakarta Sans';
+}
+.lost-baggage-airlines-sometim {
+    margin-bottom: 0px;
+}
+.medical-emergencies-your-heal {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 24px;
+}
+.the-last-thing-container {
+    position: absolute;
+    top: 78px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 690.3px;
+}
+.travel-insurance-for-travelers-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 690.3px;
+    height: 742px;
+}
+.group-wrapper17 {
+    position: absolute;
+    top: 156px;
+    left: 989.73px;
+    width: 690.3px;
+    height: 742px;
+}
+.group-parent13 {
+    position: absolute;
+    top: 1144px;
+    left: -0.06px;
+    width: 1920.1px;
+    height: 984px;
+    font-size: 40px;
+    color: #121d2f;
+}
+.about-hero-background-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 937.2px;
+}
+.why-choose {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 838.7px;
+}
+.we-help-visiting {
+    position: absolute;
+    top: 76.8px;
+    left: calc(50% - 325.73px);
+    font-size: 18px;
+    line-height: 170%;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 651.4px;
+}
+.why-choose-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-wrapper18 {
+    position: absolute;
+    top: 0px;
+    left: 282.38px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-child13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 384.2px;
+}
+.icon-100-15 {
+    position: absolute;
+    top: 256.25px;
+    left: 326px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.partnered-with-top-container {
+    position: absolute;
+    top: 40.55px;
+    left: 33.55px;
+    line-height: 170%;
+    font-weight: 600;
+}
+.purchase-your-insurance {
+    position: absolute;
+    top: 134.62px;
+    left: 33.55px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 402.9px;
+}
+.rectangle-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 384.2px;
+}
+.icon-100-16 {
+    position: absolute;
+    top: 256.25px;
+    left: 330.41px;
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.benefits-and-scenarios {
+    position: absolute;
+    top: 40.55px;
+    left: 40.2px;
+    line-height: 170%;
+    font-weight: 600;
+}
+.compare-rates-across {
+    position: absolute;
+    top: 95.62px;
+    left: 40.2px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 373.9px;
+}
+.rectangle-parent13 {
+    position: absolute;
+    top: 0px;
+    left: 489.28px;
+    width: 454.3px;
+    height: 384.2px;
+}
+.rectangle-parent14 {
+    position: absolute;
+    top: 0px;
+    left: 978.56px;
+    width: 454.3px;
+    height: 384.2px;
+}
+.group-parent15 {
+    position: absolute;
+    top: 218.8px;
+    left: 0px;
+    width: 1432.8px;
+    height: 384.2px;
+    text-align: left;
+    font-size: 24px;
+}
+.group-parent14 {
+    position: absolute;
+    top: 151.41px;
+    left: 240.77px;
+    width: 1432.8px;
+    height: 603px;
+}
+.about-hero-background-container {
+    position: absolute;
+    top: 5065.5px;
+    left: 0px;
+    width: 1921px;
+    height: 937.2px;
+    text-align: center;
+    font-size: 42px;
+}
+.key-benefits {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 838.3px;
+}
+.we-help-canada-container {
+    position: absolute;
+    top: 76.8px;
+    left: 125.95px;
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 621.7px;
+}
+.key-benefits-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 838.3px;
+    height: 138.8px;
+}
+.group-wrapper21 {
+    position: absolute;
+    top: 0px;
+    left: 282.26px;
+    width: 838.3px;
+    height: 138.8px;
+}
+.group-child16 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 336.6px;
+    height: 441.2px;
+}
+.icon-100-18 {
+    position: absolute;
+    top: 345.08px;
+    left: 241.52px;
+    border-radius: 4px;
+    width: 74.1px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.medical-coverage-for-container {
+    position: absolute;
+    top: 30.06px;
+    left: 24.85px;
+    line-height: 170%;
+    display: inline-block;
+    width: 285.9px;
+}
+.per-person-for {
+    position: absolute;
+    top: 134.81px;
+    left: 24.85px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 279.1px;
+}
+.rectangle-parent15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 336.6px;
+    height: 441.2px;
+}
+.icon-100-19 {
+    position: absolute;
+    top: 345.08px;
+    left: 244.8px;
+    border-radius: 4px;
+    width: 74.1px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.baggage-loss-and-container {
+    position: absolute;
+    top: 37.29px;
+    left: 29.79px;
+    line-height: 170%;
+    display: inline-block;
+    width: 205.9px;
+}
+.if-your-bags {
+    position: absolute;
+    top: 134.81px;
+    left: 29.79px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 281.1px;
+}
+.rectangle-parent16 {
+    position: absolute;
+    top: 0px;
+    left: 368.55px;
+    width: 336.6px;
+    height: 441.2px;
+}
+.trip-interruptions-or-container {
+    position: absolute;
+    top: 37.29px;
+    left: 29.79px;
+    line-height: 170%;
+    display: inline-block;
+    width: 227.9px;
+}
+.if-your-trip {
+    position: absolute;
+    top: 124.4px;
+    left: 29.79px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 289.1px;
+}
+.rectangle-parent17 {
+    position: absolute;
+    top: 0px;
+    left: 737.11px;
+    width: 336.6px;
+    height: 441.2px;
+}
+.additional-services {
+    position: absolute;
+    top: 37.29px;
+    left: 29.79px;
+    line-height: 170%;
+    display: inline-block;
+    width: 225.9px;
+}
+.benefit-from-additional {
+    position: absolute;
+    top: 124.4px;
+    left: 29.79px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 277.1px;
+}
+.rectangle-parent18 {
+    position: absolute;
+    top: 0px;
+    left: 1105.66px;
+    width: 336.6px;
+    height: 441.2px;
+}
+.group-parent17 {
+    position: absolute;
+    top: 241.41px;
+    left: 0px;
+    width: 1442.2px;
+    height: 441.2px;
+    text-align: left;
+    font-size: 24px;
+    color: #102b32;
+}
+.group-parent16 {
+    position: absolute;
+    top: 130.49px;
+    left: 240.66px;
+    width: 1442.2px;
+    height: 682.6px;
+}
+.about-hero-background-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.2px;
+    height: 965.7px;
+}
+.travel-insurance-inner {
+    position: absolute;
+    top: 7045.38px;
+    left: 0.02px;
+    width: 1920.2px;
+    height: 965.7px;
+    text-align: center;
+    font-size: 42px;
+}
+.group-child20 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 577.1px;
+}
+.i-have-a {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.i-have-a-different-question-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 298px;
+    height: 30px;
+}
+.arrow-left-s-line-icon {
+    position: absolute;
+    top: 2px;
+    left: 301px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent20 {
+    position: absolute;
+    top: 171.4px;
+    left: 0px;
+    width: 331px;
+    height: 32px;
+}
+.when-you-need-container {
+    position: absolute;
+    top: 70.9px;
+    left: calc(50% - 241px);
+    font-size: 21.5px;
+    line-height: 170%;
+}
+.frequently-asked-questions-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 144.9px;
+    font-size: 36px;
+}
+.group-parent19 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 203.4px;
+}
+.what-is-travel {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 589.9px;
+}
+.what-is-travel-insurance-wrapper {
+    position: absolute;
+    top: 2.5px;
+    left: 0px;
+    width: 589.9px;
+    height: 25px;
+}
+.arrow-left-s-line-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 601.7px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent23 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 30px;
+}
+.group-child21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 228.9px;
+}
+.travel-insurance-is {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 601.7px;
+}
+.rectangle-parent20 {
+    position: absolute;
+    top: 54.81px;
+    left: 0px;
+    width: 654.7px;
+    height: 228.9px;
+    font-size: 18px;
+}
+.group-parent22 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 654.7px;
+    height: 283.7px;
+    font-size: 20px;
+}
+.what-is-not-covered-by-travel-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 419px;
+    height: 27px;
+}
+.group-parent25 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 631.7px;
+    height: 30px;
+}
+.group-child22 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 268.8px;
+}
+.some-insurers-does-not-cover-s {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 24px;
+}
+.some-insurers-does-container {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 595.8px;
+}
+.rectangle-parent21 {
+    position: absolute;
+    top: 50.59px;
+    left: 0px;
+    width: 654.7px;
+    height: 268.8px;
+    font-size: 18px;
+}
+.group-parent24 {
+    position: absolute;
+    top: 331.7px;
+    left: 0px;
+    width: 654.7px;
+    height: 319.4px;
+}
+.what-should-i-look-for-in-trav-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 428px;
+    height: 27px;
+}
+.group-child23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 366.6px;
+}
+.rectangle-parent22 {
+    position: absolute;
+    top: 53.14px;
+    left: 0px;
+    width: 654.7px;
+    height: 366.6px;
+    font-size: 18px;
+}
+.group-parent26 {
+    position: absolute;
+    top: 699.12px;
+    left: 0px;
+    width: 654.7px;
+    height: 419.7px;
+}
+.is-a-pickup {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 559px;
+}
+.is-a-pickup-truck-considered-a-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 27px;
+}
+.group-child24 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 214.5px;
+}
+.rectangle-parent23 {
+    position: absolute;
+    top: 56.26px;
+    left: 0px;
+    width: 654.7px;
+    height: 214.5px;
+    font-size: 18px;
+}
+.group-parent28 {
+    position: absolute;
+    top: 1166.87px;
+    left: 0px;
+    width: 654.7px;
+    height: 270.8px;
+}
+.does-applying-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 559px;
+}
+.does-applying-for-travel-insur-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 64px;
+}
+.group-parent31 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 65.6px;
+}
+.group-child25 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 379.2px;
+}
+.rectangle-parent24 {
+    position: absolute;
+    top: 90.84px;
+    left: 0px;
+    width: 654.7px;
+    height: 379.2px;
+    font-size: 18px;
+}
+.group-parent30 {
+    position: absolute;
+    top: 1485.65px;
+    left: 0px;
+    width: 654.7px;
+    height: 470px;
+}
+.how-much-does-travel-insurance-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 32px;
+}
+.group-parent33 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 33.6px;
+}
+.group-child26 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 433.5px;
+}
+.rectangle-parent25 {
+    position: absolute;
+    top: 90.84px;
+    left: 0px;
+    width: 654.7px;
+    height: 433.5px;
+    font-size: 18px;
+}
+.group-parent32 {
+    position: absolute;
+    top: 2003.67px;
+    left: 0px;
+    width: 654.7px;
+    height: 524.4px;
+}
+.rectangle-parent26 {
+    position: absolute;
+    top: 71.69px;
+    left: 0px;
+    width: 654.7px;
+    height: 433.5px;
+    font-size: 18px;
+}
+.group-parent34 {
+    position: absolute;
+    top: 2576.05px;
+    left: 0px;
+    width: 654.7px;
+    height: 505.2px;
+}
+.group-parent21 {
+    position: absolute;
+    top: 0px;
+    left: 706.23px;
+    width: 654.7px;
+    height: 881.3px;
+    font-size: 21.5px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    overflow: hidden;
+}
+.group-parent18 {
+    position: absolute;
+    top: 147.9px;
+    left: 285.63px;
+    width: 1360.9px;
+    height: 581.3px;
+}
+.rectangle-parent19 {
+    position: absolute;
+    top: 9484.56px;
+    left: -0.07px;
+    width: 1919.9px;
+    height: 1077.1px;
+    font-size: 24px;
+}
+.group-child28 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #353535;
+    width: 1920px;
+    height: 599px;
+}
+.group-child29 {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-wrapper25 {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.po-box-9999-container {
+    position: absolute;
+    top: 160px;
+    left: 0px;
+}
+.group-parent37 {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.group-child30 {
+    position: absolute;
+    top: 485px;
+    left: 240px;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+    width: 1442px;
+    height: 2px;
+}
+.quick-links {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+}
+.careers {
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+.contact-us {
+    position: absolute;
+    top: 144px;
+    left: 0px;
+}
+.insurance {
+    position: absolute;
+    top: 186px;
+    left: 0px;
+}
+.blog {
+    position: absolute;
+    top: 228px;
+    left: 0px;
+}
+.faqs {
+    position: absolute;
+    top: 270px;
+    left: 0px;
+}
+.about {
+    position: absolute;
+    top: 312px;
+    left: 0px;
+}
+.quick-links-parent {
+    position: absolute;
+    top: 81px;
+    left: 1282px;
+    width: 111px;
+    height: 327px;
+}
+.terms-of-use1 {
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.privacy-policy1 {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+.cookie-policy {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+}
+.terms-of-use-parent {
+    position: absolute;
+    top: 81px;
+    left: 1522px;
+    width: 132px;
+    height: 157px;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 522px;
+    left: 250px;
+    white-space: pre-wrap;
+}
+/* .group-child31 {
+    position: absolute;
+    top: 446px;
+    left: 1757px;
+    width: 78px;
+    height: 78px;
+} */
+
+.b-insure-variantsfooter-inner {
+    position: absolute;
+    height: 13.02%;
+    width: 4.06%;
+    top: 74.46%;
+    right: 4.43%;
+    bottom: 12.52%;
+    left: 91.51%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.rectangle-parent27 {
+    position: absolute;
+    top: 166.89px;
+    left: 0.06px;
+    width: 1920px;
+    height: 599px;
+}
+.group-child32 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #2079ff;
+    width: 1921px;
+    height: 166.9px;
+}
+.button-with-icon2 {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 0%;
+    bottom: 14.84%;
+    left: 82.78%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.button-with-icon3 {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 18.36%;
+    bottom: 14.84%;
+    left: 64.41%;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    color: #046eb6;
+}
+.join-the-team {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    line-height: 170%;
+}
+.change-insurance-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.join-the-team-that-is-making-h-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+}
+.group-wrapper27 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+    text-align: left;
+}
+.button-with-icon-group {
+    position: absolute;
+    height: 54.52%;
+    width: 74.96%;
+    top: 22.59%;
+    right: 12.52%;
+    bottom: 22.89%;
+    left: 12.52%;
+}
+.rectangle-parent28 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 166.9px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.group-parent36 {
+    position: absolute;
+    top: 10561.63px;
+    left: -0.06px;
+    width: 1921px;
+    height: 765.9px;
+    font-size: 20px;
+    color: #fff;
+}
+.group-child33 {
+    position: absolute;
+    top: 64.57px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 803px;
+}
+.feature-21 {
+    position: absolute;
+    top: 0px;
+    left: 0.06px;
+    background-color: #fcfcfc;
+    width: 1920px;
+    height: 1392px;
+    overflow: hidden;
+}
+.rectangle-parent29 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.1px;
+    height: 1392px;
+}
+.need-to-cancel-your-trip-due-t-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 462px;
+    height: 23px;
+}
+.arrow-left-s-line-icon8 {
+    position: absolute;
+    top: 0.11px;
+    left: 586.06px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent43 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 616.1px;
+    height: 30.1px;
+}
+.group-child34 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eee;
+    width: 576px;
+    height: 123px;
+}
+.dropdown {
+    margin-top: 10px;
+    padding: 5px;
+    display: none;
+    position: fixed;
+    width: 253px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #f4e8e8;
+    box-shadow: 0px 12px 16px -4px #10182814, -1px 3px 6px 4px #10182808;
+    overflow: inherit;
+    z-index: 1;
+    top: 102px;
+}
+.dropdown-option{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    /* background-color: #f8f8f8; */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    /* align-items: center; */
+}
+
+.dropdown-option:hover {
+    background-color: #e8e8e8;
+}
+
+.dropdown-option .line1 {
+    width: 125px;
+    position: fixed;
+    font-size: 16px;
+    line-height: 170%;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    color: #373737;
+    text-align: left;
+}
+
+.dropdown-option .line2 {
+    width: auto;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 300%;
+    font-family: 'Plus Jakarta Sans';
+    color: #7f7c7c;
+    text-align: left;
+    display: inline-block;
+    top: 29%;
+}
+
+
+.get-coverage-for {
+    position: absolute;
+    top: 10.5px;
+    left: 19.05px;
+    line-height: 190%;
+    display: inline-block;
+    width: 557px;
+}
+.rectangle-parent30 {
+    position: absolute;
+    top: 46.11px;
+    left: 0px;
+    width: 576px;
+    height: 123px;
+}
+.group-parent42 {
+    position: absolute;
+    top: 299px;
+    left: 0px;
+    width: 616.1px;
+    height: 169.1px;
+}
+.was-your-luggage-lost-or-stole-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 285px;
+    height: 23px;
+}
+.group-child35 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eee;
+    width: 576px;
+    height: 206.5px;
+}
+.rectangle-parent31 {
+    position: absolute;
+    top: 46.11px;
+    left: 0px;
+    width: 576px;
+    height: 206.5px;
+}
+.group-parent44 {
+    position: absolute;
+    top: 492.11px;
+    left: 0px;
+    width: 616.1px;
+    height: 252.6px;
+}
+.stranded-due-to-unexpected-tra-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 377px;
+    height: 23px;
+}
+.group-child36 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eee;
+    width: 576px;
+    height: 147.9px;
+}
+.rectangle-parent32 {
+    position: absolute;
+    top: 46.11px;
+    left: 0px;
+    width: 576px;
+    height: 147.9px;
+}
+.group-parent46 {
+    position: absolute;
+    top: 768.67px;
+    left: 0px;
+    width: 616.1px;
+    height: 194px;
+}
+.why-should-i {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 150%;
+    display: inline-block;
+    width: 544px;
+}
+.whether-youre-embarking {
+    position: absolute;
+    top: 138px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 170%;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 609px;
+}
+.why-should-i-purchase-travel-i-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 609px;
+    height: 275px;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent41 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 616.1px;
+    height: 962.7px;
+}
+.button-with-icon4 {
+    position: absolute;
+    height: 4.59%;
+    width: 23.86%;
+    top: 95.41%;
+    right: 76.14%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+.group-parent40 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 616.1px;
+    height: 1045.4px;
+}
+.group-wrapper28 {
+    position: absolute;
+    top: 173.28px;
+    left: 265.3px;
+    width: 616.1px;
+    height: 1045.4px;
+}
+.group-icon1 {
+    position: absolute;
+    height: 100%;
+    width: 100.12%;
+    top: 0%;
+    right: 4.02%;
+    bottom: 0%;
+    left: 1.86%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.group-icon2 {
+    position: absolute;
+    height: 84.59%;
+    width: 83%;
+    top: 14.68%;
+    right: 0.01%;
+    bottom: 0.73%;
+    left: 16.99%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon3 {
+    position: absolute;
+    height: 74.2%;
+    width: 57.65%;
+    top: 25.08%;
+    right: 6.55%;
+    bottom: 0.72%;
+    left: 35.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon4 {
+    position: absolute;
+    height: 76.42%;
+    width: 48.32%;
+    top: 22.91%;
+    right: 51.68%;
+    bottom: 0.67%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon1 {
+    position: absolute;
+    height: 17.26%;
+    width: 26.11%;
+    top: 82.02%;
+    right: 56.92%;
+    bottom: 0.72%;
+    left: 16.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon2 {
+    position: absolute;
+    height: 2.56%;
+    width: 2.33%;
+    top: 91.42%;
+    right: 77.95%;
+    bottom: 6.02%;
+    left: 19.73%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon3 {
+    position: absolute;
+    height: 2.56%;
+    width: 2.33%;
+    top: 95.64%;
+    right: 78.36%;
+    bottom: 1.79%;
+    left: 19.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon5 {
+    position: absolute;
+    height: 1.26%;
+    width: 7.51%;
+    top: 92.07%;
+    right: 69.03%;
+    bottom: 6.67%;
+    left: 23.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon4 {
+    position: absolute;
+    height: 2.56%;
+    width: 2.33%;
+    top: 86.82%;
+    right: 77.19%;
+    bottom: 10.62%;
+    left: 20.48%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon6 {
+    position: absolute;
+    height: 1.26%;
+    width: 7.51%;
+    top: 87.48%;
+    right: 68.27%;
+    bottom: 11.27%;
+    left: 24.22%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon7 {
+    position: absolute;
+    height: 1.26%;
+    width: 12.21%;
+    top: 96.3%;
+    right: 64.74%;
+    bottom: 2.45%;
+    left: 23.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.vector-icon5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon8 {
+    position: absolute;
+    height: 54.7%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 45.3%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon9 {
+    position: absolute;
+    height: 31.28%;
+    width: 100%;
+    top: 68.82%;
+    right: 0%;
+    bottom: -0.1%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group4 {
+    position: absolute;
+    height: 46.8%;
+    width: 81.07%;
+    top: 13.96%;
+    right: 6.58%;
+    bottom: 39.24%;
+    left: 12.35%;
+}
+.group3 {
+    position: absolute;
+    height: 19.42%;
+    width: 20.48%;
+    top: 6.71%;
+    right: 49.67%;
+    bottom: 73.87%;
+    left: 29.84%;
+}
+.group-icon10 {
+    position: absolute;
+    height: 38.11%;
+    width: 24.06%;
+    top: 61.17%;
+    right: 6.81%;
+    bottom: 0.73%;
+    left: 69.13%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group1 {
+    position: absolute;
+    height: 83.49%;
+    width: 86.51%;
+    top: 8.83%;
+    right: 5.18%;
+    bottom: 7.68%;
+    left: 8.31%;
+}
+.why-buy-insurance-1 {
+    position: absolute;
+    top: 86.78px;
+    left: 881.36px;
+    width: 820px;
+    height: 771px;
+    overflow: hidden;
+}
+.group-parent39 {
+    position: absolute;
+    top: 3673.5px;
+    left: -0.06px;
+    width: 1920.1px;
+    height: 1392px;
+    font-size: 18px;
+}
+.group-icon11 {
+    position: absolute;
+    height: 1.84%;
+    width: 8.63%;
+    top: 10.89%;
+    right: 86.01%;
+    bottom: 87.27%;
+    left: 5.36%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.travel-insurance-child {
+    position: absolute;
+    top: 1330px;
+    left: 328.44px;
+    width: 575.1px;
+    height: 682px;
+}
+.group-child37 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f6f6f6;
+    width: 1920px;
+    height: 1042.6px;
+}
+.get-out-there-container {
+    position: absolute;
+    top: 77px;
+    left: 0px;
+    font-size: 27px;
+    line-height: 170%;
+}
+.travel-insurance-plans-parent {
+    position: absolute;
+    top: 0px;
+    left: 15px;
+    width: 1303px;
+    height: 169px;
+    font-size: 42px;
+}
+.canadian-residents {
+    position: absolute;
+    top: 33.06px;
+    left: 40.5px;
+}
+.blank-line4 {
+    margin: 0;
+    color: #073141;
+}
+.vacation-package-emergency-med {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 25px;
+}
+.without-sufficient-travel-container {
+    position: absolute;
+    top: 97.06px;
+    left: 40px;
+    font-size: 18.5px;
+    line-height: 170%;
+    display: inline-block;
+    width: 363px;
+    color: #4d4c4c;
+}
+.icon-100-112 {
+    position: absolute;
+    top: 355.93px;
+    left: 298.36px;
+    border-radius: 8px;
+    background-color: #f8fdff;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.buy-now {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 140%;
+}
+.arrow-left-s-line-icon11 {
+    position: absolute;
+    top: 3px;
+    left: 83px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.buy-now-parent {
+    position: absolute;
+    top: 365.53px;
+    left: 40px;
+    width: 107px;
+    height: 27px;
+    font-size: 18px;
+}
+.card-child {
+    position: absolute;
+    height: 17.49%;
+    width: 20.36%;
+    top: 73.26%;
+    right: 11.71%;
+    bottom: 9.24%;
+    left: 67.93%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.card {
+    position: absolute;
+    top: 234.42px;
+    left: 0px;
+    box-shadow: 0px 8px 8px -4px rgba(16, 24, 40, 0.03), 0px 20px 24px -6px rgba(16, 24, 40, 0.08);
+    border-radius: 15px;
+    background-color: #fff;
+    border: 1px solid #bfbfbf;
+    box-sizing: border-box;
+    width: 446px;
+    height: 495px;
+    overflow: hidden;
+}
+.individuals-or-families {
+    position: absolute;
+    top: 97.06px;
+    left: 40px;
+    font-size: 18.5px;
+    line-height: 170%;
+    color: #4d4c4c;
+    display: inline-block;
+    width: 363px;
+}
+.icon-100-113 {
+    position: absolute;
+    top: 357.06px;
+    left: 303px;
+    border-radius: 8px;
+    background-color: #f8fdff;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.arrow-left-s-line-icon12 {
+    position: absolute;
+    top: 1px;
+    left: 83px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.buy-now-group {
+    position: absolute;
+    top: 271.87px;
+    left: 40px;
+    width: 107px;
+    height: 25px;
+    font-size: 18px;
+}
+.commercial-1-icon {
+    position: absolute;
+    top: 358.43px;
+    left: 305.5px;
+    width: 95px;
+    height: 95px;
+    overflow: hidden;
+}
+.card1 {
+    position: absolute;
+    top: 234.42px;
+    left: 495px;
+    box-shadow: 0px 8px 8px -4px rgba(16, 24, 40, 0.03), 0px 20px 24px -6px rgba(16, 24, 40, 0.08);
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #bfbfbf;
+    box-sizing: border-box;
+    width: 446px;
+    height: 495px;
+    overflow: hidden;
+}
+.staying-longer-than {
+    position: absolute;
+    top: 132.02px;
+    left: 40px;
+    font-size: 18.5px;
+    line-height: 170%;
+    color: #4d4c4c;
+    display: inline-block;
+    width: 363px;
+}
+.icon-100-114 {
+    position: absolute;
+    top: 368.98px;
+    left: 321px;
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.arrow-left-s-line-icon13 {
+    position: absolute;
+    top: 3px;
+    left: 154px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.check-out-offers-parent {
+    position: absolute;
+    top: 365.98px;
+    left: 40px;
+    width: 178px;
+    height: 27px;
+    font-size: 18px;
+}
+.card2 {
+    position: absolute;
+    top: 234.42px;
+    left: 990px;
+    box-shadow: 0px 8px 8px -4px rgba(16, 24, 40, 0.03), 0px 20px 24px -6px rgba(16, 24, 40, 0.08);
+    border-radius: 16px;
+    background-color: #fff;
+    border: 1px solid #bfbfbf;
+    box-sizing: border-box;
+    width: 446px;
+    height: 495px;
+    overflow: hidden;
+}
+.group-parent48 {
+    position: absolute;
+    top: 130.85px;
+    left: 244px;
+    width: 1436px;
+    height: 729.4px;
+}
+.rectangle-parent33 {
+    position: absolute;
+    top: 6002.73px;
+    left: 0px;
+    width: 1920px;
+    height: 1042.6px;
+    font-size: 32px;
+}
+.travel-insurance {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1170%;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+@media(max-width: 1285px){
+    .frame-group{
+        /* background-color: red; */
+        margin-left: -400px;
+    }
+    .b-insure-variants-item{
+        margin-left: -400px;
+
+    }
+    .group-container,.group-child,.group-div{
+        /* background-color: green; */
+        margin-right: 80px;
+    }
+    #header-content{
+        margin-left: -100px;
+    }
+    .group-parent6{
+        margin-left: -190px;
+
+    }
+    .bi-icon{
+        margin-left: -200px;
+
+    }
+    /* .group-parent7{
+        margin-left: -220px;
+    } */
+   .travel-insurance-child{
+    margin-left: -320px;
+   }
+   .travel-insurance-for-travelers-parent{
+    margin-left: -320px;
+   }
+   .travel-insurance-coverages-parent{
+    margin-left: -150px;
+   }
+   .group-parent11{
+    transform: scale(0.9);
+    margin-left: -300px;
+    margin-top: -80px;
+   }
+   .why-should-i-purchase-travel-i-parent,.group-parent42,.group-parent44,.group-parent46,.button-with-icon4{
+    margin-left: -220px;
+   }
+   .group-parent14{
+    margin-left: -190px;
+    }
+    /* .group-icon1{margin-left: -220px;} */
+    .group-parent48{
+    margin-left: -190px;
+
+    }
+    .group-parent16{
+    margin-left: -190px;
+    }
+    .image-35-parent{
+        margin-left: -200px;
+    }
+    .group-child5,.group-icon{
+        margin-left: -300px;
+
+    }
+    .group-parent8{
+        margin-left: -150px;
+    }
+    #nambar{
+        /* background-color: red; */
+        margin-left: 200px;
+    }
+    #cont{
+        margin-right: 0px;
+    }
+    .group-parent18{
+        margin-left: -220px;
+    }
+    .button-with-icon-group{
+        margin-left: -220px;
+
+    }
+    .group-parent37{
+        margin-left: -160px;
+    }
+    .quick-links-parent{
+        margin-left: -360px;
+
+    }
+    .terms-of-use-parent{
+        margin-left: -360px;
+
+    }
+    .binsure{
+        margin-left: -150px;
+    }
+}
+@media(max-width :1055px){
+    .frame-group{
+        /* background-color: red; */
+        margin-left: -550px;
+    }
+    .b-insure-variants-item{
+        margin-left: -550px;
+
+    }
+    .group-child,.group-div{
+        /* background-color: green; */
+        margin-right: 230px;
+    }
+    #header-content{
+        margin-left: -240px;
+    }
+    .group-parent6{
+        margin-left: -190px;
+
+    }
+    .bi-icon{
+        margin-left: -200px;
+
+    }
+    /* .group-parent7{
+        margin-left: -220px;
+    } */
+   .travel-insurance-child{
+    transform: scale(0.9);
+    margin-left: -360px;
+   }
+   .travel-insurance-for-travelers-parent{
+    transform: scale(0.9);
+    margin-left: -480px;
+   }
+   .travel-insurance-coverages-parent{
+    margin-left: -150px;
+   }
+   .group-parent11{
+    transform: scale(0.9);
+    margin-left: -320px;
+    margin-top: -80px;
+   }
+   .why-should-i-purchase-travel-i-parent,.group-parent42,.group-parent44,.group-parent46,.button-with-icon4{
+    transform: scale(0.9);
+    margin-left: -260px;
+   }
+   .group-parent14{
+    transform: scale(0.9);
+    margin-left: -310px;
+    }
+    .group-icon1{margin-left: -350px;
+    transform: scale(0.9);
+    transform-origin: top left;
+    }
+    .group-parent48{
+        transform: scale(0.9);
+    margin-left: -310px;
+
+    }
+    .group-parent16{
+        transform: scale(0.9);
+    margin-left: -290px;
+    }
+    .image-35-parent{
+        margin-left: -290px;
+    }
+    .group-child5,.group-icon{
+        margin-left: -560px;
+
+    }
+    .group-parent8{
+        margin-left: -350px;
+        transform: scale(0.9);
+    }
+    #nambar{
+        /* background-color: red; */
+        margin-left: 290px;
+    }
+    #cont{
+        margin-right: 0px;
+    }
+    .group-parent18{
+        margin-left: -320px;
+        transform: scale(0.9);
+    }
+    .group-parent21{
+        margin-left: -150px;
+    }
+    .button-with-icon-group{
+        transform: scale(0.8);
+        margin-left: -320px;
+
+    }
+    .group-parent37{
+        margin-left: -160px;
+    }
+    .quick-links-parent{
+        margin-left: -560px;
+
+    }
+    .terms-of-use-parent{
+        margin-left: -560px;
+
+    }
+    .binsure{
+        margin-left: -150px;
+    }
+    #logo{
+        margin-left: 90px;
+    }
+
+}
+@media(max-width: 841px){
+    .travel{
+        transform: scale(0.6);
+        width: 170%;
+    }
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+.new-arrow-left-s-line-icon1 {
+    /*Adjust spacing as needed*/
+    transition: transform 0.3s ease; /* Smooth rotation */
+    flex-shrink: 0; /* Prevent arrow icon from shrinking */
+    transform: rotate(180deg);
+  }
+  
+  
+  /* Initial styles */
+  .new-content {
+    display: none;
+    overflow: hidden;
+  }
+  
+  /* Arrow rotation */
+  .new-arrow-left-s-line-icon1.collapsed {
+    transform: rotate(360deg);
+  }
+  
+  /* Section toggled open */
+  .new-content.active {
+    display: block;
+  }
+  .new-what-is-a-life-insurance-wrapper {
+    flex-grow: 1; /* Allow text to take available space */
+    flex-shrink: 1; /* Allow text to shrink i
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    white-space: nowrap; /* Prevent text from wrapping */
+
+}
+
+
+
+

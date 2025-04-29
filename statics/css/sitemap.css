@@ -1,0 +1,981 @@
+.sitee{
+    transform: scale(0.8);
+    transform-origin: top left;
+    width: 125%;
+    height: 100vh;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon {
+    position: absolute;
+    top: 271px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.image-2-icon {
+    position: absolute;
+    top: 271px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.background-simple-icon {
+    position: absolute;
+    height: 13.76%;
+    width: 18.22%;
+    top: 29.97%;
+    right: 42.03%;
+    bottom: 56.27%;
+    left: 39.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #2079ff;
+    width: 1921px;
+    height: 148.6px;
+}
+.add-listing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.button-with-icon {
+    position: absolute;
+    height: 75.29%;
+    width: 17.22%;
+    top: 12.35%;
+    right: 0%;
+    bottom: 12.35%;
+    left: 82.78%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 75.29%;
+    width: 17.22%;
+    top: 12.35%;
+    right: 18.36%;
+    bottom: 12.35%;
+    left: 64.41%;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    color: #046eb6;
+}
+.join-the-team {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    line-height: 170%;
+}
+.change-insurance-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.group-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 665px;
+    height: 85px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 665px;
+    height: 85px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.button-with-icon-parent {
+    position: absolute;
+    height: 57.2%;
+    width: 74.96%;
+    top: 23.8%;
+    right: 12.52%;
+    bottom: 19%;
+    left: 12.52%;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 1268.16px;
+    left: -0.07px;
+    width: 1921px;
+    height: 148.6px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.home {
+    margin: 0;
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+.home-about-us-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-decoration: underline;
+    line-height: 238%;
+    text-transform: capitalize;
+}
+.life-insurance {
+    margin: 0;
+    text-decoration: underline;
+}
+.insurance-life-insurance-container {
+    position: absolute;
+    top: 0px;
+    left: 306.54px;
+    line-height: 238%;
+    text-transform: capitalize;
+}
+.commercial {
+    position: absolute;
+    top: 0px;
+    left: 713.07px;
+    line-height: 238%;
+    text-transform: capitalize;
+}
+.support-contact-us-container {
+    position: absolute;
+    top: 0px;
+    left: 1007.61px;
+    line-height: 238%;
+    text-transform: capitalize;
+}
+.home-about-us-contact-us-how-i-parent {
+    position: absolute;
+    top: 128.01px;
+    left: 0.51px;
+    width: 1155.6px;
+    height: 456px;
+}
+.navigate-your-way {
+    position: absolute;
+    top: 0px;
+    left: 0.51px;
+    font-size: 32px;
+}
+.group-item {
+    position: absolute;
+    top: 83.5px;
+    left: calc(50% - 578.8px);
+    border-top: 1px solid #bfbdc1;
+    box-sizing: border-box;
+    width: 1157.6px;
+    height: 1px;
+}
+.group-parent {
+    position: absolute;
+    top: 416.69px;
+    left: 381.69px;
+    width: 1156.6px;
+    height: 584px;
+    font-size: 24px;
+    color: #073141;
+}
+.b-insure-variantsfooter-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 100%;
+    right: 0%;
+    bottom: -100%;
+    left: 0%;
+    background-color: #353535;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-inner {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.image-35-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-frame {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.po-box-9999-container {
+    position: absolute;
+    top: 57.14%;
+    left: 0%;
+}
+.group-div {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.b-insure-variantsfooter-item {
+    position: absolute;
+    height: 0.33%;
+    width: 75.1%;
+    top: 80.8%;
+    right: 12.45%;
+    bottom: 18.86%;
+    left: 12.45%;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+}
+.quick-links {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 21.05%;
+    left: 0%;
+    cursor: pointer;
+}
+.careers {
+    position: absolute;
+    top: 35.79%;
+    left: 0%;
+    cursor: pointer;
+}
+.contact-us2 {
+    position: absolute;
+    top: 50.53%;
+    left: 0%;
+    cursor: pointer;
+}
+.blog2 {
+    position: absolute;
+    top: 65.26%;
+    left: 0%;
+}
+.faqs1 {
+    position: absolute;
+    top: 80%;
+    left: 0%;
+}
+.about {
+    position: absolute;
+    top: 94.74%;
+    left: 0%;
+}
+.quick-links-parent {
+    position: absolute;
+    height: 47.58%;
+    width: 5.78%;
+    top: 13.52%;
+    right: 27.45%;
+    bottom: 38.9%;
+    left: 66.77%;
+}
+.terms-of-use1 {
+    position: absolute;
+    top: 36.94%;
+    left: 0%;
+    cursor: pointer;
+}
+.privacy-policy1 {
+    position: absolute;
+    top: 63.69%;
+    left: 0%;
+    cursor: pointer;
+}
+.cookie-policy {
+    position: absolute;
+    top: 90.45%;
+    left: 0%;
+    cursor: pointer;
+}
+.terms-of-use-parent {
+    position: absolute;
+    height: 26.21%;
+    width: 6.88%;
+    top: 13.52%;
+    right: 13.85%;
+    bottom: 60.27%;
+    left: 79.27%;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 87.15%;
+    left: 13.02%;
+    white-space: pre-wrap;
+}
+.b-insure-variantsfooter-inner {
+    position: absolute;
+    height: 13.02%;
+    width: 4.06%;
+    top: 74.46%;
+    right: 4.43%;
+    bottom: 12.52%;
+    left: 91.51%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.b-insure-variantsfooter {
+    position: absolute;
+    bottom: 0px;
+    left: 10px;
+    width: 1920px;
+    height: 599px;
+    font-size: 20px;
+    background-color: #353535;
+}
+.dropdown {
+    margin-top: 10px;
+    padding: 5px;
+    display: none;
+    position: fixed;
+    width: 253px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #f4e8e8;
+    box-shadow: 0px 12px 16px -4px #10182814, -1px 3px 6px 4px #10182808;
+    overflow: inherit;
+    z-index: 1;
+    top: 102px;
+}
+.dropdown-option{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    /* background-color: #f8f8f8; */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    /* align-items: center; */
+}
+
+.dropdown-option:hover {
+    background-color: #e8e8e8;
+}
+
+.dropdown-option .line1 {
+    width: 125px;
+    position: fixed;
+    font-size: 16px;
+    line-height: 170%;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    color: #373737;
+    text-align: left;
+}
+
+.dropdown-option .line2 {
+    width: auto;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 300%;
+    font-family: 'Plus Jakarta Sans';
+    color: #7f7c7c;
+    text-align: left;
+    display: inline-block;
+    top: 29%;
+}
+
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 24%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 40px;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1921px;
+    height: 216.7px;
+}
+.about-hero-heading {
+    position: absolute;
+    top: 81.84px;
+    left: 874px;
+    width: 173px;
+    height: 53px;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 120px;
+    left: -0.07px;
+    width: 1921px;
+    height: 216.7px;
+    text-align: center;
+    font-size: 42px;
+    color: #073141;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.b-insure-variants-item {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0%;
+    left: 44.11%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+}
+.rectangle-div {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.17%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent2 {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.individual {
+    position: relative;
+}
+.individual-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 12.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 15.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.travel-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+    cursor: pointer;
+}
+.support-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 11.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.button-with-icon2 {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0%;
+    right: 9.72%;
+    bottom: 0%;
+    left: 72.54%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+}
+.line-div {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+.search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-parent {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 1920px;
+    height: 80px;
+    color: #2b2b2b;
+}
+.sitemap-template {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 2016px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Plus Jakarta Sans';
+}
+@media(max-width :1285px){
+    .frame-parent,.b-insure-variants-item{
+        margin-left: -400px;
+    }
+    .image-35-icon,.rectangle-div,.bi-icon1{
+        margin-left: -170px;
+    }
+    #site-icon{
+        margin-left: -200px;
+
+    }
+    .change-insurance-for,.join-the-team{
+        margin-left: -200px;
+
+    }
+    .group-div{
+        margin-left: -200px;
+
+    }
+    #footer-icon{
+        margin-left: 0px;
+    }
+    
+    .group-parent1{
+        margin-left: -250px;
+    }
+    .group-parent11{
+        margin-left: -190px;
+    }
+    .binsure{
+        margin-left: -170px;
+    }
+    .group-parent31{
+        margin-left: -190px;
+    }
+    .group-parent12{
+        margin-left: -190px;
+    }
+    .group-parent8{
+        margin-left: -180px;
+    }
+    .group-parent20{
+        margin-left: -190px;
+    }
+    .group-parent14{
+        margin-left: -190px;
+    }
+    .group-parent10{
+        margin-left: -190px;
+
+    }
+    .the-raw-materials-finished-pr-parent{
+        margin-left: -100px;
+    }
+    .button-with-icon5{
+        margin-left: -210px;
+    }
+    .group-child27,.group-child26{
+        margin-left: -190px;
+    }
+    .container{
+        margin-left: -190px;
+    }
+    .group-parent1{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .frequently-asked-questions-parent,.i-have-a,.arrow-left-s-line-icon{
+        margin-left: -190px;
+
+    }
+    
+    .group-parent23,.group-parent25,.group-parent27,.group-parent29{
+        margin-left: -190px;
+    }
+    .join-the-team-that-is-making-h-parent{
+        margin-left: -190px;
+
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        margin-left: -390px;
+        
+    }
+    .group-parent{
+        margin-left: -190px;
+    }
+    .button-with-icon1{
+        margin-left: -250px;
+    }
+    .button-with-icon{
+        margin-left: -250px;
+    }
+    .close-line-icon1{
+        margin-left: -400px;
+
+    }
+}
+@media(max-width: 1137px){
+    .frame-parent,.b-insure-variants-item{
+        margin-left: -550px;
+    }
+    .image-35-icon,.rectangle-div,.bi-icon1{
+        margin-left: -170px;
+    }
+    #site-icon{
+        margin-left: -300px;
+
+    }
+    .change-insurance-for,.join-the-team{
+        margin-left: -200px;
+
+    }
+    .group-div{
+        margin-left: -200px;
+
+    }
+    #footer-icon{
+        margin-left: 0px;
+    }
+    
+    .group-parent1{
+        margin-left: -250px;
+    }
+    .group-parent11{
+        margin-left: -190px;
+    }
+    .binsure{
+        margin-left: -170px;
+    }
+    .group-parent31{
+        margin-left: -190px;
+    }
+    .group-parent12{
+        margin-left: -190px;
+    }
+    .group-parent8{
+        margin-left: -180px;
+    }
+    .group-parent20{
+        margin-left: -190px;
+    }
+    .group-parent14{
+        margin-left: -190px;
+    }
+    .group-parent10{
+        margin-left: -190px;
+
+    }
+    .the-raw-materials-finished-pr-parent{
+        margin-left: -100px;
+    }
+    .button-with-icon5{
+        margin-left: -210px;
+    }
+    .group-child27,.group-child26{
+        margin-left: -190px;
+    }
+    .container{
+        margin-left: -190px;
+    }
+    .group-parent1{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .frequently-asked-questions-parent,.i-have-a,.arrow-left-s-line-icon{
+        margin-left: -190px;
+
+    }
+    
+    .group-parent23,.group-parent25,.group-parent27,.group-parent29{
+        margin-left: -190px;
+    }
+    .join-the-team-that-is-making-h-parent{
+        margin-left: -190px;
+
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        margin-left: -390px;
+        
+    }
+    .group-parent{
+        margin-left: -270px;
+    }
+    .button-with-icon1{
+        margin-left: -350px;
+    }
+    .button-with-icon{
+        margin-left: -350px;
+    }
+    .close-line-icon1{
+        margin-left: -400px;
+
+    }
+}
+@media(max-width: 1068px){
+   
+.sitee{
+    transform: scale(0.72);
+    width: 145%;
+}
+
+
+}
+@media(max-width: 947px){
+    .sitee{
+        transform: scale(0.63);
+        width: 155%;
+    }
+}
+@media(max-width: 847px){
+    .sitee{
+        transform: scale(0.55);
+        width: 175%;
+    }
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+

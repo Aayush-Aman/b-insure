@@ -1,0 +1,1202 @@
+.contact-me{
+    transform: scale(0.8);
+    transform-origin: top left;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon {
+    position: absolute;
+    top: 271px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.dropdown {
+    margin-top: 10px;
+    padding: 5px;
+    display: none;
+    position: fixed;
+    width: 253px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #f4e8e8;
+    box-shadow: 0px 12px 16px -4px #10182814, -1px 3px 6px 4px #10182808;
+    overflow: auto;
+    z-index: 1;
+    top: 19%;
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+
+.dropdown-option{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    /* background-color: #f8f8f8; */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    /* align-items: center; */
+    
+}
+
+.dropdown-option:hover {
+    background-color: #e8e8e8;
+}
+
+.dropdown-option .line1 {
+    width: 125px;
+    position: fixed;
+    font-size: 16px;
+    line-height: 170%;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    color: #373737;
+    text-align: left;
+}
+
+.dropdown-option .line2 {
+    width: auto;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 300%;
+    font-family: 'Plus Jakarta Sans';
+    color: #7f7c7c;
+    text-align: left;
+    display: inline-block;
+    top: 29%;
+}
+.image-2-icon {
+    position: absolute;
+    top: 271px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 35%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 40px;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fcfcfc;
+    width: 1921px;
+    height: 850.3px;
+}
+.layer-2-icon {
+    position: absolute;
+    height: 50.64%;
+    width: 20.4%;
+    top: 49.36%;
+    right: 39.8%;
+    bottom: 0%;
+    left: 39.8%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.lets-connect {
+    position: absolute;
+    top: 0px;
+    left: 448.58px;
+}
+.our-friendly-support {
+    margin: 0;
+}
+.our-friendly-support-container {
+    position: absolute;
+    top: 77.37px;
+    left: calc(50% - 593.1px);
+    font-size: 21.5px;
+    letter-spacing: 0.01em;
+    line-height: 170%;
+    display: inline-block;
+    width: 1186.2px;
+}
+.about-hero-heading {
+    position: absolute;
+    top: 163.13px;
+    left: 367.43px;
+    width: 1186.2px;
+    height: 151.4px;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 120px;
+    left: -0.07px;
+    width: 1921px;
+    height: 850.3px;
+    text-align: center;
+    font-size: 42px;
+    color: #073141;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.b-insure-variants-item {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0%;
+    left: 44.11%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-child {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.17%;
+    background-color: #fff;
+}
+.image-35-parent {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home {
+    position: relative;
+}
+.home-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.individual-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 12.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 15.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.travel-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+
+}
+.support-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 11.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.add-listing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.button-with-icon {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0%;
+    right: 9.72%;
+    bottom: 0%;
+    left: 72.54%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+}
+.group-item {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+.search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-parent {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 1920px;
+    height: 80px;
+    color: #2b2b2b;
+}
+.group-inner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1921px;
+    height: 794px;
+}
+.more-ways-to {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 193.5px);
+    line-height: 152%;
+}
+.we-understand-every-container {
+    position: absolute;
+    top: 79px;
+    left: calc(50% - 339.5px);
+    font-size: 18px;
+    line-height: 170%;
+}
+.more-ways-to-connect-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 339.12px);
+    width: 679px;
+    height: 141px;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 384.7px;
+    height: 320.8px;
+}
+.group-child1 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+}
+.chat-with-your {
+    position: absolute;
+    top: -53%;
+    left: 0%;
+}
+.chat-with-your-personal-adviso-wrapper {
+    position: absolute;
+    height: 18.33%;
+    width: 77.65%;
+    top: 41.67%;
+    right: 11.18%;
+    bottom: 40%;
+    left: 11.18%;
+}
+.rectangle-container {
+    position: absolute;
+    height: 18.7%;
+    width: 88.38%;
+    top: 66.98%;
+    right: 5.81%;
+    bottom: 14.31%;
+    left: 5.81%;
+    text-align: center;
+    font-family: Poppins;
+}
+.individual1 {
+    position: absolute;
+    top: 43.77px;
+    left: 41.33px;
+    font-size: 24px;
+    color: #000;
+}
+.your-personal-advisor {
+    position: absolute;
+    top: 90.84px;
+    left: 41.33px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 306.5px;
+}
+.rectangle-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 384.7px;
+    height: 320.8px;
+}
+.talk-to-our-business-advisor-wrapper {
+    position: absolute;
+    height: 18.33%;
+    width: 67.65%;
+    top: 41.67%;
+    right: 16.18%;
+    bottom: 40%;
+    left: 16.18%;
+}
+.rectangle-parent2 {
+    position: absolute;
+    height: 18.7%;
+    width: 88.38%;
+    top: 66.98%;
+    right: 5.73%;
+    bottom: 14.31%;
+    left: 5.89%;
+}
+.talk-to-our-container {
+    position: absolute;
+    top: 47.07px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 306.5px;
+}
+.new-business-parent {
+    position: absolute;
+    top: 43.77px;
+    left: 41.33px;
+    width: 306.5px;
+    height: 109.1px;
+    text-align: left;
+    font-size: 24px;
+    color: #000;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 448.68px;
+    width: 384.7px;
+    height: 320.8px;
+    text-align: center;
+    font-family: Poppins;
+}
+.schedule-a-call-back-wrapper {
+    position: absolute;
+    height: 18.33%;
+    width: 49.71%;
+    top: 41.67%;
+    right: 25%;
+    bottom: 40%;
+    left: 25.29%;
+}
+.rectangle-parent4 {
+    position: absolute;
+    height: 18.7%;
+    width: 88.38%;
+    top: 66.98%;
+    right: 5.65%;
+    bottom: 14.31%;
+    left: 5.97%;
+    text-align: center;
+    font-family: Poppins;
+}
+.existing-partners {
+    position: absolute;
+    top: 58.77px;
+    left: 41.33px;
+    font-size: 24px;
+    color: #000;
+}
+.get-a-call-container {
+    position: absolute;
+    top: 113.84px;
+    left: 41.33px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 306.5px;
+}
+.rectangle-parent3 {
+    position: absolute;
+    top: 0px;
+    left: 897.36px;
+    width: 384.7px;
+    height: 320.8px;
+}
+.group-div {
+    position: absolute;
+    top: 221px;
+    left: 0px;
+    width: 1282px;
+    height: 320.8px;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+}
+.group-container {
+    position: absolute;
+    top: 126.08px;
+    left: calc(50% - 640.45px);
+    width: 1282px;
+    height: 541.8px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 1241.39px;
+    left: -1.07px;
+    width: 1921px;
+    height: 794px;
+    text-align: center;
+    font-size: 36px;
+    color: #073141;
+}
+.group-child6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1921px;
+    height: 700.6px;
+}
+.helpful-articles-on {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 337.5px);
+    font-size: 36px;
+    line-height: 152%;
+    color: #073141;
+    text-align: center;
+}
+.group-child7 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 337.1px;
+    height: 338px;
+}
+.rectangle-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    width: 337.1px;
+    height: 202.4px;
+    object-fit: cover;
+}
+.calculating-car-insurance-container {
+    position: absolute;
+    top: 229.26px;
+    left: 36.21px;
+    text-decoration: underline;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 169.76px;
+    left: 0px;
+    width: 337.1px;
+    height: 338px;
+}
+.sudden-increase-in-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-decoration: underline;
+    display: inline-block;
+    width: 263px;
+}
+.sudden-increase-in-insurance-p-wrapper {
+    position: absolute;
+    top: 229.26px;
+    left: 36.21px;
+    width: 263px;
+    height: 46px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 169.76px;
+    left: 367.65px;
+    width: 337.1px;
+    height: 338px;
+}
+.how-business {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.rectangle-parent8 {
+    position: absolute;
+    top: 169.76px;
+    left: 735.3px;
+    width: 337.1px;
+    height: 338px;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 169.76px;
+    left: 1102.95px;
+    width: 337.1px;
+    height: 338px;
+}
+.helpful-articles-on-more-than-parent {
+    position: absolute;
+    top: 75.49px;
+    left: calc(50% - 719.43px);
+    width: 1440px;
+    height: 507.8px;
+}
+.rectangle-parent5 {
+    position: absolute;
+    top: 2016.43px;
+    left: -1.07px;
+    width: 1921px;
+    height: 700.6px;
+    font-size: 18.5px;
+    color: #102b32;
+}
+.background-simple-icon {
+    position: absolute;
+    height: 7.35%;
+    width: 18.22%;
+    top: 16.01%;
+    right: 42.03%;
+    bottom: 76.64%;
+    left: 39.75%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+}
+.group-child14 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    width: 488.1px;
+    height: 351.6px;
+}
+.eastern-time-monday-container {
+    position: absolute;
+    top: 52.91px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+}
+.were-available-from-parent {
+    position: absolute;
+    top: 46.37px;
+    left: 45.95px;
+    width: 411px;
+    height: 163.9px;
+}
+.vector-parent {
+    position: absolute;
+    top: 0px;
+    left: 441px;
+    width: 488.1px;
+    height: 351.6px;
+}
+.group-child15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    width: 417px;
+    height: 351.6px;
+}
+.communications {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 27px;
+    color: #000;
+}
+.talk-to-us-container {
+    position: absolute;
+    top: 52.91px;
+    left: 0px;
+    line-height: 170%;
+}
+.mail-us-supportca-container {
+    position: absolute;
+    top: 150.47px;
+    left: 0px;
+    line-height: 170%;
+}
+.communications-parent {
+    position: absolute;
+    top: 46.37px;
+    left: 58.36px;
+    width: 225px;
+    height: 224.5px;
+}
+.vector-group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 417px;
+    height: 351.6px;
+    font-size: 21.5px;
+    color: #312f2f;
+}
+.group-child16 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12px;
+    width: 479.4px;
+    height: 351.6px;
+}
+.external-link-line-icon {
+    position: absolute;
+    top: 176.22px;
+    left: 192.81px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.view-on-google {
+    position: absolute;
+    top: 172.72px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 170%;
+    font-weight: 500;
+    color: #073141;
+}
+.external-link-line-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 361px;
+    height: 203.7px;
+}
+.group-wrapper {
+    position: absolute;
+    top: 46.37px;
+    left: 58.36px;
+    width: 361px;
+    height: 203.7px;
+}
+.vector-container {
+    position: absolute;
+    top: 0px;
+    left: 953.1px;
+    width: 479.4px;
+    height: 351.6px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 889.79px;
+    left: 243.73px;
+    width: 1432.5px;
+    height: 351.6px;
+    font-size: 27px;
+    color: #000;
+}
+.checkbox-circle-fill {
+    position: absolute;
+    top: 2051.39px;
+    left: 1267.62px;
+    width: 17.6px;
+    height: 17.1px;
+    overflow: hidden;
+}
+.checkbox-circle-fill1 {
+    position: absolute;
+    top: 2055.5px;
+    left: 1051.14px;
+    width: 17.6px;
+    height: 17.1px;
+    overflow: hidden;
+}
+.group-child17 {
+    position: absolute;
+    top: 38.53px;
+    left: 0px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #14677d, #29474f);
+    width: 1928.9px;
+    height: 400.6px;
+}
+.group-icon {
+    position: absolute;
+    height: 29.13%;
+    width: 14.96%;
+    top: 70.44%;
+    right: 12.92%;
+    bottom: 0.43%;
+    left: 72.12%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 24.89%;
+    width: 44.81%;
+    top: 75.12%;
+    right: 55.19%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.getting-business-insurance-sho {
+    position: absolute;
+    top: 63.02px;
+    left: 0px;
+    line-height: 170%;
+    display: inline-block;
+    width: 553.4px;
+}
+.ready-to-start {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.getting-business-insurance-sho-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 156px;
+}
+.group-frame {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 156px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.button-with-icon-parent {
+    position: absolute;
+    height: 58.55%;
+    width: 28.69%;
+    top: 25.11%;
+    right: 58.52%;
+    bottom: 16.34%;
+    left: 12.79%;
+}
+.group-child18 {
+    position: absolute;
+    height: 99.57%;
+    width: 14.3%;
+    top: 0%;
+    right: 17.62%;
+    bottom: 0.43%;
+    left: 68.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent10 {
+    position: absolute;
+    top: 2736.03px;
+    left: -6.66px;
+    width: 1928.9px;
+    height: 439.1px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.b-insure-variantsfooter-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 100%;
+    right: 0%;
+    bottom: -100%;
+    left: 0%;
+    background-color: #353535;
+}
+.group-child19 {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-wrapper2 {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.po-box-9999-container {
+    position: absolute;
+    top: 57.14%;
+    left: 0%;
+}
+.group-parent2 {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.b-insure-variantsfooter-item {
+    position: absolute;
+    height: 0.33%;
+    width: 75.1%;
+    top: 80.8%;
+    right: 12.45%;
+    bottom: 18.86%;
+    left: 12.45%;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+}
+.quick-links {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 21.05%;
+    left: 0%;
+    cursor: pointer;
+}
+.careers {
+    position: absolute;
+    top: 35.79%;
+    left: 0%;
+    cursor: pointer;
+}
+.contact-us1 {
+    position: absolute;
+    top: 50.53%;
+    left: 0%;
+    cursor: pointer;
+}
+.blog {
+    position: absolute;
+    top: 65.26%;
+    left: 0%;
+}
+.faqs {
+    position: absolute;
+    top: 80%;
+    left: 0%;
+}
+.about {
+    position: absolute;
+    top: 94.74%;
+    left: 0%;
+}
+.quick-links-parent {
+    position: absolute;
+    height: 47.58%;
+    width: 5.78%;
+    top: 13.52%;
+    right: 27.45%;
+    bottom: 38.9%;
+    left: 66.77%;
+}
+.terms-of-use {
+    position: absolute;
+    top: 36.94%;
+    left: 0%;
+    cursor: pointer;
+}
+.privacy-policy {
+    position: absolute;
+    top: 63.69%;
+    left: 0%;
+    cursor: pointer;
+}
+.cookie-policy {
+    position: absolute;
+    top: 90.45%;
+    left: 0%;
+    cursor: pointer;
+}
+.terms-of-use-parent {
+    position: absolute;
+    height: 26.21%;
+    width: 6.88%;
+    top: 13.52%;
+    right: 13.85%;
+    bottom: 60.27%;
+    left: 79.27%;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 87.15%;
+    left: 13.02%;
+    white-space: pre-wrap;
+}
+.b-insure-variantsfooter-inner {
+    position: absolute;
+    height: 13.02%;
+    width: 4.06%;
+    top: 74.46%;
+    right: 4.43%;
+    bottom: 12.52%;
+    left: 91.51%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.b-insure-variantsfooter {
+    position: absolute;
+    top: 3174px;
+    left: calc(50% - 960px);
+    width: 1920px;
+    height: 599px;
+    font-size: 20px;
+    background-color: #353535;
+}
+.contact-us {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 3773px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: 'Plus Jakarta Sans';
+}
+

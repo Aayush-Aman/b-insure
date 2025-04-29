@@ -1,0 +1,659 @@
+.landing{
+	transform: scale(0.8);
+	transform-origin: top left;
+	width: 125%;
+}
+@media (max-width:1415px) {
+    .close-line-icon{
+        margin-left: -130px;
+    }
+    
+    .property-1navigation{
+        margin-left: -150px;
+    }
+    .infobar{
+        margin-left: -150px;
+    }
+    .layer-2-parent{
+        transform: scale(0.8);
+        margin-left: -180px;
+    }
+    .home-hero-2-1-icon{
+        transform: scale(0.8);
+        margin-left: -50px;
+    }
+    .section-2{
+        margin-left: -170px;
+    }
+    .rating-parent{
+        margin-left: -320px;
+    }.group-parent28{
+        margin-left: -250px;
+    }
+    .group-parent27{
+        margin-left: -200px;
+    }
+    .group-parent21{
+        margin-left: -215px;
+    }
+    .rectangle-parent16,.group-child22,.group-child31{
+        margin-left: -300px;
+    }
+    .group-parent6,.parent{
+        margin-left: -235px;
+    }
+    .group-parent3{
+        margin-left: -235px;
+    }
+    .group-parent36,.group-child43{
+        margin-left: -270px;
+    }
+    .group-parent38{
+        margin-left: -170px;
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        margin-left: -500px;
+    }
+    #frame-p,.property-1navigation-item{
+        
+        margin-left: -240px;
+    }
+    .b-insure-variantsfooter-inner{
+        margin-left: -150px
+    }
+}
+@media (max-width:1215px) {
+    .infobar{
+        transform: scale(0.9);
+        margin-left: -220px;
+    }
+    .property-1navigation{
+        transform: scale(0.9);
+        margin-left: -220px;
+    }
+    .layer-2-parent{
+        transform: scale(0.8);
+        margin-left: -220px;
+    }
+    .home-hero-2-1-icon{
+        transform: scale(0.7);
+        margin-left: -100px;
+    }
+    .section-2{
+        transform: scale(0.8);
+        margin-left: -270px;
+    }
+    .rating-parent{
+        transform: scale(0.8);
+        margin-left: -450px;
+    }
+    .group-parent28{
+        transform: scale(0.8);
+        margin-left: -380px;
+    }
+    .group-parent27{
+        transform: scale(0.8);
+        margin-left: -350px;
+    }
+    .group-parent21{
+    transform: scale(0.8);       
+        margin-left: -250px;
+    }
+    .rectangle-parent16,.group-child22,.group-child31{
+        transform: scale(0.8);
+
+        margin-left: -400px;
+    }
+    .group-parent6,.parent{
+        transform: scale(0.8);
+        margin-left: -350px;
+    }
+    .group-parent3{
+        transform: scale(0.8);
+        margin-left: -350px;
+    }
+    .group-parent36,.group-child43{
+        transform: scale(0.8);
+        margin-left: -430px;
+    }
+    .group-parent38{
+        transform: scale(0.8);
+        margin-left: -170px;
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        transform: scale(0.8);
+        margin-left: -700px;
+    }
+    .b-insure-variantsfooter-inner{
+        margin-left: -550px
+    }
+    
+}
+
+@media (max-width:1050px) {
+    .landing{
+        transform: scale(0.75);
+        width: 150%;
+    }
+    .group-container{
+        margin-left: -70px;
+    }
+    .infobar{
+        
+        margin-left: -270px;
+    }
+    .property-1navigation{
+        /* transform: scale(0.6); */
+        margin-left: -270px;
+    }
+    .layer-2-parent{
+        /* transform: scale(0.6); */
+        margin-left: -250px;
+    }
+    .home-hero-2-1-icon{
+        /* transform: scale(0.6); */
+        margin-left: -150px;
+    }
+    .section-2{
+        /* transform: scale(0.7); */
+        margin-left: -300px;
+    }
+    .rating-parent{
+        /* transform: scale(0.6); */
+        margin-left: -450px;
+    }
+    .group-parent28{
+        /* transform: scale(0.6); */
+        margin-left: -350px;
+    }
+    .group-parent27{
+        /* transform: scale(0.6); */
+        margin-left: -380px;
+    }
+    .group-parent21{
+    /* transform: scale(0.6);        */
+        margin-left: -270px;
+    }
+    .rectangle-parent16,.group-child22,.group-child31{
+        /* transform: scale(0.6); */
+
+        margin-left: -550px;
+    }
+    .group-parent6,.parent{
+        /* transform: scale(0.6); */
+        margin-left: -380px;
+    }
+    .group-parent3{
+        /* transform: scale(0.6); */
+        margin-left: -380px;
+    }
+    .group-parent36,.group-child43{
+        /* transform: scale(0.6); */
+        margin-left: -400px;
+    }
+    .group-parent38{
+        /* transform: scale(0.6); */
+        margin-left: -200px;
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        /* transform: scale(0.6); */
+        margin-left: -700px;
+    }
+     
+    
+}
+
+@media (max-width:917px) {
+    .b-insure-insurance-broker-home{
+        transform: scale(0.82);
+        transform-origin: top left;
+        width: 200%;
+        /* height: 100vh; */
+
+    }
+}
+
+@media (max-width:800px) {
+    .b-insure-insurance-broker-home{
+        transform: scale(0.70);
+        transform-origin: top left;
+        width: 200%;
+        /* height: 100vh; */
+    }
+    
+}
+
+
+.group-child-new {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: -2px 4px 48px -12px rgba(16, 24, 40, 0.18);
+    border-radius: 30px;
+    background-color: #fff;
+}
+.property-1tool-31-inner {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    box-shadow: -2px 4px 48px -12px rgb(255 255 255);
+    border-radius: 30px;
+    background-color: #fff;
+}
+.group-item-new {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+.get-a-free-new {
+    position: absolute;
+    top: -70%;
+    left: -9%;
+    width: 113%;
+    background-color: transparent;
+    border-color: transparent;
+    font-family: jakarata-sans;
+    color: white;
+    cursor: pointer;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: bold;
+}
+.get-a-free-quote-wrapper-new {
+    position: absolute;
+    height: 18.33%;
+    width: 100%;
+    top: 27.67%;
+    right: 28.82%;
+    bottom: 40%;
+    left: -6.18%;
+    cursor: pointer;
+}
+.rectangle-parent-new {
+    position: absolute;
+    height: 12%;
+    width: 32.85%;
+    top: 61.95%;
+    right: 33.62%;
+    bottom: 26.05%;
+    left: 33.53%;
+    color: #fff;
+    font-family: Poppins;
+    font-size: large;
+}
+.your-name-new {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+}
+.group-inner-new {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1px solid #c0c0c0;
+    box-sizing: border-box;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-group-new {
+    position: absolute;
+    height: 64%;
+    width: 100%;
+    top: 36%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-family: Poppins;
+}
+.your-name-parent-new {
+    position: absolute;
+    height: 98.68%;
+    width: 48.13%;
+    top: 0%;
+    right: 51.87%;
+    bottom: 1.32%;
+    left: 0%;
+}
+.contact-number-new {
+    position: absolute;
+    top: 43.75%;
+    left: 26.78%;
+}
+.div-new {
+    position: absolute;
+    top: 29.17%;
+    left: 0%;
+}
+.arrow-up-s-line-icon-new {
+    position: absolute;
+    height: 100%;
+    width: 40.68%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 59.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent-new {
+    position: absolute;
+    height: 50%;
+    width: 19.03%;
+    top: 31.25%;
+    right: 76.12%;
+    bottom: 18.75%;
+    left: 4.85%;
+}
+.group-container-new{
+    position: absolute;
+    height: 63.16%;
+    width: 99.97%;
+    top: 36.84%;
+    right: 0.02%;
+    bottom: 0%;
+    left: 0.01%;
+    font-family: Poppins;
+}
+.contact-number-parent-new {
+    position: absolute;
+    height: 100%;
+    width: 48.14%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 51.86%;
+}
+.group-parent-new {
+    position: absolute;
+    height: 15.2%;
+    width: 62.23%;
+    top: 41.05%;
+    right: 35.06%;
+    bottom: 43.75%;
+    left: 2.71%;
+    text-align: left;
+}
+.group-child1-new {
+    position: absolute;
+    height: 60.76%;
+    width: 100%;
+    top: 39.24%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #eff8ff;
+    border: 1px solid #24bbe3;
+    box-sizing: border-box;
+}
+.arrow-up-s-line-icon1-new {
+    position: absolute;
+    height: 30.38%;
+    width: 7.74%;
+    top: 58.23%;
+    right: 4.52%;
+    bottom: 11.39%;
+    left: 87.74%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.life-insurance-new {
+    position: absolute;
+    top: 67.09%;
+    left: 6.45%;
+    line-height: 26px;
+}
+.looking-for-new {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-parent1-new {
+    position: absolute;
+    height: 100%;
+    width: 31.69%;
+    top: 0%;
+    right: 68.31%;
+    bottom: 0%;
+    left: 0%;
+}
+.arrow-up-s-line-icon2-new {
+    position: absolute;
+    height: 50%;
+    width: 7.74%;
+    top: 31.25%;
+    right: 4.52%;
+    bottom: 18.75%;
+    left: 87.74%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.weeks-new {
+    position: absolute;
+    top: 43.75%;
+    left: 6.45%;
+    line-height: 26px;
+}
+.rectangle-parent2-new {
+    position: absolute;
+    height: 60.76%;
+    width: 100%;
+    top: 39.24%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.group-parent1-new {
+    position: absolute;
+    height: 100%;
+    width: 31.69%;
+    top: 0%;
+    right: 34.16%;
+    bottom: 0%;
+    left: 34.15%;
+}
+.email-address-new {
+    position: absolute;
+    top: 43.75%;
+    left: 6.67%;
+}
+.rectangle-parent3-new {
+    position: absolute;
+    height: 60.76%;
+    width: 99.97%;
+    top: 39.24%;
+    right: 0.01%;
+    bottom: 0%;
+    left: 0.03%;
+}
+.group-parent2-new {
+    position: absolute;
+    height: 100%;
+    width: 31.7%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 68.3%;
+}
+.group-div-new {
+    position: absolute;
+    height: 15.8%;
+    width: 94.5%;
+    top: 19.55%;
+    right: 2.79%;
+    bottom: 64.65%;
+    left: 2.71%;
+    text-align: left;
+    font-family: Poppins;
+}
+.group-child4-new {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 4px;
+    background-color: #3d3d3d;
+}
+.close-fill-icon-new {
+    position: absolute;
+    height: 80%;
+    width: 80%;
+    top: 10%;
+    right: 10%;
+    bottom: 10%;
+    left: 10%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+}
+.rectangle-parent4-new {
+    position: absolute;
+    height: 100%;
+    width: 3.78%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 96.22%;
+}
+.help-us-with-new {
+    position: absolute;
+    top: 25.68%;
+    left: 0%;
+    font-weight: 800;
+}
+.property-1tool-31-child {
+    position: absolute;
+    height: 7.4%;
+    width: 94.49%;
+    top: 6.26%;
+    right: 2.8%;
+    bottom: 86.34%;
+    left: 2.71%;
+    text-align: left;
+    font-size: 24px;
+    color: #3d3d3d;
+    font-size: large;
+}
+.your-data-is-new {
+    position: absolute;
+    top: 20.83%;
+    left: 4.21%;
+}
+.shield-star-line-icon-new {
+    position: absolute;
+    height: 100%;
+    width: 2.81%;
+    top: 0%;
+    right: 97.19%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.property-1tool-31-inner1 {
+    position: absolute;
+    height: 4.8%;
+    width: 82.61%;
+    top: 87.95%;
+    right: 8.56%;
+    bottom: 7.25%;
+    left: 8.83%;
+    font-size: 18px;
+}
+.terms-of-service-new {
+    text-decoration: underline;
+}
+.by-continuing-you-container-new {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 170%;
+}
+.by-continuing-you-agree-to-ou-wrapper-new {
+    position: absolute;
+    height: 2.6%;
+    width: 55.36%;
+    top: 79.65%;
+    right: 22.2%;
+    bottom: 17.75%;
+    left: 22.44%;
+    font-size: 18px;
+}
+.property-1tool-31 {
+    position: absolute;
+    top: 243px;
+    left: calc(50% - 517.5px);
+    width: 1035px;
+    height: 500px;
+    font-size: 32px;
+    color: #7f7f7f;
+    /* font-family: Caveat; */
+    font-family: 'Plus Jakarta Sans';
+    font-size: large;
+    
+}
+.get-quote-form{
+    position: absolute;
+    margin-top: -7100px;
+    /* margin-left: 700px; */
+    /* display: none; */
+}
+#buttonWithIcon{
+    cursor: pointer;
+}
+#change{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 17px;
+    margin-top: 3px;
+}
+/* .image-column{
+    height: 150%;
+
+} */
+.form-image{
+    height: fit-content;
+}
+
+
+

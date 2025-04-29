@@ -1,0 +1,1856 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1, width=device-width">
+
+	<link rel="stylesheet" href="../statics/css/index1.css" />
+	<link rel="stylesheet" href="../statics/css/index2.css" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caveat:wght@400&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" />
+	<link rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:wght@400;500;600;700&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cunia:wght@700&display=swap" />
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:wght@400&display=swap" />
+
+	<style>
+
+		@media (max-width:1415px) {
+			.modal{
+				transform: scale(1);
+				margin-left:-300px;
+			}
+		}
+		@media (max-width:1215px) {
+			.modal{
+				transform: scale(1);
+				margin-left: -450px;
+			}
+		}
+		@media (max-width:1050px) {
+			.modal{
+				transform: scale(1);
+				margin-left: -600px;
+			}
+		}
+		@media (max-width:917px) {
+			.modal{
+				transform: scale(1);
+				margin-left: -600px;
+			}
+		}
+
+
+
+		.button-with-icon2{
+			cursor: pointer;
+		}
+		.get-quote-form {
+		  display: flex;
+		  /* flex-direction: column;
+		  justify-content: center; */
+		  margin-left: 300px;
+		  align-items: center;
+		  max-width: 849px;
+		  padding: 22px 0 0;
+		}
+		
+		@media (max-width: 1183px) {
+		  .get-quote-form {
+			display: flex;
+			margin-left: 100px;
+			align-items: center;
+			max-width: 849px;
+			padding: 22px 0 0;
+		  }
+		}
+	  
+		.form-container {
+		  display: flex;
+		  border-radius: 30px;
+		  background-color: #fff;
+		  box-shadow: 0 -4px 6px 6px rgba(16, 24, 40, 0.03);
+		  padding-left: 46px;
+		  width: 100%;
+		  height: 100%;
+		  top: 50%;
+		  left: 50%;
+		  transition: transform 0.4s, top 0.4s;
+		}
+	  
+		.form-content {
+		  display: flex;
+		  gap: 20px;
+		}
+	  
+		.form-column {
+		  display: flex;
+		  flex-direction: column;
+		  line-height: normal;
+		  width: 50%;
+		}
+	  
+		.form-fields {
+		  z-index: 10;
+		  display: flex;
+		  width: 100%;
+		  flex-direction: column;
+		  align-self: stretch;
+		  color: #5a5555;
+		  margin: auto 0;
+		  font: 400 16px Plus Jakarta Sans, -apple-system, Roboto, Helvetica,
+			sans-serif;
+		}
+	  
+		.field-label {
+		  font-weight: 700;
+		  line-height: 2;
+		  align-self: start;
+		}
+	  
+		.input-field {
+		  border-radius: 50px;
+		  background-color: rgba(255, 255, 255, 0.2);
+		  margin-top: 15px;
+		  width: 354px;
+		  max-width: 100%;
+		  font-family: Poppins, sans-serif;
+		  padding: 22px 21px;
+		  border: 1px solid #c0c0c0;
+		}
+	  
+		.select-wrapper {
+		  border-radius: 50px;
+		  background-color: rgba(255, 255, 255, 0.2);
+		  display: flex;
+		  margin-top: 19px;
+		  gap: 20px;
+		  font-family: Poppins, sans-serif;
+		  color: #5a5555;
+		  line-height: 2;
+		  justify-content: space-between;
+		  padding: 15px 20px;
+		  border: 1px solid #c0c0c0;
+		}
+	  
+		.select-text {
+		  margin: auto 0;
+		}
+	  
+		.select-icon {
+		  aspect-ratio: 1;
+		  object-fit: contain;
+		  object-position: center;
+		  width: 24px;
+		}
+	  
+		.phone-input-wrapper {
+		  border-radius: 50px;
+		  background-color: rgba(255, 255, 255, 0.2);
+		  display: flex;
+		  margin-top: 16px;
+		  gap: 9px;
+		  font-family: Poppins, sans-serif;
+		  padding: 15px;
+		  border: 1px solid #c0c0c0;
+		}
+	  
+		.country-code {
+		  display: flex;
+		  gap: 3px;
+		  white-space: nowrap;
+		}
+	  
+		.phone-input {
+		  flex-grow: 1;
+		  width: 244px;
+		  flex-basis: auto;
+		  margin: auto 0;
+		}
+	  
+		.submit-button {
+		  border-radius: 50px;
+		  background-color: #24bbe3;
+		  margin-top: 24px;
+		  font-size: 22px;
+		  color: #fff;
+		  font-weight: 600;
+		  text-align: center;
+		  padding: 22px 70px;
+		  cursor: pointer;
+		}
+	  
+		.terms-agreement {
+		  color: #5c6163;
+		  font-family: Lora, sans-serif;
+		  line-height: 27px;
+		  margin-top: 16px;
+		}
+	  
+		.image-column {
+		  display: flex;
+		  flex-direction: column;
+		  line-height: normal;
+		  width: 50%;
+		  margin-left: 20px;
+		  height: fit-content;
+		}
+		
+	  
+		.form-image {
+		  margin-top: 0px;
+		  margin-left: -10px;
+		  object-fit: cover;
+		  object-position: center;
+		  width: 100%;
+		  border-radius: 10px 30px 30px 0;
+		  z-index: 10;
+		  flex-grow: 2;
+		  border-radius: 38px;
+		  height: fit-content;
+		}
+	  
+		.close-button {
+		  margin-left: 370px;
+		  color: white;
+		  margin-top: -50px;
+		  top: -40px;
+		  right: 10px;
+		  width: 50px;
+		  height: 50px;
+		  background-color: rgb(60, 59, 59);
+		  border-radius: 50%;
+		  display: flex;
+		  justify-content: center;
+		  align-items: center;
+		  cursor: pointer;
+		  font-size: 50px;
+		  z-index: 30;
+		  position: sticky;
+		}
+	  
+		.visually-hidden {
+		  position: absolute;
+		  width: 1px;
+		  height: 1px;
+		  padding: 0;
+		  margin: -1px;
+		  overflow: hidden;
+		  clip: rect(0, 0, 0, 0);
+		  white-space: nowrap;
+		  border: 0;
+		}
+	  
+		@media (max-width: 991px) {
+		  .get-quote-form {
+			padding-right: 20px;
+		  }
+	  
+		  .form-container {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			top: 50%;
+			left: 50%;
+			
+		  }
+	  
+		  .form-content {
+			flex-direction: column;
+			align-items: stretch;
+			gap: 0;
+		  }
+	  
+		  .form-column {
+			width: 100%;
+		  }
+	  
+		  .form-fields {
+			margin-top: 40px;
+		  }
+	  
+		  .input-field,
+		  .submit-button {
+			padding: 0 20px;
+		  }
+	  
+		  .select-wrapper {
+			margin-right: 2px;
+		  }
+	  
+		  .country-code {
+			white-space: initial;
+		  }
+	  
+		  .form-image {
+			margin-top: 24px;
+		  }
+		}
+		.modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 300px;
+  text-align: center;
+}
+
+.modal h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.closing{
+	cursor: pointer;
+}
+
+.modal img {
+  width: 100px;
+  height: 100px;
+  margin: -10px auto;
+}
+
+.modal p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.modal button {
+  background-color:  #24BBE3;
+  ;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background-color: #24BBE3;
+}
+.modal{
+	transform: scale(2);
+	margin-top: 2300px;
+	/* display: none; */
+	width: 420px;
+	left: 910px;
+	height: 290px;
+}
+	  </style>
+
+
+
+</head>
+
+<body>
+	<div class="landing">
+	<div class="b-insure-insurance-broker-home">
+		<div class="section-2">
+			<div class="section-2-child">
+			</div>
+			<div class="section-2-inner">
+				<div class="group-paren">
+					<div class="partnerships-with-leading-cana-wrapper">
+						<div class="partnerships-with-leading-container">
+							<p class="partnerships-with-leading">
+								<b>Partnerships with leading </b>
+							</p>
+							<p class="partnerships-with-leading">Canadian Insurance Providers</p>
+						</div>
+					</div>
+					<div class="frame-parent">
+						<div class="frame-parent-inner">
+							<div class="image-11-wrapper">
+								<img class="image-11-icon" alt="" src="../statics/img/image 11.png">
+
+							</div>
+							<div class="image-8-wrapper">
+								<img class="image-8-icon" alt="" src="../statics/img/image 8.png">
+
+							</div>
+							<div class="image-12-wrapper">
+								<img class="image-12-icon" alt="" src="../statics/img/image 12.png">
+
+							</div>
+							<div class="image-9-wrapper">
+								<img class="image-9-icon" alt="" src="../statics/img/image 9.png">
+
+							</div>
+							<!-- <img class="frame-child" alt="" src="Frame 882.png"> -->
+
+							<!-- <img class="frame-item" alt="" src="Frame 888.png"> -->
+
+							<!-- <img class="frame-inner" alt="" src="Frame 889.png"> -->
+
+							<div class="image-16-wrapper">
+								<img class="image-16-icon" alt="" src="../statics/img/image 10.png">
+
+							</div>
+							<div class="image-13-wrapper">
+								<!-- <img class="image-9-icon" alt="" src="image 13.png"> -->
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<img class="close-line-icon" alt="" src="../statics/img/home/nav/close-line.svg">
+
+		<img class="image-1-icon" alt="" src="../statics/img/home/Layer 2.svg">
+
+		<img class="image-2-icon" alt="" src="../statics/img/home/home-hero-2 1.svg">
+
+		<div class="layer-2-parent">
+			<img class="layer-2-icon" alt="" src="../statics/img/home/Layer 2.svg">
+
+			<img class="home-hero-2-1-icon" alt="" src="../statics/img/home/home-hero-2 1.svg">
+
+			<div class="group-container">
+				<div class="compare-buy-from-canadas-to-wrapper">
+					<div class="compare-buy-container">
+						<p class="partnerships-with-leading">
+							<b class="compare-buy">Compare & Buy </b>
+							<span>from Canada's </span>
+						</p>
+						<p class="partnerships-with-leading">Top Insurers and Save BIG</p>
+					</div>
+				</div>
+				<div class="tools-for-quotation" style="display: block;">
+					<div class="tools-for-quotation-child">
+					</div>
+					<div class="canadas-fast-growing">Canada's fast growing travel and life insurance broker</div>
+					<div class="group-div">
+						<div class="rectangle-parent">
+							<div class="group-child">
+							</div>
+							<div class="get-a-free-quote-wrapper">
+								<b class="get-a-free">GET A FREE QUOTE</b>
+							</div>
+						</div>
+						<div class="group-parent1">
+							<div id="trav" class="rectangle-group">
+								<div class="group-item">
+								</div>
+								<div class="group-inner">
+								</div>
+								<img class="group-icon" alt="" src="../statics/img/home/Group1.svg">
+
+								<div class="travel-insurance">
+									<p class="partnerships-with-leading">
+										<b>Travel</b>
+									</p>
+									<p class="partnerships-with-leading">Insurance</p>
+								</div>
+							</div>
+							<div id="trav" class="rectangle-container">
+								<div class="group-item">
+								</div>
+								<div class="group-child1">
+								</div>
+								<div class="travel-insurance">
+									<p class="partnerships-with-leading">
+										<b>Auto</b>
+									</p>
+									<p class="partnerships-with-leading">Insurance</p>
+								</div>
+								<img class="group-icon1" alt="" src="../statics/img/home/Group2.svg">
+
+							</div>
+							<div id="trav" class="rectangle-parent1">
+								<div class="group-child2">
+								</div>
+								<div class="group-child3">
+								</div>
+								<div class="commercial-insurance">
+									<p class="partnerships-with-leading">
+										<b>Commercial</b>
+									</p>
+									<p class="partnerships-with-leading">Insurance</p>
+								</div>
+							</div>
+							<div id="trav" class="group-parent2">
+								<div class="poll-parent">
+									<div class="group-child2">
+									</div>
+									<div class="travel-insurance">
+										<p class="partnerships-with-leading">
+											<b>Life</b>
+										</p>
+										<p class="partnerships-with-leading">Insurance</p>
+									</div>
+								</div>
+								<div class="group-child5">
+								</div>
+								<img class="group-icon2" alt="" src="../statics/img/home/Group.svg
+                                                ">
+
+							</div>
+						</div>
+					</div>
+					<img class="group-icon3" alt="" src="../statics/img/home/Group3.svg">
+
+				</div>
+				<form action="/submit_form" method="post" class="above-form">
+					<div id="form-cont" class="property-1tool-31" style="display: none;">
+						<div class="property-1tool-31-inner">
+							<form class="group-child-new">
+							</form>
+						</div>
+						<div class="rectangle-parent-new">
+							<div class="group-item-new">
+							</div>
+							<div class="get-a-free-quote-wrapper">
+								<button type="submit" class="get-a-free-new">Get a Free quote</button>
+							</div>
+						</div>
+						<div class="group-parent-new">
+							<div class="your-name-parent-new">
+								<b class="your-name-new">Your name</b>
+								<div class="rectangle-group-new">
+									<input type="text" class="group-inner-new" name="name" placeholder="Name" required >
+								</div>
+							</div>
+							<div class="contact-number-parent-new">
+								<b class="your-name">
+									<span>Contact number</span>
+									<span class="span"> *</span>
+								</b>
+								<div class="group-container-new">
+									<div class="property-1tool-31-inner">
+										<input type="number" class="group-inner-new" name="contact_number"
+											placeholder="Contact-Number" required>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="group-div-new">
+							<div class="rectangle-parent1-new">
+								<select class="group-child1-new" name="home-type-insurance">
+									<option value="LIFE INSURANCE">LIFE INSURANCE</option>
+									<option value="AUTO INSURANCE">AUTO INSURANCE</option>
+									<option value="COMMERCIAL INSURANCE">COMMERCIAL INSURANCE</option>
+									<option value="TRAVEL INSURANCE">TRAVEL INSURANCE</option>
+									<!-- <option value="+40">+40</option>
+												<option value="+91">+91</option> -->
+									<!-- Add more country codes as needed -->
+								</select>
+
+								<b class="looking-for-new">Looking for</b>
+							</div>
+							<div class="group-parent1-new">
+								<div class="rectangle-parent2-new">
+									<select class="group-inner-new" name="planning_to_buy">
+										<option value="1-2 Weeks">1-2 Weeks</option>
+										<option value="2-4 Weeks">2-4 Weeks</option>
+										<option value="1-2 Months">1-2 Months</option>
+										<!-- Add more options as needed -->
+									</select>
+								</div>
+								<b class="looking-for-new">Planning to buy </b>
+							</div>
+							<div class="group-parent2-new">
+								<div class="rectangle-parent3-new">
+									<input type="email" class="group-inner-new" placeholder="Email address"
+										name="email" required>
+								</div>
+								<b class="looking-for-new">Email address</b>
+							</div>
+						</div>
+						<div class="property-1tool-31-child">
+							<div class="property-1tool-31-inner">
+								<div class="rectangle-parent4-new">
+									<div class="group-child4-new">
+									</div>
+									<img class="close-fill-icon-new" alt="" src="../statics/img/Group 546.svg">
+
+								</div>
+								<div class="help-us-with-new">Help us with few details</div>
+							</div>
+						</div>
+						<div class="property-1tool-31-inner1">
+							<div class="property-1tool-31-inner">
+								<div class="your-data-is-new">Your data is secured with us, We do not share your data
+									with anyone except our insurance partners</div>
+								<img class="shield-star-line-icon-new" alt="" src="../statics/img/shield-star-line.svg">
+
+							</div>
+						</div>
+						<div class="by-continuing-you-agree-to-ou-wrapper-new">
+							<div class="by-continuing-you-container-new">By continuing, you agree to our
+								<span class="terms-of-service-new">Terms of Service </span> and  Privacy Policy.
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="rectangle-parent3">
+			<div class="group-child6">
+			</div>
+			<div class="rectangle-parent4">
+				<div class="group-child7">
+				</div>
+				<div class="group-child7">
+				</div>
+				<div class="group-parent3">
+					<div class="group-parent4">
+						<div class="rectangle-parent5">
+							<div class="group-child9">
+							</div>
+							<b class="how-to-compare-container">
+								<p class="partnerships-with-leading">How to compare home insurance</p>
+								<p class="partnerships-with-leading">quotes</p>
+							</b>
+							<div class="rectangle-parent6">
+								<div class="group-child10">
+								</div>
+								<div class="home-insurance">Home insurance</div>
+							</div>
+							<div class="min-read">6 min read</div>
+							<img class="rectangle-icon" alt="" src="../statics/img/home/Rectangle 314.svg">
+
+						</div>
+						<div class="rectangle-parent7">
+							<div class="group-child9">
+							</div>
+							<b class="how-to-compare-container">Switching auto insurance</b>
+							<div class="rectangle-parent6">
+								<div class="group-child10">
+								</div>
+								<div class="auto-insurance1">Auto insurance</div>
+							</div>
+							<div class="min-read">6 min read</div>
+							<img class="rectangle-icon" alt="" src="../statics/img/home/Rectangle 314 (1).svg">
+
+						</div>
+						<div class="rectangle-parent9">
+							<div class="group-child9">
+							</div>
+							<b class="how-to-compare-container">5 Benefits of Travel insurance</b>
+							<div class="rectangle-parent6">
+								<div class="group-child10">
+								</div>
+								<div class="travel-insurance1">Travel Insurance</div>
+							</div>
+							<div class="min-read">6 min read</div>
+							<img class="rectangle-icon" alt="" src="../statics/img/home/Rectangle 314 (2).svg">
+
+						</div>
+					</div>
+					<div class="group-parent5">
+						<div class="knowledge-articles-parent">
+							<b class="knowledge-articles">Knowledge Articles</b>
+							<div class="helpful-insurance-seeker-resou">Helpful Insurance seeker resources</div>
+						</div>
+						<div class="see-all-articles-parent">
+							<div class="knowledge-articles">See all articles</div>
+							<img class="arrow-up-s-line-icon" alt="" src="../statics/img/home/arrow-up-s-line.png">
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="rectangle-parent11">
+			<div class="group-child17">
+			</div>
+			<div class="group-parent6">
+				<div class="group-parent7">
+					<div class="rectangle-parent12">
+						<div class="group-child18">
+						</div>
+						<div class="group-parent8">
+							<div class="how-is-breaking-the-market-parent">
+								<b class="how-is-breaking">How is breaking the market</b>
+								<div class="at-weve">At , we’ve made the process of buying insurance as easy and
+painless as possible. In fact, in just a few short minutes you could be on the way to obtaining coverage, protecting your loved ones.</div>
+							</div>
+							<div class="group-parent9">
+								<div class="group-parent10">
+									<div class="report-a-damage-or-other-incid-wrapper">
+										<div class="report-a-damage">Report a damage or other incident</div>
+									</div>
+									<div class="renew-your-policy-wrapper">
+										<div class="report-a-damage">Renew your policy </div>
+									</div>
+									<div class="check-the-status-of-the-case-wrapper">
+										<div class="report-a-damage">Check the status of the case</div>
+									</div>
+									<div class="life-insurance-calculator-wrapper">
+										<div class="report-a-damage">Life insurance calculator</div>
+									</div>
+								</div>
+								<img class="arrow-left-s-line-icon" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+								<img class="arrow-left-s-line-icon1" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+								<img class="arrow-left-s-line-icon2" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+								<img class="arrow-left-s-line-icon3" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+							</div>
+						</div>
+					</div>
+					<div class="rectangle-parent13">
+						<div class="group-child19">
+						</div>
+						<div class="group-parent11">
+							<div class="group-parent12">
+								<div class="i-have-a-different-question-wrapper">
+									<div class="report-a-damage">I have a different question</div>
+								</div>
+								<img class="arrow-left-s-line-icon4" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+							</div>
+							<div class="group-parent13">
+								<div class="frequently-asked-questions-parent">
+									<b class="knowledge-articles">Frequently asked questions</b>
+									<div class="when-you-need-container">
+										<p class="partnerships-with-leading">When you need help with insurance and
+											claims,</p>
+										<p class="partnerships-with-leading">it’s at the ready 24/7.</p>
+									</div>
+								</div>
+								<div class="group-parent14">
+									<div class="group-wrapper">
+										<div class="group-parent15">
+											<div class="how-is-different-from-other-li-wrapper">
+												<div class="knowledge-articles">
+													<p class="how-is">How is different from other life insurance </p>
+													<p class="partnerships-with-leading">agents?</p>
+												</div>
+											</div>
+											<img class="arrow-left-s-line-icon5" alt=""
+												src="../statics/img/home/arrow-left-s-line.svg">
+
+										</div>
+									</div>
+									<div class="group-parent16">
+										<div class="what-types-of-insurance-does-o-wrapper">
+											<div class="how-is-breaking">What types of insurance does offer?</div>
+										</div>
+										<img class="arrow-left-s-line-icon5" alt=""
+											src="../statics/img/home/arrow-left-s-line.svg">
+
+									</div>
+									<div class="group-parent17">
+										<div class="wouldnt-it-be-cheaper-to-buy-wrapper">
+											<div class="knowledge-articles">
+												<p class="partnerships-with-leading">Wouldn't it be cheaper to buy
+													coverage directly from an </p>
+												<p class="partnerships-with-leading">insurance provider or my bank?</p>
+											</div>
+										</div>
+										<img class="arrow-left-s-line-icon7" alt=""
+											src="../statics/img/home/arrow-left-s-line.svg">
+
+									</div>
+									<div class="group-parent18">
+										<div class="do-i-pay-fees-to-use-wrapper">
+											<div class="knowledge-articles">Do I pay fees to use ?</div>
+										</div>
+										<img class="arrow-left-s-line-icon7" alt=""
+											src="../statics/img/home/arrow-left-s-line.svg">
+
+									</div>
+									<div class="group-parent19">
+										<div class="group-parent20">
+											<div class="what-is-b-insure-and-how-does-wrapper">
+												<b class="knowledge-articles">What is B-Insure and how does it work?</b>
+											</div>
+											<img class="arrow-left-s-line-icon5" alt=""
+												src="../statics/img/home/arrow-left-s-line.svg">
+
+										</div>
+										<div class="rectangle-parent14">
+											<div class="group-child20">
+											</div>
+											<div class="we-help-our">We help our customers save time and money by
+												comparing insurance plans, obtaining quotes and applying for insurance
+												wherever they have access to their phone, tablet, or computer.</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="get-your-questions-answered-parent">
+					<b class="get-your-questions">Get your questions answered</b>
+					<div class="find-answers-to">Find answers to the most commonly asked questions</div>
+				</div>
+			</div>
+		</div>
+		<div class="rectangle-parent15">
+			<div class="group-child21">
+			</div>
+			<img class="group-child22" alt="" src="../statics/img/home/Group 2011.svg">
+
+			<div class="group-parent21">
+				<div class="why-b-insure-parent">
+					<b class="knowledge-articles">Why B-Insure?</b>
+					<div class="insurance-products-that-container">
+						<p class="partnerships-with-leading">Insurance products that cover you, </p>
+						<p class="partnerships-with-leading">your family and your business</p>
+					</div>
+				</div>
+				<div class="auto-motorcycle-commercial-a-parent">
+					<div class="auto-motorcycle-commercial-container">
+						<p class="partnerships-with-leading">Auto
+							(Motorcycle, Commercial Auto,
+							Boat/PWC)</p>
+						<p class="partnerships-with-leading">Home
+							(Condo, Tenants/ Renters)</p>
+						<p class="partnerships-with-leading">Contractors</p>
+						<p class="partnerships-with-leading">Professional Liability</p>
+						<p class="partnerships-with-leading">Business Insurance</p>
+						<p class="partnerships-with-leading">Individual (Health, Life, Term)
+						</p>
+					</div>
+					<div class="checkbox-circle-line-parent">
+						<img class="checkbox-circle-line-icon" alt="" src="../statics/img/home/checkbox-circle-line1.svg">
+
+						<img class="checkbox-circle-line-icon1" alt="" src="../statics/img/home/checkbox-circle-line1.svg">
+
+						<img class="checkbox-circle-line-icon2" alt="" src="../statics/img/home/checkbox-circle-line1.svg">
+
+						<img class="checkbox-circle-line-icon3" alt="" src="../statics/img/home/checkbox-circle-line1.svg">
+
+						<img class="checkbox-circle-line-icon4" alt="" src="../statics/img/home/checkbox-circle-line1.svg">
+
+						<img class="checkbox-circle-line-icon5" alt="" src="../statics/img/home/checkbox-circle-line1.svg">
+
+					</div>
+				</div>
+				<div class="group-parent22">
+					<div class="learn-how-to-switch-and-save-t-parent">
+						<b class="learn-how-to">Learn how to switch and save today</b>
+						<img class="arrow-left-s-line-icon10" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+					<div class="button-with-icon2">
+						<div class="add-listing-wrapper">
+							<b class="knowledge-articles">Get a Quote</b>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="group-frame">
+				<div class="group-parent23">
+					<div class="rectangle-parent16">
+						<div class="group-child23">
+						</div>
+						<div class="group-child24">
+						</div>
+						<div class="rectangle-parent17">
+							<div class="group-child25">
+							</div>
+							<div class="group-parent24">
+								<div class="group-parent25">
+									<div class="vector-parent">
+										<img class="vector-icon" alt="" src="../statics/img/home/canadaleave.svg">
+
+										<b class="canada-insurance">
+											<p class="partnerships-with-leading">Canada </p>
+											<p class="partnerships-with-leading">Insurance</p>
+										</b>
+									</div>
+									<div class="group-wrapper1">
+										<div class="mo-parent">
+											<div class="knowledge-articles">
+												<b>$97</b>
+												<span class="mo1">/mo</span>
+											</div>
+											<div class="year">$1,164/year</div>
+										</div>
+									</div>
+								</div>
+								<div class="rectangle-parent18">
+									<div class="group-child26">
+									</div>
+									<b class="get-a-quote">Get a Quote</b>
+								</div>
+							</div>
+						</div>
+						<div class="rectangle-parent19">
+							<div class="group-child27">
+							</div>
+							<div class="group-parent26">
+								<div class="image-40-parent">
+									<img class="image-40-icon" alt="" src="../statics/img/home/nav/image 35.svg">
+
+									<div class="group-child28">
+									</div>
+									<img class="bi-icon1" alt="" src="../statics/img/home/nav/Bi.svg">
+
+								</div>
+								<img class="equal-fill-icon" alt="" src="../statics/img/home/equal-fill.svg">
+
+							</div>
+						</div>
+						<div class="share-information-tell-us-a-li-parent">
+							<div class="share-information-tell-container">
+								<p class="partnerships-with-leading">
+									<b>Share information</b>
+								</p>
+								<p class="tell-us-a">Tell us a little about yourself and your property coverage needs.
+								</p>
+								<p class="partnerships-with-leading">
+									<b>Compare quotes</b>
+								</p>
+								<p class="tell-us-a">We instantly show you home insurance quotes from top Canadian
+									providers.</p>
+								<p class="partnerships-with-leading">
+									<b>Save money</b>
+								</p>
+								<p class="tell-us-a">Choose your quote and secure your home insurance rate online.</p>
+							</div>
+							<div class="ellipse-div">
+							</div>
+							<div class="group-child29">
+							</div>
+							<div class="group-child30">
+							</div>
+							<div class="line-div">
+							</div>
+						</div>
+					</div>
+					<img class="group-child31" alt="" src="../statics/img/home/Group 2010.svg">
+
+				</div>
+			</div>
+		</div>
+		<div class="rectangle-parent20">
+			<div class="group-child32">
+			</div>
+			<div class="group-parent27">
+				<div class="lets-get-started-parent">
+					<b class="knowledge-articles">Let’s get started</b>
+					<div class="find-answers-to">30+ insurance companies compared. Instantly.</div>
+				</div>
+				<div class="card">
+					<b class="individual">Individual</b>
+					<div class="insurance-you-can">Insurance You can feel more confident by protecting what’s important
+						to you.</div>
+					<div class="icon-100-1">
+					</div>
+					<div class="explore-solutions-parent">
+						<b class="learn-how-to">Explore Solutions</b>
+						<img class="arrow-left-s-line-icon11" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+					<div class="view-articles-parent">
+						<b class="learn-how-to">View articles</b>
+						<img class="arrow-left-s-line-icon12" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+					<img class="card-child" alt="" src="../statics/img/home/Group 1997.svg">
+
+				</div>
+				<div class="card1">
+					<b class="individual">Commercial</b>
+					<div class="insurance-you-can">Insurance You can feel more confident by protecting what’s important
+						to you.</div>
+					<div class="icon-100-11">
+					</div>
+					<div class="explore-solutions-group">
+						<b class="learn-how-to">Explore Solutions</b>
+						<img class="arrow-left-s-line-icon13" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+					<div class="view-articles-parent">
+						<b class="learn-how-to">View articles</b>
+						<img class="arrow-left-s-line-icon12" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+					<img class="commercial-1-icon" alt="" src="../statics/img/home/commercial 1.svg">
+
+				</div>
+				<div class="card2">
+					<b class="individual">Travel insurance</b>
+					<div class="insurance-you-can">Insurance You can feel more confident by protecting what’s important
+						to you.</div>
+					<img class="icon-100-12" alt="" src="../statics/img/home/travel-insurance 1.svg">
+
+					<div class="explore-solutions-container">
+						<b class="explore-solutions2">Explore solutions</b>
+						<img class="arrow-left-s-line-icon15" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+					<div class="view-articles-parent">
+						<b class="learn-how-to">View articles</b>
+						<img class="arrow-left-s-line-icon12" alt="" src="../statics/img/home/arrow-left-s-line.svg">
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="rectangle-parent21">
+			<div class="group-child33">
+			</div>
+			<div class="group-parent28">
+				<div class="group-parent29">
+					<div class="group-parent30">
+						<img class="group-child34" alt="" src="../statics/img/home/Group 1992.svg">
+
+						<div class="group-wrapper2">
+							<div class="poll-parent">
+								<div class="poll">
+									<img class="vector-icon1" alt="" src="../statics/img/home/Vectoroption.svg">
+
+									<img class="insurance-icon" alt="" src="../statics/img/home/INSURANCE.svg">
+
+									<img class="vector-icon2" alt="" src="../statics/img/home/Vector1.svg">
+
+									<img class="vector-icon3" alt="" src="../statics/img/home/Vector2.svg">
+
+									<img class="vector-icon4" alt="" src="../statics/img/home/Vector3.svg">
+
+									<img class="vector-icon5" alt="" src="../statics/img/home/Vector4.svg">
+
+									<div class="group">
+										<img class="group-icon4" alt="" src="../statics/img/home/Groupa.svg">
+
+									</div>
+									<div class="group1">
+										<img class="group-icon6" alt="" src="../statics/img/home/Groupb.svg">
+
+									</div>
+									<div class="group2">
+										<img class="group-icon8" alt="" src="../statics/img/home/Groupc.svg">
+
+									</div>
+									<div class="group3">
+										<img class="group-icon10" alt="" src="../statics/img/home/Groupd.svg">
+
+									</div>
+									<img class="group-icon12" alt="" src="Group.svg">
+
+								</div>
+								<img class="woman-icon" alt="" src="../statics/img/home/womanwoman.svg">
+
+								<img class="decor-icon" alt="" src="../statics/img/home/decor.svg">
+
+							</div>
+						</div>
+					</div>
+					<div class="group-wrapper3">
+						<div class="group-parent31">
+							<div class="frame-wrapper">
+								<div class="frame-group">
+									<div class="get-insurance-quotes-securely-wrapper">
+										<b class="get-insurance-quotes">Get insurance quotes securely online in
+											minutes</b>
+									</div>
+									<div class="its-simple-just-answer-a-few-wrapper">
+										<div class="its-simple-just-container">
+											<p class="partnerships-with-leading">It’s simple! Just answer a few
+												questions and customize your insurance coverage. Then, buy directly
+												online. Our secure online platform protects your info from start to
+												finish. </p>
+											<p class="partnerships-with-leading">&nbsp;</p>
+											<p class="partnerships-with-leading">This includes the details you share
+												during and after your quote. Plus, Your data is secured with us, We do
+												not share your data with anyone except our insurance partners</p>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="button-with-icon1" id="buttonWithIcon">
+								<div class="add-listing-wrapper">
+									<b class="knowledge-articles">Get a Quote</b>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="group-parent32">
+					<div class="learn-more-about-how-it-works-parent">
+						<b class="learn-how-to">Learn more about how it works</b>
+						<img class="arrow-left-s-line-icon17" alt="" src="../statics/img/home/arrow-up-s-line.png">
+
+					</div>
+					<div class="group-wrapper4">
+						<div class="line-parent">
+							<div class="group-child35">
+							</div>
+							<div class="communicate">
+								<div class="communicate-with-your-container">
+									<p class="partnerships-with-leading">
+										<b>Step 1</b>
+									</p>
+									<p class="answer-few-questions">Answer few questions</p>
+								</div>
+								<img class="communicate-child" alt="" src="../statics/img/home/Group 16.svg">
+
+							</div>
+							<div class="communicate1">
+								<div class="communicate-with-your-container">
+									<p class="partnerships-with-leading">
+										<b>Step 2</b>
+									</p>
+									<p class="answer-few-questions">Get a Quote</p>
+								</div>
+								<img class="communicate-child" alt="" src="../statics/img/home/Group 16.svg">
+
+							</div>
+							<div class="communicate2">
+								<div class="communicate-with-your-container">
+									<p class="partnerships-with-leading">
+										<b>Step 3</b>
+									</p>
+									<p class="answer-few-questions">Purchase your best offer</p>
+								</div>
+								<img class="communicate-child" alt="" src="../statics/img/home/Group 16.svg">
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section-3">
+			<div class="section-3-child">
+			</div>
+			<div class="rating-parent">
+				<div class="rating">
+					<b class="communicate-with-your-container">Help build financial security for you and your loved
+						ones</b>
+					<div class="between-balancing-work-container">
+						<p class="partnerships-with-leading">Between balancing work, family, and your money, adulting is
+							hard. Your insurance shouldn’t be. We help make insurance easier. </p>
+						<p class="partnerships-with-leading">Our fast, straightforward insurance and top-notch customer
+							care let you get back to doing the things you love. Even better? Bundle like a boss to save
+							up to 20% on your home and car insurance.</p>
+					</div>
+				</div>
+				<div class="card-parent">
+					<div class="card3">
+						<b class="zero-fees">Zero Fees</b>
+						<div class="no-hidden-charges-container">
+							<p class="partnerships-with-leading">
+								<b>No Hidden Charges</b>
+							</p>
+							<p class="partnerships-with-leading">We never add brokerage fees </p>
+							<p class="partnerships-with-leading">to your premiums.</p>
+						</div>
+						<img class="home-canadian-dollar-1-icon" alt=""
+							src="../statics/img/home/home-canadian-dollar 1.svg">
+
+					</div>
+					<div class="card4">
+						<b class="b">1000+</b>
+						<div class="policy-options-we-container">
+							<p class="partnerships-with-leading">
+								<b>Policy Options</b>
+							</p>
+							<p class="partnerships-with-leading">We pick the best products for you from Canada's top
+								insurance providers.</p>
+						</div>
+						<img class="policy-options-1-icon" alt="" src="../statics/img/home/policy-options 1.svg">
+
+					</div>
+					<div class="card5">
+						<b class="m">$0.5m</b>
+						<div class="coverage-placed-weve-container">
+							<p class="partnerships-with-leading">
+								<b>Coverage Placed</b>
+							</p>
+							<p class="partnerships-with-leading">We've helped over 3,000 Canadians find financial
+								security.</p>
+						</div>
+						<img class="insurance-coverage-1-icon" alt="" src="../statics/img/home/insurance-coverage 1.svg">
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="infobar">
+			<div class="infobar-child">
+			</div>
+			<img class="close-line-icon" alt="" src="../statics/img/home/nav/close-line.svg">
+			<div class="heads-up-our">Heads Up! Our site is currently undergoing maintenance. If you receive an error,
+				please try again later. Thanks for your patience."</div>
+		</div>
+		<div class="property-1navigation">
+			<div class="property-1navigation-child">
+			</div>
+			<div class="property-1navigation-item">
+			</div>
+			<div class="group-parent">
+				<img class="bi-icon" alt="" src="../statics/img/home/nav/image 35.svg">
+
+			</div>
+			<div id="frame-p" class="frame-paren">
+				<div class="home-wrapper" id="frameContainer">
+					<b class="home">Home</b>
+				</div>
+				<div class="individual-wrapper" id="frameContainer1">
+					<div class="home-1">Individual </div>
+					<div id="individualDropdown" class="dropdown">
+						<div class="dropdown-option" value="option1" id="individualOption1">
+							<div class="line1"><b>Life</b></div>
+							<div class="line2">Protect your loved ones</div>
+						</div>
+						<div class="dropdown-option" value="option2" id="individualOption2">
+							<div class="line1"><b>Automobile</b></div>
+							<div class="line2">Protect your vehicle</div>
+						</div>
+						<div class="dropdown-option" value="option3" id="individualOption3">
+							<div class="line1"><b>Home</b></div>
+							<div class="line2">Protect your dream home</div>
+						</div>
+					</div>
+				</div>
+				<div class="commercial-wrapper" id="frameContainer3">
+					<div class="home-2">Commercial</div>
+					<div id="commercialDropdown" , class="dropdown">
+						<div class="dropdown-option" value="option1" id="commercialOption1">
+							<div class="line1"><b>Auto</b></div>
+							<div class="line2">For your fleet</div>
+						</div>
+						<div class="dropdown-option" value="option2" id="commercialOption2">
+							<div class="line1"><b>General Liability</b></div>
+							<div class="line2">Travel around the world care free</div>
+						</div>
+						<div class="dropdown-option" value="option3" id="commercialOption3">
+							<div class="line1"><b>Warehouse</b></div>
+							<div class="line2">Protect your warehouse</div>
+						</div>
+						<div class="dropdown-option" value="option3" id="commercialOption4">
+							<div class="line1"><b>Restaurants</b></div>
+							<div class="line2">Protect your food business</div>
+						</div>
+					</div>
+				</div>
+				<div class="travel-wrapper" id="frameContainer3">
+					<div class="home-3">Travel</div>
+				</div>
+				<div class="support-wrapper" id="frameContainer4">
+					<div class="home-4">Support</div>
+					<div id="support-Dropdown" , class="dropdown">
+						<div class="dropdown-option" value="option1" id="supportOption1">
+							<div class="line1"><b>Contact us</b></div>
+							<div class="line2">We’ve got your back</div>
+						</div>
+						<div class="dropdown-option" value="option2" id="supportOption2">
+							<div class="line1"><b>About us</b></div>
+							<div class="line2">Why you matter</div>
+						</div>
+						<div class="dropdown-option" value="option3" id="supportOption3">
+							<div class="line1"><b>How it works</b></div>
+							<div class="line2">How we do things</div>
+						</div>
+						<div class="dropdown-option" value="option3" id="supportOption4">
+							<div class="line1"><b>FAQs</b></div>
+							<div class="line2">General topics</div>
+						</div>
+						<div class="dropdown-option" value="option3" id="supportOption5">
+							<div class="line1"><b>Blog</b></div>
+							<div class="line2">Insurance Knowledge Resource</div>
+						</div>
+					</div>
+				</div>
+				<div class="button-with-icon">
+					<div class="add-listing-wrapper">
+						<b class="add-listing" id="change" >Get a Quote</b>
+					</div>
+				</div>
+				<div class="group-ite">
+				</div>
+				<img class="search-line-icon" alt="" src="../statics/img/home/nav/search-line.svg">
+
+			</div>
+			<b class="binsure">BINSURE</b>
+		</div>
+		<div class="b-insure-insurance-broker-home-inner">
+			<div class="rectangle-wrapper">
+				<div class="rectangle-wrapper">
+					<div class="rectangle-wrapper">
+						<div class="rectangle-wrapper">
+							<div class="group-child38">
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="parent">
+					<img class="icon" alt="" src="../statics/img/home/“.svg">
+
+					<div class="our-customer-are-our-top-prior-parent">
+						<div class="our-customer-are-container">
+							<p class="partnerships-with-leading">Our customer are our top priority</p>
+							<p class="partnerships-with-leading">Let’s hear what they have to say.</p>
+						</div>
+						<div class="instance-parent">
+							<div class="frame-div">
+								<img class="instance-child" alt="" src="../statics/img/home/Frame 57.svg">
+
+							</div>
+							<img class="frame-icon" alt="" src="../statics/img/home/Frame 58.png">
+
+						</div>
+						<b class="what-people-say">What people say</b>
+					</div>
+					<div class="rectangle-parent22">
+						<div class="group-child39">
+						</div>
+						<img class="group-child40" alt="" src="../statics/img/home/Group 871.svg">
+
+						<div class="i-highly-recommend">I highly recommend . They were attentive to our needs and worked
+							tirelessly to find us the perfect policy. We couldn't be happier with our family protection
+							plan!</div>
+						<div class="barbara-d-smith">Barbara D. Smith</div>
+						<div class="group-child41">
+						</div>
+						<img class="ellipse-icon" alt="" src="../statics/img/home/Ellipse 15.png">
+
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="group-parent35">
+			<div class="group-parent36">
+				<div class="youre-in-good-company-parent">
+					<b class="youre-in-good">You’re in good company</b>
+					<div class="join-over-3000-container">
+						<p class="partnerships-with-leading">Join over 3,000 customers who received insurance quotes
+							from us.</p>
+						<p class="partnerships-with-leading">Protect, Improve and simplify your life. Get tips, savings
+							and promos straight to your inbox</p>
+					</div>
+				</div>
+				<div class="group-parent37">
+					<div class="group-wrapper7">
+						<div class="group-wrapper7">
+							<div class="group-child42">
+							</div>
+							<div class="enter-your-email">Enter your email</div>
+							<div class="button-with-icon3">
+								<div class="add-listing-wrapper">
+									<b class="knowledge-articles1">Stay updated!</b>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="find-out-how">Find out how affordable personalized insurance can be in 5 minutes with an
+						online quote.</div>
+				</div>
+			</div>
+			<img class="group-child43" alt="" src="../statics/img/home/Group 708.svg">
+
+		</div>
+		<div class="b-insure-variantsfooter">
+			<div class="b-insure-variantsfooter-child">
+			</div>
+			<div class="group-parent38">
+				<div class="group-wrapper8">
+					<div class="poll-parent">
+						<div class="poll-parent">
+							<div class="poll-parent">
+								<img class="image-40-icon" alt="" src="../statics/img/home/nav/image 35.svg">
+
+								<div class="group-child44">
+								</div>
+							</div>
+							<img class="bi-icon2" alt="" src="../statics/img/home/nav/Bi.svg">
+
+						</div>
+					</div>
+				</div>
+				<div class="po-box-9999-container">
+					<p class="partnerships-with-leading">P.O. Box 9999, Station BMontreal, OM M5M 3R4</p>
+					<p class="partnerships-with-leading">&nbsp;</p>
+					<p class="partnerships-with-leading">999-888-0000 . </p>
+					<p class="partnerships-with-leading">care@binsure.ca</p>
+				</div>
+			</div>
+			<div class="b-insure-variantsfooter-item">
+			</div>
+			<div class="quick-links-parent">
+				<b class="quick-links">Quick links</b>
+				<div class="sitemap" id="sitemapText">Sitemap</div>
+				<div class="careers" id="careersText">Careers</div>
+				<div class="contact-us" id="contactUsText">Contact us</div>
+				<div class="blog">Blog</div>
+				<div class="faqs">FAQs</div>
+				<div class="about">About</div>
+			</div>
+			<div class="terms-of-use-parent">
+				<div class="terms-of-use" id="termsOfUse">Terms of use</div>
+				<div class="privacy-policy" id="privacyPolicyText">Privacy Policy</div>
+				<div class="cookie-policy" id="cookiePolicyText">Cookie policy</div>
+				<b class="quick-links">Legal</b>
+			</div>
+			<div class="copyright-2024">Copyright © 2024 Inc. All rights reserved.</div>
+			<img class="b-insure-variantsfooter-inner" alt="" src="../statics/img/why/footer/Group 536.svg">
+
+		</div>
+	</div>
+
+	<div id="getAQuoteForm1Container" class="popup-overlay" style="display:none">
+
+		<div class="get-a-quote-form-1">
+			<div class="rectangle-parent24">
+				<div class="group-child45">
+				</div>
+				<img class="group-child46" alt="" src="Rectangle 10.png">
+
+				<div class="i-agree-to-container">
+					<p class="i-agree-to-terms-of-use-and-pr">I agree to
+						<span class="terms-of-use1">terms of use</span> and
+						<span class="terms-of-use1">privacy policy</span> when
+					</p>
+					<p class="i-agree-to-terms-of-use-and-pr">getting a free quote from </p>
+				</div>
+				<div class="group-parent40">
+					<div class="group-wrapper10">
+						<div class="group-wrapper11">
+							<div class="group-wrapper11">
+								<div class="group-child47">
+								</div>
+								<div class="get-a-free1">Get a Free quote</div>
+							</div>
+						</div>
+					</div>
+					<div class="your-name-parent">
+						<b class="your-name">Your name</b>
+						<div class="rectangle-parent26">
+							<div class="group-child48">
+							</div>
+							<div class="email-address">Your name</div>
+						</div>
+					</div>
+					<div class="contact-number-parent">
+						<b class="your-name">
+							<span>Contact number</span>
+							<span class="span"> </span>
+							<span class="span1">*</span>
+						</b>
+						<div class="group-parent41">
+							<div class="rectangle-parent27">
+								<div class="group-child48">
+								</div>
+								<div class="contact-number">Contact number</div>
+							</div>
+							<div class="container">
+								<div class="div">+40</div>
+								<img class="arrow-up-s-line-icon1" alt="" src="../statics/img/home/arrow-up-s-line.svg">
+
+							</div>
+						</div>
+					</div>
+					<div class="group-parent42">
+						<div class="rectangle-parent28">
+							<div class="group-child48">
+							</div>
+							<img class="arrow-up-s-line-icon2" alt="" src="../statics/img/home/arrow-up-s-line.svg">
+
+							<div class="weeks">1-2 Weeks</div>
+						</div>
+						<b class="planning-to-buy">Planning to buy </b>
+					</div>
+					<div class="group-parent43">
+						<div class="rectangle-parent29">
+							<div class="group-child48">
+							</div>
+							<div class="email-address">Email address</div>
+						</div>
+						<b class="planning-to-buy">Email address</b>
+					</div>
+				</div>
+			</div>
+			<img class="get-a-quote-form-1-child" alt="" src="Group 1969.svg">
+
+		</div>
+
+
+	</div>
+	<section class="get-quote-form">
+		<div class="form-container">
+		  <div class="form-content">
+			<div class="form-column">
+			  <form class="form-fields" action="/submit_form"method="post"  >
+				<label id="nameid" for="name" class="field-label">Your name</label>
+				<input
+				  type="text"
+				  id="name"
+				  name="name"
+				  class="input-field"
+				  placeholder="Your name"
+				  aria-label="Your name"
+				  required
+				/>
+	  
+				<label id="nameid"  for="planning" class="field-label" name="planning_to_buy">Planning to buy</label>
+			   
+				  <select class="select-wrapper" id="weeks">
+					  
+					  <option value="first">1-2 weeks</option>
+					  <option value="two">2-3 weeks</option>
+					  <option value="third">3-4 weeks</option>
+					  <option value="fourth">4-5 weeks</option>
+					  
+					</select>
+					
+				  
+				  
+	  
+				<label id="nameid" for="email" class="field-label">Email address</label>
+				<input
+				  type="email"
+				  id="email"
+				  name="email"
+				  class="input-field"
+				  placeholder="Email address"
+				  aria-label="Email address"
+				  required
+				/>
+	  
+				<label id="nameid" for="phone" class="field-label"
+				  >Contact number
+				  <span aria-hidden="true" style="color: #c03744">*</span></label
+				>
+				<div class="phone-input-wrapper">
+				  <div class="country-code">
+					<span>+40</span>
+					<img
+					  src="https://cdn.builder.io/api/v1/image/../statics/TEMP/94e1c3b3dd5ad643406488164a043336028259ee8f1549c947f3da9804d9dd82?placeholderIfAbsent=true&apiKey=2b52a2f46d7b444286ec7c5c16a85032"
+					  alt=""
+					  class="select-icon"
+					/>
+				  </div>
+				  <input
+					type="tel"
+					id="phone"
+					name="contact_number"
+					class="phone-input"
+					placeholder="Contact number"
+					aria-label="Contact number"
+					required
+				  />
+				</div>
+	  
+				<button  type="submit" class="submit-button">Get a Free quote</button>
+	  
+				<p class="terms-agreement">
+				  I agree to
+				  <a href="#" style="text-decoration: underline">terms of use</a> and
+				  <a href="#" style="text-decoration: underline">privacy policy</a>
+				  when getting a free quote from
+				</p>
+			  </form>
+			</div>
+			<div class="image-column" >
+			  <button class="close-button">×</button>
+			  <img
+				src="/../statics/img/Rectangle 10.png"
+				alt="Illustration of a person working on a laptop"
+				class="form-image" 
+			  />
+			</div>
+		  </div>
+		</div>
+	  </section>
+	  <div class="modal">
+		<img src="./../statics/img/Group 1969.png" alt="close-button" class="closing" id="cut-image" style="transform: scale(0.3);
+		margin-top: -80px;margin-left: 390px;">
+
+		<h1>You're all set!</h1>
+		<img src="/../statics/img/Group 1970.png" alt="High five">
+		<p>Thank you for sharing the details, <br>Our Advisor will get back to you shortly!</p>
+		<button class="sound">Sounds Good!</button>
+	  </div>
+	  <div class="thanks">
+		<div
+  role="frame"
+  style="width: 1035px;
+height: 500px;
+border-radius: 0px;
+transform: rotate(0deg);"
+>
+
+  <div
+    role="group"
+    style="width: 1035px;
+height: 500px;
+transform: rotate(0deg);
+position: absolute;
+left: 0px;
+top: 0px;"
+  >
+    <div 
+      style="width: 1035px;
+height: 500px;
+border-radius: 30px;
+background-color: #ffffffff;
+box-shadow: -2px 4px 48px #1018282d;
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;"
+    ></div>
+    <div class="back"
+      style="width: 236px;
+height: 60px;
+border-radius: 50px;
+background-color: #ffffffff;
+/* background-color: red; */
+border-left: 1px solid #24bbe3ff;
+border-right: 1px solid #24bbe3ff;
+border-bottom: 1px solid #24bbe3ff;
+border-top: 1px solid #24bbe3ff;
+box-sizing: border-box;
+position: absolute;
+left: 400px;
+right: 399px;
+top: 365px;
+bottom: 81px;
+display: flex;
+justify-content: center;
+align-items: center;"
+    ></div>
+    <div
+      style="display: flex;
+align-items: start;
+width: 185px;
+height: 12px;
+transform: rotate(0deg);
+mix-blend-mode: normal;
+position: absolute;
+left: 426px;
+right: 424px;
+top: 384px;
+bottom: 104px;"
+    >
+      <div
+        style="width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+text-align: center;"
+      >
+        <p
+          style="margin: 0;
+padding: 0;
+margin-bottom: 0;"
+        >
+          <span
+		  class="back"
+            style="font-size: 16px;
+			margin-top: -15px;
+font-weight: 700;
+font-family: Plus Jakarta Sans;
+line-height: normal;
+text-transform: none;
+color: #24bbe3ff;
+"
+            >CHECK OTHER QUOTE</span
+          ><span
+            style="font-size: 16px;
+font-weight: 700;
+margin-top: -60px;
+font-family: Plus Jakarta Sans;
+line-height: normal;
+text-transform: none;
+color: #24bbe3ff;"
+            >S</span
+          >
+        </p>
+      </div>
+    </div>
+    <div
+      style="width: 147px;
+height: 188px;
+border-radius: 0px;
+background-image: url('/../statics/img/33632370_speech_bubble_03a\ 1.png');
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+position: absolute;
+left: 444px;
+right: 444px;
+top: 45px;
+bottom: 267px;"
+    ></div>
+    <div
+      style="display: flex;
+align-items: start;
+width: 193px;
+height: 27px;
+transform: rotate(0deg);
+mix-blend-mode: normal;
+position: absolute;
+left: 421px;
+right: 421px;
+top: 245px;
+bottom: 228px;"
+    >
+      <div
+        style="width: 100%;
+text-align: left;"
+      >
+        <p
+          style="margin: 0;
+padding: 0;
+margin-bottom: 0;"
+        >
+          <span
+            style="font-size: 36px;
+font-weight: 800;
+font-family: Plus Jakarta Sans;
+line-height: 26px;
+text-transform: none;
+color: #3d3d3dff;"
+            >Thank you</span
+          ><span
+            style="font-size: 36px;
+font-weight: 800;
+font-family: Plus Jakarta Sans;
+line-height: 26px;
+text-transform: none;
+color: #3d3d3dff;"
+            >!</span
+          >
+        </p>
+      </div>
+    </div>
+    <div
+      style="display: flex;
+align-items: start;
+width: 466px;
+height: 15px;
+transform: rotate(0deg);
+mix-blend-mode: normal;
+position: absolute;
+left: 285px;
+right: 284px;
+top: 303px;
+bottom: 182px;"
+    >
+      <div
+        style="width: 100%;
+text-align: center;"
+      >
+        <p
+          style="margin: 0;
+padding: 0;
+margin-bottom: 0;"
+        >
+          <span
+            style="font-size: 20px;
+font-weight: 400;
+font-family: Plus Jakarta Sans;
+line-height: normal;
+text-transform: none;
+color: #3d3d3dff;"
+            >We’ve sent your personalized quote to your inbox</span
+          ><span
+            style="font-size: 20px;
+font-weight: 400;
+font-family: Plus Jakarta Sans;
+line-height: normal;
+text-transform: none;
+color: #3d3d3dff;"
+            >.</span
+          >
+        </p>
+      </div>
+    </div>
+	<img src="/../statics/img/Group 573.png" alt="cut" class="cut-me" style="margin-top: -50px;
+	margin-left: 1020px; z-index: 50;">
+   
+    <div
+      style="display: flex;
+align-items: center;
+width: 819px;
+height: 13px;
+transform: rotate(0deg);
+mix-blend-mode: normal;
+position: absolute;
+left: 126px;
+right: 90px;
+top: 445px;
+bottom: 42px;"
+    >
+	
+      <div
+        style="width: 100%;
+text-align: center;"
+      >
+        <p
+          style="margin: 0;
+padding: 0;
+margin-bottom: 0;"
+        >
+          <span
+            style="font-size: 18px;
+font-weight: 400;
+font-family: Plus Jakarta Sans;
+line-height: normal;
+text-transform: none;
+color: #818080ff;"
+            >Your data is secured with us, We do not share your data with anyone
+            except our insurance partner</span
+          ><span
+            style="font-size: 18px;
+font-weight: 400;
+font-family: Plus Jakarta Sans;
+line-height: normal;
+text-transform: none;
+color: #818080ff;"
+            >s</span
+          >
+        </p>
+      </div>
+    </div>
+    <div
+      role="frame"
+      style="width: 24px;
+height: 24px;
+border-radius: 0px;
+transform: rotate(0deg);
+position: absolute;
+left: 90px;
+right: 921px;
+top: 440px;
+bottom: 36px;"
+    >
+      <svg
+        role="vector"
+        style="position: absolute;
+left: 3px;
+right: 3px;
+top: 1px;
+bottom: 1px;"
+        width="19"
+        height="22"
+        viewBox="0 0 19 22"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M2.50781 3.60434V12.7889C2.50781 14.1263 3.17621 15.3752 4.28901 16.1171L9.50781 19.5963L14.7266 16.1171C15.8394 15.3752 16.5078 14.1263 16.5078 12.7889V3.60434L9.50781 2.04879L2.50781 3.60434ZM1.29088 1.82598L9.50781 0L17.7247 1.82598C18.1823 1.92766 18.5078 2.33347 18.5078 2.80217V12.7889C18.5078 14.795 17.5052 16.6684 15.836 17.7812L9.50781 22L3.17961 17.7812C1.51042 16.6684 0.507812 14.795 0.507812 12.7889V2.80217C0.507812 2.33347 0.833343 1.92766 1.29088 1.82598ZM9.50781 12.5L6.56888 14.0451L7.13017 10.7725L4.75253 8.45492L8.03831 7.97746L9.50781 5L10.9773 7.97746L14.2631 8.45492L11.8854 10.7725L12.4467 14.0451L9.50781 12.5Z"
+          fill="#818080"
+        />
+      </svg>
+    </div>
+  </div>
+</div>
+
+	  </div>
+
+
+</div>
+
+	<script src="../statics/js/ff.js"></script>
+</body>
+
+</html>

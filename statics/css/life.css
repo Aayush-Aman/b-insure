@@ -1,0 +1,2293 @@
+.quote-form {
+    position: absolute;
+    box-shadow: 0px -4px 6px 6px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 481.5px;
+    height: 626px;
+    margin-left: -300px;
+    margin-top: 100px;
+}
+
+.quote-form h1 {
+    font-size: 32px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.form-group {
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 40px;
+    margin-right: 30px;
+    font-family: sans-serif;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="contact"],
+input[type="planning-to-buy"] {
+    width: 80%;
+    height: 50px;
+    padding: 10px;
+    margin-left: 40px;
+    border-radius: 25px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    border:0.5px solid grey;
+    outline: none;
+    font-family: sans-serif;
+}
+select{
+    width: 80%;
+    height: 45px;
+    padding: 10px;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-radius: 25px;
+    font-size: 16px;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    border:0.5px solid grey;
+    outline: none;
+}
+
+.contact-number-container {
+    width:90%;
+    display: flex;
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+
+#contact-number-prefix {
+    width: 50px;
+    margin-right: 5px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 25px 0 0 25px;
+}
+
+#contact-number {
+    flex-grow: 1;
+    border-radius:30px;
+}
+
+#button {
+    width: 80%;
+    height: 55px;
+    padding: 10px;
+    background-color: #24bbe3;
+    border: none;
+    border-radius: 25px;
+    font-size: 1em;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 45px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family:sans-serif;
+}
+
+button:hover {
+    background-color: #009acd;
+}
+
+
+
+
+.terms {
+    margin-top: 15px;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-right: 30px;
+    color: #666;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.b-insure-variants {
+    position: relative;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    height: 400px;
+    width:300px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    min-width: 240px;
+    border-radius: 10px;
+    list-style: none;
+    padding: 10px 0;
+    margin-top: 50px; 
+  }
+  
+  .dropdown-content li {
+    padding: 8px 16px;
+  }
+  
+  .dropdown-content li a {
+    font-family: sans-serif;
+    color: #333;
+    display: block;
+    text-decoration: none;
+  }
+  
+  .dropdown-content li p {
+    font-family: sans-serif;
+    font-size: 12px;
+    margin: 5px 0 0 0;
+    color: grey;
+  }
+  
+  .dropdown:hover .dropdown-content,
+  .dropdown.active .dropdown-content {
+    display:inline;
+  }
+
+.image-1-icon {
+    position: absolute;
+    top: 366px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.image-2-icon {
+    position: absolute;
+    top: 366px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655.01px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 0.01px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.image-2-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 1433.01px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.group-child {
+    position: absolute;
+    top: 599px;
+    left: 0px;
+    background-color: #353535;
+    width: 1920px;
+    height: 599px;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-item {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.group-wrapper {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.blank-line {
+    margin: 0;
+}
+.po-box-9999-container {
+    position: absolute;
+    top: 160px;
+    left: 0px;
+}
+.group-parent {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.group-inner {
+    position: absolute;
+    top: 484px;
+    left: 239px;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+    width: 1442px;
+    height: 2px;
+}
+.quick-links {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+}
+.careers {
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+.contact-us {
+    position: absolute;
+    top: 144px;
+    left: 0px;
+}
+.insurance {
+    position: absolute;
+    top: 186px;
+    left: 0px;
+}
+.blog {
+    position: absolute;
+    top: 228px;
+    left: 0px;
+}
+.faqs {
+    position: absolute;
+    top: 270px;
+    left: 0px;
+}
+.about {
+    position: absolute;
+    top: 312px;
+    left: 0px;
+}
+.quick-links-parent {
+    position: absolute;
+    top: 81px;
+    left: 1282px;
+    width: 111px;
+    height: 327px;
+}
+.terms-of-use {
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+.cookie-policy {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+}
+.terms-of-use-parent {
+    position: absolute;
+    top: 81px;
+    left: 1522px;
+    width: 132px;
+    height: 157px;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 522px;
+    left: 250px;
+    white-space: pre-wrap;
+}
+.group-icon {
+    position: absolute;
+    top: 446px;
+    left: 1757px;
+    width: 78px;
+    height: 78px;
+    color:#fff;
+    background-color: black;
+    border-radius: 50px;
+    border:2px solid grey;
+}
+.group-icon i {
+    font-size: 22px;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 7623px;
+    left: 0.01px;
+    width: 1920px;
+    height: 599px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #353535;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #2079ff;
+    width: 1921px;
+    height: 166.9px;
+}
+.add-listing {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.button-with-icon {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 0%;
+    bottom: 14.84%;
+    left: 82.78%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    color:white;
+    background-color: #2079ff;
+}
+.button-with-icon .add-listing-wrapper .add-listing{
+    margin-top:5px;
+    font-size: 20px;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 18.36%;
+    bottom: 14.84%;
+    left: 64.41%;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    color: #046eb6;
+    border:none;
+}
+.button-with-icon1 .add-listing-wrapper .add-listing{
+    margin-top:5px;
+    font-size: 20px;
+}
+.join-the-team {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    line-height: 170%;
+}
+.change-insurance-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.join-the-team-that-is-making-h-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+}
+.group-frame {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+    text-align: left;
+}
+.button-with-icon-parent {
+    position: absolute;
+    height: 54.52%;
+    width: 74.96%;
+    top: 22.59%;
+    right: 12.52%;
+    bottom: 22.89%;
+    left: 12.52%;
+}
+.rectangle-group {
+    position: absolute;
+    top: 7456.07px;
+    left: -0.06px;
+    width: 1921px;
+    height: 166.9px;
+    text-align: center;
+    font-size: 21.5px;
+    color: #fff;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1921px;
+    height: 904px;
+}
+.a-better-future {
+    font-family: Manrope;
+}
+.ready-to-protect-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    font-family: Manrope;
+}
+.buttons-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 4px;
+    background-color: #24bbe3;
+}
+.get-instant-quote {
+    position: absolute;
+    top: 32.03%;
+    left: 15.04%;
+    letter-spacing: 0.01em;
+}
+.buttons {
+    position: absolute;
+    top: 407px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 226px;
+    height: 64px;
+    text-align: center;
+    color: #fff;
+    border:none;
+    font-size: 18px;
+}
+.your-time-matters {
+    position: absolute;
+    top: 164px;
+    left: 5.01px;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    line-height: 170%;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 737px;
+}
+.some-facts-around-container {
+    position: absolute;
+    top: 0px;
+    left: 65px;
+    line-height: 153%;
+}
+.group-child1 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    border-radius: 22.5px;
+    background-color: #0a0a0b;
+    width: 48px;
+    height: 45px;
+}
+.some-facts-around-the-above-st-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 259px;
+    height: 56px;
+}
+.some-facts-around-the-above-st-group {
+    position: absolute;
+    top: 0px;
+    left: 299px;
+    width: 259px;
+    height: 56px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 311px;
+    left: 0px;
+    width: 558px;
+    height: 56px;
+    font-family: Lora;
+}
+.ready-to-protect-your-loved-on-parent {
+    position: absolute;
+    top: 216.5px;
+    left: 288.05px;
+    width: 742px;
+    height: 471px;
+}
+.group-child3 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    box-shadow: 0px -4px 6px 6px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 481.5px;
+    height: 626px;
+}
+.terms-of-use1 {
+    text-decoration: underline;
+}
+.i-agree-to-container {
+    position: absolute;
+    top: 542.02px;
+    left: 43.44px;
+    line-height: 170%;
+}
+.group-child4 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+    width: 379.6px;
+    height: 60px;
+}
+.get-a-free {
+    position: absolute;
+    top: 25px;
+    left: calc(50% - 80.5px);
+}
+.group-wrapper2 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 379.6px;
+    height: 60px;
+}
+.group-wrapper1 {
+    position: absolute;
+    top: 423.12px;
+    right: 0.1px;
+    width: 379.6px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.your-name {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+}
+.group-child5 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    box-sizing: border-box;
+}
+.rectangle-parent2 {
+    position: absolute;
+    height: 66.67%;
+    width: 100%;
+    top: 33.33%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-family: Poppins;
+}
+.your-name-parent {
+    position: absolute;
+    height: 16.77%;
+    width: 99.97%;
+    top: 0%;
+    right: 0.03%;
+    bottom: 83.23%;
+    left: 0%;
+}
+.span {
+    color: #8c1823;
+}
+.contact-number {
+    position: absolute;
+    top: 24.89%;
+    left: 21.87%;
+}
+.div {
+    position: absolute;
+    top: -3.83%;
+    left: 0%;
+}
+.arrow-up-s-line-icon {
+    position: absolute;
+    height: 100%;
+    width: 40.68%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 59.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent {
+    position: absolute;
+    height: 44.44%;
+    width: 15.54%;
+    top: 27.78%;
+    right: 80.5%;
+    bottom: 27.78%;
+    left: 3.96%;
+}
+.group-parent3 {
+    position: absolute;
+    height: 65.85%;
+    width: 100%;
+    top: 34.15%;
+    right: -0.01%;
+    bottom: 0%;
+    left: 0.01%;
+    font-family: Poppins;
+}
+.contact-number-parent {
+    position: absolute;
+    height: 16.97%;
+    width: 99.97%;
+    top: 65.95%;
+    right: 0.03%;
+    bottom: 17.08%;
+    left: 0%;
+}
+.arrow-up-s-line-icon1 {
+    position: absolute;
+    height: 44.44%;
+    width: 6.32%;
+    top: 27.78%;
+    right: 5.11%;
+    bottom: 27.78%;
+    left: 88.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.weeks {
+    position: absolute;
+    top: 28.89%;
+    left: 5.27%;
+    line-height: 26px;
+}
+.rectangle-parent4 {
+    position: absolute;
+    height: 63.53%;
+    width: 100%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.planning-to-buy {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-parent4 {
+    position: absolute;
+    height: 17.59%;
+    width: 99.95%;
+    top: 21.43%;
+    right: 0.05%;
+    bottom: 60.98%;
+    left: 0%;
+    font-family: Poppins;
+}
+.email-address {
+    position: absolute;
+    top: 24.89%;
+    left: 5.44%;
+}
+.rectangle-parent5 {
+    position: absolute;
+    height: 63.53%;
+    width: 99.97%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0.02%;
+}
+.group-parent5 {
+    position: absolute;
+    height: 17.59%;
+    width: 100%;
+    top: 43.69%;
+    right: 0%;
+    bottom: 38.72%;
+    left: 0%;
+    font-family: Poppins;
+}
+.group-parent2 {
+    position: absolute;
+    top: 36.37px;
+    right: 58.36px;
+    width: 379.7px;
+    height: 483.1px;
+    color: #5a5555;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-container {
+    position: absolute;
+    top: 138.98px;
+    right: 260.29px;
+    width: 481.5px;
+    height: 626px;
+    font-size: 16px;
+    color: #5c6163;
+    font-family: Lora;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 120px;
+    left: -0.07px;
+    width: 1921px;
+    height: 904px;
+    font-size: 18px;
+}
+.get-instant-travel-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 170%;
+}
+.get-instant-travel-insurance-q-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    width: 411px;
+    height: 82px;
+}
+.image-11-icon {
+    position: absolute;
+    top: 16.4px;
+    left: 0px;
+    width: 120px;
+    height: 100.8px;
+    object-fit: cover;
+}
+.image-11-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 0px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-8-icon {
+    position: absolute;
+    top: 17.6px;
+    left: 14.8px;
+    width: 95.6px;
+    height: 84px;
+    object-fit: cover;
+}
+.image-8-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 144px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-12-icon {
+    position: absolute;
+    top: 16.8px;
+    left: 0px;
+    width: 113.6px;
+    height: 103.2px;
+    object-fit: cover;
+}
+.image-12-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 288px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-9-icon {
+    position: absolute;
+    top: 0px;
+    left: 14.8px;
+    width: 105.2px;
+    height: 120px;
+    object-fit: cover;
+}
+.image-9-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 432px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-child {
+    position: absolute;
+    top: 0.5px;
+    left: 576px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-item {
+    position: absolute;
+    top: 0.5px;
+    left: 720px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: 0.5px;
+    left: 864px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.image-16-icon {
+    position: absolute;
+    top: 15.6px;
+    left: 0px;
+    width: 120px;
+    height: 104.4px;
+    object-fit: cover;
+}
+.image-16-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1008px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-13-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1152px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 120px;
+    overflow-x: auto;
+}
+.group-parent6 {
+    position: absolute;
+    top: 1048px;
+    left: 240px;
+    width: 1440px;
+    height: 120px;
+    font-size: 24px;
+    font-family: Manrope;
+}
+.about-hero-background-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 1031.2px;
+}
+.why-choose {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 838.7px;
+}
+.we-help-canada-container {
+    position: absolute;
+    top: 76.8px;
+    left: 126px;
+    font-size: 18px;
+    line-height: 170%;
+}
+.why-choose-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-wrapper3 {
+    position: absolute;
+    top: 0px;
+    left: 282.38px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-child9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #d1f5ff;
+    width: 454.3px;
+    height: 384.2px;
+}
+.icon-100-1 {
+    position: absolute;
+    top: 256.25px;
+    left: 326px;
+    border-radius: 4px;
+    background-color: #24bbe3;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.convenience {
+    position: absolute;
+    top: 40.55px;
+    left: 33.55px;
+}
+.purchase-your-insurance-container {
+    position: absolute;
+    top: 95.62px;
+    left: 33.55px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 402.9px;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 454.3px;
+    height: 384.2px;
+}
+.group-child10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 454.3px;
+    height: 384.2px;
+}
+.icon-100-11 {
+    position: absolute;
+    top: 256.25px;
+    left: 330.41px;
+    border-radius: 4px;
+    background-color: #3d3d3d;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+.cost {
+    position: absolute;
+    top: 50.31px;
+    left: 40.21px;
+}
+.compare-rates-across {
+    position: absolute;
+    top: 105.38px;
+    left: 40.21px;
+    font-size: 21.5px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 373.9px;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 0px;
+    left: 489.28px;
+    width: 454.3px;
+    height: 384.2px;
+}
+.rectangle-parent8 {
+    position: absolute;
+    top: 0px;
+    left: 978.56px;
+    width: 454.3px;
+    height: 384.2px;
+}
+.group-parent8 {
+    position: absolute;
+    top: 218.8px;
+    left: 0px;
+    width: 1432.8px;
+    height: 384.2px;
+    text-align: left;
+    font-size: 27px;
+    color: #000;
+}
+.group-parent7 {
+    position: absolute;
+    top: 214.08px;
+    left: 240.76px;
+    width: 1432.8px;
+    height: 603px;
+}
+.about-hero-background-group {
+    position: absolute;
+    top: 1192px;
+    left: -0.76px;
+    width: 1921px;
+    height: 1031.2px;
+    text-align: center;
+    font-size: 42px;
+}
+.group-child12 {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 803px;
+}
+.feature-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 1024px;
+    overflow: hidden;
+}
+.icon-100-13 {
+    position: absolute;
+    top: 51px;
+    left: 33.54px;
+    border-radius: 4px;
+    background-color: #e5e6e6;
+    width: 595px;
+    height: 570px;
+    overflow: hidden;
+}
+.icon-100-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #b9b9b9;
+    width: 595px;
+    height: 571px;
+    overflow: hidden;
+}
+.icon-100-1-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 628.5px;
+    height: 621px;
+}
+.how-is {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.how-is-different-from-other-li-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 348px;
+    height: 46px;
+}
+.arrow-left-s-line-icon {
+    position: absolute;
+    top: 0.11px;
+    left: 586.07px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent14 {
+    position: absolute;
+    top: 185.11px;
+    left: 0px;
+    width: 616.1px;
+    height: 46px;
+}
+.what-types-of {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    white-space: pre-wrap;
+}
+.what-types-of-insurance-does-o-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 309px;
+    height: 23px;
+}
+.arrow-left-s-line-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 586.07px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+    font-size: 22px;
+}
+.group-parent15 {
+    position: absolute;
+    top: 247.11px;
+    left: 0px;
+    width: 616.1px;
+    height: 30px;
+}
+.do-i-pay-fees-to-use-wrapper {
+    position: absolute;
+    top: 3.5px;
+    left: 0px;
+    width: 176px;
+    height: 23px;
+}
+.group-parent16 {
+    position: absolute;
+    top: 293.11px;
+    left: 0px;
+    width: 616.1px;
+    height: 30px;
+}
+.what-is-policyadvisor-and-how-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 387px;
+    height: 23px;
+}
+.group-parent17 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 616.1px;
+    height: 30.1px;
+}
+.group-child13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f6f6f6;
+    width: 558.7px;
+    height: 123px;
+}
+.we-help-our {
+    position: absolute;
+    top: 10.5px;
+    left: 19.04px;
+    line-height: 190%;
+    display: inline-block;
+    width: 557px;
+}
+.rectangle-parent10 {
+    position: absolute;
+    top: 46.11px;
+    left: 0px;
+    width: 576px;
+    height: 123px;
+}
+.group-parent13 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 616.1px;
+    height: 323.1px;
+}
+.group-wrapper8 {
+    position: absolute;
+    top: 179px;
+    left: 0px;
+    width: 616.1px;
+    height: 323.1px;
+}
+.insurance-for-life {
+    width: 544px;
+    position: relative;
+    line-height: 48px;
+    display: inline-block;
+}
+.insurance-for-life-and-terms-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.is-simple-just {
+    align-self: stretch;
+    position: relative;
+    line-height: 28px;
+}
+.is-simple-just-answer-a-few-q-wrapper {
+    width: 544px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 18px;
+}
+.frame-group {
+    position: absolute;
+    top: calc(50% - 73.5px);
+    left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 48px;
+}
+.frame-wrapper {
+    position: absolute;
+    top: calc(50% - 251.05px);
+    left: 0px;
+    width: 544px;
+    height: 147px;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 616.1px;
+    height: 502.1px;
+}
+.button-with-icon2 {
+    position: absolute;
+    height: 8.22%;
+    width: 23.86%;
+    top: 91.78%;
+    right: 76.14%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    border:none;
+}
+.group-parent11 {
+    position: absolute;
+    top: 18.5px;
+    left: 766.3px;
+    width: 616.1px;
+    height: 584px;
+}
+.group-parent10 {
+    position: absolute;
+    top: 201.5px;
+    left: 265.3px;
+    width: 1382.4px;
+    height: 621px;
+}
+.group-wrapper6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1024px;
+}
+.life-insurance-inner {
+    position: absolute;
+    top: 2247.17px;
+    left: -0.07px;
+    width: 1920px;
+    height: 1024px;
+    font-size: 18px;
+}
+.group-child14 {
+    position: absolute;
+    top: 38.53px;
+    left: 0px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #14677d, #29474f);
+    width: 1928.9px;
+    height: 400.6px;
+}
+.group-child15 {
+    position: absolute;
+    height: 29.13%;
+    width: 14.96%;
+    top: 70.44%;
+    right: 12.92%;
+    bottom: 0.43%;
+    left: 72.12%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button-with-icon3 {
+    position: absolute;
+    height: 30.9%;
+    width: 44.81%;
+    top: 69.1%;
+    right: 55.19%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    border: none;
+    background-color: #14677d;
+    border:2px solid white;
+    color:white;
+}
+.button-with-icon3 .add-listing-wrapper .add-listing{
+    font-size: 20px;
+}
+.chat-with-our {
+    position: absolute;
+    top: 63.02px;
+    left: 0px;
+    line-height: 170%;
+    display: inline-block;
+    width: 553.4px;
+}
+.chat-with-our-licensed-advisor-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 125px;
+}
+.group-wrapper10 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 553.4px;
+    height: 125px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.group-wrapper9 {
+    position: absolute;
+    height: 47.16%;
+    width: 28.69%;
+    top: 30.8%;
+    right: 54.75%;
+    bottom: 22.03%;
+    left: 16.56%;
+}
+.group-child16 {
+    position: absolute;
+    height: 99.57%;
+    width: 14.3%;
+    top: 0%;
+    right: 17.62%;
+    bottom: 0.43%;
+    left: 68.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent11 {
+    position: absolute;
+    top: 4436.77px;
+    left: -6.66px;
+    width: 1928.9px;
+    height: 439.1px;
+    text-align: center;
+    font-size: 21.5px;
+    color: #fff;
+}
+.what-is-life {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 36px;
+    text-align: center;
+}
+.whether-handling-policy-container {
+    position: absolute;
+    top: 80.35px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 170%;
+    font-weight: 500;
+}
+.in-return-your {
+    position: absolute;
+    top: 202.98px;
+    left: 0px;
+    line-height: 186%;
+    font-weight: 500;
+    display: inline-block;
+    width: 621px;
+}
+.year-term {
+    position: absolute;
+    top: 3px;
+    left: 44.01px;
+    line-height: 186%;
+    font-weight: 500;
+}
+.checkbox-circle-fill-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 36px;
+    height: 36px;
+    overflow: hidden;
+}
+.year-term-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 144px;
+    height: 36px;
+}
+.year-term1 {
+    position: absolute;
+    top: 3px;
+    left: 44.88px;
+    line-height: 186%;
+    font-weight: 500;
+}
+.year-term-group {
+    position: absolute;
+    top: 0px;
+    left: 176.01px;
+    width: 144.9px;
+    height: 36px;
+}
+.year-term-container {
+    position: absolute;
+    top: 0px;
+    left: 352.89px;
+    width: 148.9px;
+    height: 36px;
+}
+.group-parent20 {
+    position: absolute;
+    top: 319.35px;
+    left: 0px;
+    width: 501.8px;
+    height: 36px;
+}
+.what-is-life-insurance-parent {
+    position: absolute;
+    top: 8.46px;
+    left: 0px;
+    width: 621px;
+    height: 355.4px;
+}
+.icon-100-14 {
+    position: absolute;
+    top: 30.57px;
+    left: 34.14px;
+    border-radius: 4px;
+    background-color: #e5e6e6;
+    width: 605.7px;
+    height: 341.7px;
+    overflow: hidden;
+}
+.icon-100-21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #b9b9b9;
+    width: 605.7px;
+    height: 342.3px;
+    overflow: hidden;
+}
+.icon-100-1-group {
+    position: absolute;
+    top: 0px;
+    left: 741.35px;
+    width: 639.9px;
+    height: 372.3px;
+}
+.group-parent19 {
+    position: absolute;
+    top: 0px;
+    left: 58.77px;
+    width: 1381.2px;
+    height: 372.3px;
+}
+.life-insurance-providers {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 170%;
+    font-weight: 500;
+    display: inline-block;
+    width: 642.9px;
+}
+.in-return-your-container {
+    position: absolute;
+    top: 307px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 186%;
+    font-weight: 500;
+    display: inline-block;
+    width: 621px;
+}
+.year-term3 {
+    position: absolute;
+    top: 3px;
+    left: 44px;
+    line-height: 186%;
+    font-weight: 500;
+}
+.year-term-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 176px;
+    width: 144.9px;
+    height: 36px;
+}
+.group-parent22 {
+    position: absolute;
+    top: 525px;
+    left: 0px;
+    width: 501.8px;
+    height: 36px;
+    font-size: 16px;
+}
+.how-does-term-life-insurance-w-parent {
+    position: absolute;
+    top: 0px;
+    left: 797.11px;
+    width: 642.9px;
+    height: 561px;
+}
+.icon-100-15 {
+    position: absolute;
+    top: 43.14px;
+    left: 34.14px;
+    border-radius: 4px;
+    background-color: #e5e6e6;
+    width: 605.7px;
+    height: 482.1px;
+    overflow: hidden;
+}
+.icon-100-22 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #b9b9b9;
+    width: 605.7px;
+    height: 483px;
+    overflow: hidden;
+}
+.icon-100-1-container {
+    position: absolute;
+    top: 17.87px;
+    left: 0px;
+    width: 639.9px;
+    height: 525.3px;
+}
+.group-parent21 {
+    position: absolute;
+    top: 468.26px;
+    left: 0px;
+    width: 1440px;
+    height: 561px;
+    font-size: 36px;
+}
+.group-parent18 {
+    position: absolute;
+    top: 6229.87px;
+    left: 240px;
+    width: 1440px;
+    height: 1029.3px;
+}
+.icon-100-16 {
+    position: absolute;
+    top: 169.5px;
+    left: 140.73px;
+    border-radius: 4px;
+    background-color: #e5e6e6;
+    width: 402px;
+    height: 419px;
+    overflow: hidden;
+}
+.icon-100-23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #b9b9b9;
+    width: 306px;
+    height: 549px;
+    overflow: hidden;
+}
+.icon-100-3 {
+    position: absolute;
+    top: 274.5px;
+    left: 331.63px;
+    border-radius: 15px;
+    background-color: #b9b9b9;
+    width: 306px;
+    height: 549px;
+    overflow: hidden;
+}
+.icon-100-1-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 637.6px;
+    height: 823.5px;
+}
+.group-wrapper12 {
+    position: absolute;
+    top: 0px;
+    left: 788.28px;
+    width: 637.6px;
+    height: 823.5px;
+}
+.the-cost-of-container {
+    position: absolute;
+    top: 80.35px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 200%;
+    font-weight: 500;
+    display: inline-block;
+    width: 714px;
+}
+.how-much-does-term-life-insura-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 714px;
+    height: 467.4px;
+}
+.button-with-icon4 {
+    position: absolute;
+    height: 8.81%;
+    width: 20.59%;
+    top: 91.19%;
+    right: 79.41%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    border:none;
+}
+.group-parent24 {
+    position: absolute;
+    top: 139.39px;
+    left: 0px;
+    width: 714px;
+    height: 544.7px;
+}
+.group-parent23 {
+    position: absolute;
+    top: 3437.27px;
+    left: 243.78px;
+    width: 1425.9px;
+    height: 823.5px;
+    font-size: 36px;
+}
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 35%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 40px;
+    color: #fff;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.group-child17 {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent25 {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home {
+    position: relative;
+}
+.home-wrapper {
+    position: absolute;
+    height: 100%;
+    width: 16.46%;
+    top: 0%;
+    right: 83.54%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.insurance-wrapper {
+    position: absolute;
+    /* height: 100%;
+    width: 22.08%; */
+    height: 300px;
+    width:250px;
+    top: 0%;
+    right: 56.46%;
+    bottom: 0%;
+    left: 21.46%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 100%;
+    width: 26.25%;
+    top: 0%;
+    right: 25%;
+    bottom: 0%;
+    left: 48.75%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+}
+.support-wrapper {
+    position: absolute;
+    /* height: 100%;
+    width: 19.79%; */
+    height: 350px;
+    width:250px;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 80.21%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+}
+.frame-container {
+    position: absolute;
+    height: 79.17%;
+    width: 65.84%;
+    top: 10.42%;
+    right: 34.16%;
+    bottom: 10.42%;
+    left: 0%;
+}
+/* .button-with-icon5 {
+    position: absolute;
+    height: 100%;
+    width: 20.16%;
+    top: 0%;
+    right: 10.7%;
+    bottom: 0%;
+    left: 69.14%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    border:none;
+} */
+.button-with-icon5 {
+    position: absolute;
+    height: 100%;
+    width: 20.16%;
+    top: 5%;
+    right: 10.7%;
+    bottom: 0%;
+    left: 69.14%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+    border:none;
+}
+.button-with-icon5 .add-listing-wrapper .add-listing{
+    font-size: 16px;
+}
+.line-div {
+    position: absolute;
+    height: 60.42%;
+    width: 0.27%;
+    top: 20.83%;
+    right: 7.41%;
+    bottom: 18.75%;
+    left: 92.32%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+/* .search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 4.39%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 95.61%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    font-size: 28px;
+} */
+
+.search-menu {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 700px;
+    overflow: hidden;
+    font-size: 30px;
+    font-family: tahoma;
+    cursor: pointer;
+  }
+.group-parent26 {
+    position: absolute;
+    height: 60%;
+    width: 37.97%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 49.53%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 1920px;
+    height: 80px;
+    color: #2b2b2b;
+}
+.icon {
+    position: absolute;
+    top: 211px;
+    left: 384px;
+    width: 261.4px;
+    height: 277.3px;
+}
+.icon1 {
+    position: absolute;
+    top: 37px;
+    left: 1294px;
+    width: 261.4px;
+    height: 277.3px;
+    object-fit: contain;
+}
+.what-people-say {
+    position: relative;
+    line-height: 48px;
+}
+.what-people-say-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.our-customer-are-container {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.frame-parent1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.avatar-icon {
+    width: 48px;
+    position: relative;
+    height: 48px;
+    object-fit: cover;
+}
+.best-product-ever {
+    align-self: stretch;
+    position: relative;
+    line-height: 26px;
+}
+.avatar-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.testimonial-card-inner {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.frame-child1 {
+    width: 17px;
+    position: relative;
+    border-top: 1px solid #8d96a6;
+    box-sizing: border-box;
+    height: 1px;
+}
+.ana-wilson-head {
+    position: relative;
+    line-height: 17px;
+    font-weight: 500;
+}
+.line-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 12px;
+    color: #8d96a6;
+}
+.testimonial-card {
+    width: 312px;
+    box-shadow: 0px 6px 20px rgba(37, 98, 204, 0.18);
+    border-radius: 24px;
+    background-color: #fff;
+    height: 408px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.testimonial-card-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0px 0px 64px;
+}
+.testimonial-card-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 64px 0px 0px;
+}
+.logo-3 {
+    width: 200px;
+    position: relative;
+    height: 32px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.logo-3-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 56px;
+}
+.testimonial-card-frame {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 0px 64px;
+}
+.group-icon1 {
+    position: absolute;
+    height: 54.06%;
+    width: 74.85%;
+    top: 28.42%;
+    right: 0.03%;
+    bottom: 17.51%;
+    left: 25.13%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.group-icon2 {
+    position: absolute;
+    height: 100%;
+    width: 20.25%;
+    top: 0%;
+    right: 79.75%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-parent2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 40px;
+    font-size: 16px;
+    color: #253042;
+}
+.frame-div {
+    position: absolute;
+    top: calc(50% - 274px);
+    left: calc(50% - 684px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 64px;
+}
+.testimonials {
+    position: absolute;
+    top: 5051.87px;
+    left: 0px;
+    background-color: #fff;
+    width: 1920px;
+    height: 1060px;
+    overflow: hidden;
+    font-size: 40px;
+    color: #121d2f;
+}
+.life-insurance {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 8222px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+

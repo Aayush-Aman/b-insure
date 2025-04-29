@@ -1,0 +1,3086 @@
+@media (max-width:1285px) {
+    .b-insure-variants,.why-choose-b-insure-parent
+    {
+        margin-left: -150px;
+    }
+    .frame-group,.b-insure-variants-item{
+        margin-left: -180px;
+    }
+    .group-child10,.group-child11{
+        margin-left: -350px;
+    }
+    .group-parent9,.a-financial-safety-net-for-you-parent,.group-wrapper4,.group-parent19{
+        margin-left: -250px
+    }
+    .group-parent3,.group-child1,.i-agree-to-container
+    {
+        margin-right: 250px;
+        
+    }
+    .group-parent7,.icon,.icon1,.life-insurance-item{
+        margin-left: -200px;
+    }
+    .group-parent16,.group-parent20{
+        margin-left: -225px;
+    }
+    .group-parent17{
+        margin-left: -300px;
+    }
+    .group-parent12{
+        margin-left:-365px;
+    }
+    .rectangle-parent16,.rectangle-parent17,.rectangle-parent18,
+    .rectangle-parent19,.rectangle-parent20,.rectangle-parent21{
+        margin-left: -225px;
+    }
+
+    #i-agree{
+        margin-left: -250px;
+    }
+    #get-life,#child2,#wrapper9{
+        margin-left: -250px;
+    }
+    .group-child12{
+        transform: scale(0.8);
+        margin-left: 0px;
+    }
+    .group-parent11{
+        transform: scale(0.8);
+        margin-left: 100px;
+
+    }
+    .join-the-team-that-is-making-h-parent,.button-with-icon,.button-with-icon1
+    ,.group-parent{
+        margin-left: -230px;
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        margin-left: -320px;
+    }
+    .group-parent22{
+        margin-left: -250px;
+    }
+}
+@media (max-width:1130px) {
+    .group-parent3, .group-child1{
+        margin-right: 400px;
+    }
+    .group-child10,.group-child11{
+        margin-left: -600px;
+    }
+    #i-agree{
+        margin-left: -410px;
+    }
+    .frame-group,.b-insure-variants-item{
+        margin-left: -350px;
+    }
+    .join-the-team-that-is-making-h-parent{
+        transform: scale(0.8);
+        margin-left: -300px;
+    }
+    .button-with-icon,.button-with-icon1{
+        transform: scale(0.8);
+        margin-left: -450px;
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        margin-left: -520px;
+    }
+
+}
+@media (max-width:960px) {
+    .frame-group,.b-insure-variants-item{
+        margin-left: -400px;
+    }
+    .b-insure-variants{
+        margin-left: -200px;
+    }
+    .a-financial-safety-net-for-you-parent{
+        transform: scale(0.8);
+        margin-left: -350px;
+        
+    }
+    .group-child1,.group-parent3{
+        transform: scale(0.8);
+        margin-right: 600px;
+    }
+    #i-agree{
+        transform: scale(0.8);
+        margin-left: -625px;
+        margin-top: -45px;
+        margin-bottom: 35px;
+    }
+    .group-parent21{
+        transform: scale(0.7);
+        margin-left: 50px;
+    }
+    
+    .join-the-team-that-is-making-h-parent{
+        transform: scale(0.7);
+        margin-left: -330px;
+    }
+    .button-with-icon1{
+        transform: scale(0.75);
+        margin-left: -600px;
+    }
+    .button-with-icon{
+        transform: scale(0.75);
+        margin-left: -670px;
+    }
+    .group-parent{
+        transform: scale(0.8);
+        margin-left: -230px;
+    }
+    .quick-links-parent,.terms-of-use-parent{
+        transform: scale(0.8);
+        margin-left: -750px;
+    }
+    .group-parent22{
+        transform: scale(0.8);
+        margin-left: -390px;
+    }
+    .group-parent11{
+        transform: scale(0.75);
+        margin-left: 100px;
+        
+        
+    }
+}
+@media (max-width:800px) {
+    #life-1{
+        transform: scale(0.5);
+        width:200%
+    }
+}
+
+.body{
+    height: 100vh;
+}
+.life{
+    transform: scale(0.8);
+    transform-origin: top left;
+    width: 125%;
+    height: 125%;
+    height: 100vh;
+
+}
+.image-1-icon {
+    position: absolute;
+    top: 366px;
+    left: 0px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.image-2-icon {
+    position: absolute;
+    top: 366px;
+    left: 1433px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.5;
+}
+.close-line-icon {
+    position: absolute;
+    top: 8px;
+    left: 1655.01px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+}
+.image-1-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 0.01px;
+    width: 537px;
+    height: 658px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.image-2-icon1 {
+    position: absolute;
+    top: 271px;
+    left: 1433.01px;
+    width: 487px;
+    height: 649px;
+    object-fit: cover;
+    opacity: 0.05;
+}
+.group-child {
+    position: absolute;
+    top: 599px;
+    left: 0px;
+    background-color: #353535;
+    width: 1920px;
+    height: 599px;
+}
+.image-35-icon {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+    mix-blend-mode: luminosity;
+}
+.group-item {
+    position: absolute;
+    height: 71.05%;
+    width: 70.35%;
+    top: 14.14%;
+    right: 15.49%;
+    bottom: 14.81%;
+    left: 14.16%;
+    background-color: #fff;
+}
+.bi-icon {
+    position: absolute;
+    height: 40.68%;
+    width: 40.28%;
+    top: 28.81%;
+    right: 31.2%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.country-code-select {
+    padding: 10px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    border-radius: 50px 0 0 50px; /* Rounded corners for the left side */
+    font-family: 'Plus Jakarta Sans';
+    font-size: large;
+    height: calc(100% - 22px); /* Adjust height to match the input field */
+    box-sizing: border-box;
+}
+
+.input-wrapper .group-child3{
+    border-radius: 0 50px 50px 0;
+    width: 76%;
+    height: 47px;
+}
+
+ /* Hide the spinner for number input */
+ input[type=number]::-webkit-outer-spin-button,
+ input[type=number]::-webkit-inner-spin-button,
+ input[type=number] {
+     -webkit-appearance: none;
+     margin: 0;
+ }
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none; /* Webkit browsers (Chrome, Safari) */
+    margin: 0; /* Optional - if you want to remove the space */
+}
+
+.input-wrapper {
+    width: 100%;
+}
+.group-wrapper {
+    position: absolute;
+    height: 50.21%;
+    width: 59.92%;
+    top: 0%;
+    right: 40.08%;
+    bottom: 49.79%;
+    left: 0%;
+}
+.blank-line {
+    margin: 0;
+}
+.po-box-9999-container {
+    position: absolute;
+    top: 160px;
+    left: 0px;
+}
+.group-parent {
+    position: absolute;
+    height: 46.74%;
+    width: 12.34%;
+    top: 13.52%;
+    right: 74.64%;
+    bottom: 39.73%;
+    left: 13.02%;
+    font-size: 21px;
+}
+.group-inner {
+    position: absolute;
+    top: 484px;
+    left: 239px;
+    border-top: 2px solid #4d4d4d;
+    box-sizing: border-box;
+    width: 1442px;
+    height: 2px;
+}
+.quick-links {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 21px;
+}
+.sitemap {
+    position: absolute;
+    top: 60px;
+    left: 0px;
+}
+.careers {
+    position: absolute;
+    top: 102px;
+    left: 0px;
+}
+.contact-us {
+    position: absolute;
+    top: 144px;
+    left: 0px;
+}
+.insurance {
+    position: absolute;
+    top: 186px;
+    left: 0px;
+}
+.blog {
+    position: absolute;
+    top: 228px;
+    left: 0px;
+}
+.faqs {
+    position: absolute;
+    top: 270px;
+    left: 0px;
+}
+.about {
+    position: absolute;
+    top: 312px;
+    left: 0px;
+}
+.quick-links-parent {
+    position: absolute;
+    top: 81px;
+    left: 1282px;
+    width: 111px;
+    height: 327px;
+}
+.terms-of-use {
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.privacy-policy {
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+.cookie-policy {
+    position: absolute;
+    top: 142px;
+    left: 0px;
+}
+.terms-of-use-parent {
+    position: absolute;
+    top: 81px;
+    left: 1522px;
+    width: 132px;
+    height: 157px;
+}
+.copyright-2024 {
+    position: absolute;
+    top: 522px;
+    left: 250px;
+    white-space: pre-wrap;
+}
+.group-icon {
+    position: absolute;
+    top: 446px;
+    left: 1757px;
+    width: 78px;
+    height: 78px;
+    cursor: pointer;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 10334.04px;
+    left: 0.01px;
+    width: 1920px;
+    height: 599px;
+    font-size: 20px;
+    background-color: #353535;
+}
+.rectangle-div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 8px;
+    background-color: #2079ff;
+    width: 1883px;
+    height: 166.9px;
+}
+.add-listing {
+    position: absolute;
+    top: -2px;
+    left: 0px;
+}
+.add-listing1 {
+    position: absolute;
+    top: 0px;
+    left: 13px;
+}
+.add-listing2 {
+    position: absolute;
+    top: 2px;
+    left: 29px;
+}
+
+.add-listing-wrapper {
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+}
+.button-with-icon {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 0%;
+    bottom: 14.84%;
+    left: 82.78%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.button-with-icon1 {
+    position: absolute;
+    height: 70.33%;
+    width: 17.22%;
+    top: 14.84%;
+    right: 18.36%;
+    bottom: 14.84%;
+    left: 64.41%;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    color: #046eb6;
+}
+.join-the-team {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    line-height: 170%;
+}
+.change-insurance-for {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 32px;
+    line-height: 170%;
+}
+.join-the-team-that-is-making-h-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+}
+.group-frame {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 773px;
+    height: 91px;
+    text-align: left;
+}
+.button-with-icon-parent {
+    position: absolute;
+    height: 54.52%;
+    width: 74.96%;
+    top: 22.59%;
+    right: 12.52%;
+    bottom: 22.89%;
+    left: 12.52%;
+    
+}
+.rectangle-group {
+    position: relative;
+    top: 10167.11px;
+    left: -0.06px;
+    width: 1921px;
+    height: 166.9px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.about-hero-background {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1921px;
+    height: 904px;
+}
+.a-financial-safety-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 48px;
+    font-family: Manrope;
+}
+.buttons-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 1px solid #0086aa;
+    box-sizing: border-box;
+}
+.how-it-works {
+    position: absolute;
+    top: 32.03%;
+    left: 24.34%;
+    letter-spacing: 0.01em;
+}
+.buttons {
+    position: absolute;
+    top: 407px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    width: 226px;
+    height: 64px;
+    text-align: center;
+    color: #0086aa;
+}
+.help-reassure-your {
+    position: absolute;
+    top: 164px;
+    left: 5.01px;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    line-height: 170%;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 737px;
+}
+.trusted-by-over-container {
+    position: absolute;
+    top: 0px;
+    left: 59.97px;
+    line-height: 153%;
+    display: inline-block;
+    width: 232.1px;
+}
+.vector-icon {
+    position: absolute;
+    height: 73.21%;
+    width: 13.01%;
+    top: 14.32%;
+    right: 86.99%;
+    bottom: 12.47%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.trusted-by-over-10000-canadia-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 292.1px;
+    height: 56px;
+}
+.save-up-to {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 153%;
+    display: inline-block;
+    width: 193.9px;
+}
+.save-up-to-35-on-your-insuran-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 62.98px;
+    width: 193.9px;
+    height: 56px;
+}
+.flying-money-1-icon {
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 41px;
+    height: 40px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 335.09px;
+    width: 256.9px;
+    height: 56px;
+}
+.group-parent1 {
+    position: absolute;
+    top: 312.45px;
+    left: 4.32px;
+    width: 592px;
+    height: 56px;
+}
+.a-financial-safety-net-for-you-parent {
+    position: absolute;
+    top: 216.5px;
+    left: 288.05px;
+    width: 742px;
+    height: 471px;
+}
+.group-child1 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    box-shadow: 0px -4px 6px 6px rgba(16, 24, 40, 0.03), 0px 12px 16px -4px rgba(16, 24, 40, 0.08);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 481.5px;
+    height: 626px;
+}
+.terms-of-use1 {
+    text-decoration: underline;
+}
+.i-agree-to-container {
+    position: absolute;
+    top: 542.02px;
+    left: 43.45px;
+    line-height: 170%;
+}
+.group-child2 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+    width: 379.6px;
+    height: 60px;
+}
+.get-a-free {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 189.5px);
+    width: 100%;
+    height: 99%;
+    background-color: transparent;
+    border-color: transparent;
+    font-family: jakarata-sans;
+    color: white;
+    cursor: pointer;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: bold;
+}
+.group-wrapper3 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 379.6px;
+    height: 60px;
+}
+.group-wrapper2 {
+    position: absolute;
+    top: 423.12px;
+    right: 0.1px;
+    width: 379.6px;
+    height: 60px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+.your-name {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+}
+.group-child3 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: rgba(212, 212, 212, 0.2);
+    border: 1px solid #c0c0c0;
+    box-sizing: border-box;
+    font-size: large;
+    font-family: 'Plus Jakarta Sans';
+    padding: 10px;
+    position: relative;
+}
+.your-name1 {
+    position: absolute;
+    top: 24.89%;
+    left: 5.45%;
+}
+.rectangle-parent2 {
+    position: absolute;
+    height: 66.67%;
+    width: 100%;
+    top: 33.33%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    font-family: Poppins;
+}
+.your-name-parent {
+    position: absolute;
+    height: 16.77%;
+    width: 99.97%;
+    top: 0%;
+    right: 0.03%;
+    bottom: 83.23%;
+    left: 0%;
+}
+.span {
+    color: #8c1823;
+}
+.contact-number {
+    position: absolute;
+    top: 24.89%;
+    left: 21.87%;
+}
+.div {
+    position: absolute;
+    top: 0.17%;
+    left: 0%;
+}
+.arrow-up-s-line-icon {
+    position: absolute;
+    height: 100%;
+    width: 40.68%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 59.32%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.parent {
+    position: absolute;
+    height: 44.44%;
+    width: 15.54%;
+    top: 27.78%;
+    right: 80.5%;
+    bottom: 27.78%;
+    left: 3.96%;
+}
+.group-parent4 {
+    position: absolute;
+    height: 65.85%;
+    width: 100%;
+    top: 34.15%;
+    right: -0.01%;
+    bottom: 0%;
+    left: 0.01%;
+    font-family: Poppins;
+}
+.contact-number-parent {
+    position: absolute;
+    height: 16.97%;
+    width: 99.97%;
+    top: 65.95%;
+    right: 0.03%;
+    bottom: 17.08%;
+    left: 0%;
+}
+.arrow-up-s-line-icon1 {
+    position: absolute;
+    height: 44.44%;
+    width: 6.32%;
+    top: 27.78%;
+    right: 5.11%;
+    bottom: 27.78%;
+    left: 88.57%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: contain;
+}
+.weeks {
+    position: absolute;
+    top: 24.89%;
+    left: 5.27%;
+    line-height: 26px;
+}
+.rectangle-parent4 {
+    position: absolute;
+    height: 63.53%;
+    width: 100%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+}
+.planning-to-buy {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    line-height: 26px;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-parent5 {
+    position: absolute;
+    height: 17.59%;
+    width: 99.95%;
+    top: 21.43%;
+    right: 0.05%;
+    bottom: 60.98%;
+    left: 0%;
+    font-family: Poppins;
+}
+.email-address {
+    position: absolute;
+    top: 24.89%;
+    left: 5.44%;
+}
+.rectangle-parent5 {
+    position: absolute;
+    height: 63.53%;
+    width: 99.97%;
+    top: 36.47%;
+    right: 0%;
+    bottom: 0%;
+    left: 0.02%;
+}
+.group-parent6 {
+    position: absolute;
+    height: 17.59%;
+    width: 100%;
+    top: 43.69%;
+    right: 0%;
+    bottom: 38.72%;
+    left: 0%;
+    font-family: Poppins;
+}
+.group-parent3 {
+    position: absolute;
+    top: 36.37px;
+    right: 58.35px;
+    width: 379.7px;
+    height: 483.1px;
+    color: #5a5555;
+    font-family: 'Plus Jakarta Sans';
+}
+.rectangle-container {
+    position: absolute;
+    top: 138.98px;
+    right: 260.29px;
+    width: 481.5px;
+    height: 626px;
+    font-size: 16px;
+    color: #5c6163;
+    font-family: Lora;
+}
+.about-hero-background-parent {
+    position: absolute;
+    top: 120px;
+    left: -0.07px;
+    width: 1921px;
+    height: 904px;
+    font-size: 18px;
+    color: #073141;
+}
+.get-instant-travel-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 170%;
+}
+.get-instant-travel-insurance-q-wrapper {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    width: 411px;
+    height: 82px;
+}
+.image-11-icon {
+    position: absolute;
+    top: 16.4px;
+    left: 0px;
+    width: 120px;
+    height: 100.8px;
+    object-fit: cover;
+}
+.image-11-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 0px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-8-icon {
+    position: absolute;
+    top: 17.6px;
+    left: 14.8px;
+    width: 95.6px;
+    height: 84px;
+    object-fit: cover;
+}
+.image-8-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 144px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-12-icon {
+    position: absolute;
+    top: 16.8px;
+    left: 0px;
+    width: 113.6px;
+    height: 103.2px;
+    object-fit: cover;
+}
+.image-12-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 288px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-9-icon {
+    position: absolute;
+    top: 0px;
+    left: 14.8px;
+    width: 105.2px;
+    height: 120px;
+    object-fit: cover;
+}
+.image-9-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 432px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-child {
+    position: absolute;
+    top: 0.5px;
+    left: 576px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-item {
+    position: absolute;
+    top: 0.5px;
+    left: 720px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.frame-inner {
+    position: absolute;
+    top: 0.5px;
+    left: 864px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.image-16-icon {
+    position: absolute;
+    top: 15.6px;
+    left: 0px;
+    width: 120px;
+    height: 104.4px;
+    object-fit: cover;
+}
+.image-16-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1008px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.image-13-wrapper {
+    position: absolute;
+    top: 0.5px;
+    left: 1152px;
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 120px;
+    overflow-x: auto;
+}
+.group-parent7 {
+    position: absolute;
+    top: 1048px;
+    left: 240px;
+    width: 1440px;
+    height: 120px;
+    color: #073141;
+    font-family: Manrope;
+}
+.group-child7 {
+    position: absolute;
+    top: 65px;
+    left: 0px;
+    background-color: #f9f9f9;
+    width: 1920px;
+    height: 803px;
+}
+.feature-2 {
+    position: absolute;
+    top: 0px;
+    left: 0.06px;
+    background-color: #fcfcfc;
+    width: 1920px;
+    height: 909px;
+    overflow: hidden;
+}
+.rectangle-parent6 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920.1px;
+    height: 909px;
+}
+.group-child8 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 664px;
+    height: 663px;
+}
+.insurance-for-life {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    line-height: 48px;
+    display: inline-block;
+    width: 544px;
+}
+.replace-your-income {
+    margin-bottom: 0px;
+}
+.replace-your-income-to-allow-f {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 24px;
+}
+.we-like-to-container {
+    position: absolute;
+    top: 78px;
+    left: 0px;
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 624.6px;
+}
+.insurance-for-life-and-terms-parent {
+    position: absolute;
+    top: 69px;
+    left: 784.5px;
+    width: 624.6px;
+    height: 525px;
+}
+.group-parent9 {
+    position: absolute;
+    top: 123px;
+    left: 264.92px;
+    width: 1409.1px;
+    height: 663px;
+}
+.group-parent8 {
+    position: absolute;
+    top: 1192px;
+    left: -0.07px;
+    width: 1920.1px;
+    height: 909px;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-child9 {
+    position: absolute;
+    top: 38.53px;
+    left: 0px;
+    background: linear-gradient(90deg, #14677d, #29474f);
+    width: 1920px;
+    height: 400.6px;
+}
+.group-child10 {
+    position: absolute;
+    height: 29.13%;
+    width: 15.03%;
+    top: 70.44%;
+    right: 12.87%;
+    bottom: 0.43%;
+    left: 72.1%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.button-with-icon2 {
+    position: absolute;
+    height: 34.99%;
+    width: 52.99%;
+    top: 64.98%;
+    right: 47.01%;
+    bottom: 0.03%;
+    left: 0%;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+}
+.our-team-is {
+    position: absolute;
+    top: 63.02px;
+    left: 0px;
+    line-height: 170%;
+}
+.our-team-is-always-up-for-dish-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 468px;
+    height: 94px;
+}
+.group-wrapper5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 468px;
+    height: 94px;
+    text-align: left;
+    font-size: 18.5px;
+}
+.group-wrapper4 {
+    position: absolute;
+    height: 41.65%;
+    width: 24.38%;
+    top: 30.8%;
+    right: 59.34%;
+    bottom: 27.54%;
+    left: 16.28%;
+}
+.group-child11 {
+    position: absolute;
+    height: 99.57%;
+    width: 14.37%;
+    top: 0%;
+    right: 17.58%;
+    bottom: 0.43%;
+    left: 68.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.rectangle-parent7 {
+    position: absolute;
+    top: 3178.43px;
+    left: 0.07px;
+    width: 1920px;
+    height: 439.1px;
+    text-align: center;
+    font-size: 21.5px;
+}
+.about-hero-background-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 960.5px);
+    width: 1921px;
+    height: 914px;
+}
+.group-child12 {
+    position: absolute;
+    top: 0px;
+    left: 799.01px;
+    width: 662px;
+    height: 657px;
+}
+.your-income-net-worth-family-n {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 29px;
+}
+.ideally-you-want-container {
+    position: absolute;
+    top: 80.35px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 200%;
+    font-weight: 500;
+    display: inline-block;
+    width: 714px;
+}
+.how-much-insurance-coverage-do-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 779px;
+    height: 424.4px;
+}
+.button-with-icon3 {
+    position: absolute;
+    height: 8.82%;
+    width: 19.31%;
+    top: 91.19%;
+    right: 78.66%;
+    bottom: -0.01%;
+    left: 0.03%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+.group-parent11 {
+    position: absolute;
+    top: 19px;
+    left: 0px;
+    width: 779px;
+    height: 544.3px;
+}
+.group-parent10 {
+    position: absolute;
+    top: 131.56px;
+    left: 244.28px;
+    width: 1461px;
+    height: 657px;
+}
+.about-hero-background-group {
+    position: absolute;
+    top: 5969.44px;
+    left: calc(50% - 960.5px);
+    width: 1921px;
+    height: 914px;
+    font-size: 36px;
+    color: #073141;
+}
+.about-hero-background-icon1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 960.5px);
+    width: 1921px;
+    height: 1000.4px;
+}
+.icon-100-1 {
+    position: absolute;
+    top: 65px;
+    left: 140.51px;
+    border-radius: 4px;
+    background-color: #e5e6e6;
+    width: 402px;
+    height: 419px;
+    overflow: hidden;
+}
+.icon-100-2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 15px;
+    background-color: #bfe7fa;
+    width: 517px;
+    height: 549px;
+    overflow: hidden;
+}
+.icon-100-1-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 542.5px;
+    height: 549px;
+}
+.group-wrapper8 {
+    position: absolute;
+    top: 60.96px;
+    left: 0px;
+    width: 542.5px;
+    height: 549px;
+}
+.it-depends-on {
+    margin: 0;
+    font-weight: 500;
+}
+.age {
+    font-family: 'Plus Jakarta Sans';
+}
+.generally-insurance-is {
+    font-weight: 500;
+}
+.women-live-longer {
+    font-weight: 500;
+    font-family: 'Plus Jakarta Sans';
+}
+.health-family-history-chroni {
+    margin: 0;
+    font-size: inherit;
+    padding-left: 29px;
+}
+.it-depends-on-container {
+    position: absolute;
+    top: 77.24px;
+    left: 0px;
+    font-size: 21.5px;
+    line-height: 200%;
+    display: inline-block;
+    width: 637.4px;
+}
+.how-much-do-insurance-cover-co-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 648px;
+    height: 593.2px;
+}
+
+.dropdown {
+    margin-top: 10px;
+    padding: 5px;
+    display: none;
+    position: fixed;
+    width: 253px;
+    height: fit-content;
+    background-color: #fff;
+    border-radius: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-color: #f4e8e8;
+    box-shadow: 0px 12px 16px -4px #10182814, -1px 3px 6px 4px #10182808;
+    overflow: inherit;
+    z-index: 1;
+    top: 102px;
+}
+.dropdown-option{
+    position: relative;
+    width: 100%;
+    height: 72px;
+    /* background-color: #f8f8f8; */
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: flex;
+    /* align-items: center; */
+}
+
+.dropdown-option:hover {
+    background-color: #e8e8e8;
+}
+
+.dropdown-option .line1 {
+    width: 125px;
+    position: fixed;
+    font-size: 16px;
+    line-height: 170%;
+    display: inline-block;
+    font-family: 'Plus Jakarta Sans';
+    color: #373737;
+    text-align: left;
+}
+
+.dropdown-option .line2 {
+    width: auto;
+    position: relative;
+    font-size: 13px;
+    letter-spacing: 0.01em;
+    line-height: 300%;
+    font-family: 'Plus Jakarta Sans';
+    color: #7f7c7c;
+    text-align: left;
+    display: inline-block;
+    top: 29%;
+}
+
+.button-with-icon4 {
+    position: absolute;
+    height: 7.12%;
+    width: 23.01%;
+    top: 92.89%;
+    right: 70.99%;
+    bottom: -0.01%;
+    left: 0%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+.group-parent13 {
+    position: absolute;
+    top: 0px;
+    left: 776px;
+    width: 648px;
+    height: 674.4px;
+}
+.group-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    width: 1424px;
+    height: 674.4px;
+}
+.group-wrapper7 {
+    position: absolute;
+    top: 169.67px;
+    left: 200px;
+    width: 1424px;
+    height: 674.4px;
+}
+.about-hero-background-container {
+    position: absolute;
+    top: 6883.48px;
+    /* left: calc(50% - 960.5px); */
+    width: 1921px;
+    height: 1000.4px;
+    font-size: 36px;
+    color: #073141;
+}
+.infobar-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #353535;
+}
+.close-line-icon1 {
+    position: absolute;
+    height: 60%;
+    width: 1.25%;
+    top: 20%;
+    right: 12.55%;
+    bottom: 20%;
+    left: 86.2%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.heads-up-our {
+    position: absolute;
+    top: 23%;
+    left: 12.76%;
+    font-weight: 600;
+}
+.infobar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 40px;
+    font-size: 16px;
+}
+.b-insure-variants-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #fff;
+    border-bottom: 1px solid #f4e9e9;
+    box-sizing: border-box;
+}
+.b-insure-variants-item {
+    position: absolute;
+    height: 5%;
+    width: 4.58%;
+    top: 95%;
+    right: 51.3%;
+    bottom: 0%;
+    left: 44.11%;
+    border-radius: 8px;
+    background-color: #24bbe3;
+}
+.group-child13 {
+    position: absolute;
+    height: 71.02%;
+    width: 70.3%;
+    top: 14.14%;
+    right: 15.53%;
+    bottom: 14.84%;
+    left: 14.17%;
+    background-color: #fff;
+}
+.bi-icon1 {
+    position: absolute;
+    height: 40.68%;
+    width: 40.27%;
+    top: 28.81%;
+    right: 31.21%;
+    bottom: 30.51%;
+    left: 28.52%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    mix-blend-mode: luminosity;
+}
+.group-parent14 {
+    position: absolute;
+    height: 73.75%;
+    width: 3.1%;
+    top: 13.75%;
+    right: 84.4%;
+    bottom: 12.5%;
+    left: 12.5%;
+}
+.home {
+    position: relative;
+}
+.home-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.54%;
+    top: 10.42%;
+    right: 90.46%;
+    bottom: 10.42%;
+    left: 0%;
+    border-radius: 30px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.individual-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 13.67%;
+    top: 10.42%;
+    right: 74.89%;
+    bottom: 10.42%;
+    left: 12.43%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.commercial-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 15.21%;
+    top: 10.42%;
+    right: 56.79%;
+    bottom: 10.42%;
+    left: 28%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.travel-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 9.17%;
+    top: 10.42%;
+    right: 44.72%;
+    bottom: 10.42%;
+    left: 46.11%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.support-wrapper {
+    position: absolute;
+    height: 79.17%;
+    width: 11.47%;
+    top: 10.42%;
+    right: 30.36%;
+    bottom: 10.42%;
+    left: 58.18%;
+    border-radius: 5px;
+    background-color: rgba(33, 118, 255, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 13px 16px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.frame-parent {
+    position: absolute;
+    top: 0px;
+    left: 654px;
+    width: 786px;
+    height: 122px;
+    overflow-x: hidden; /* Hide the horizontal scrollbar */
+    display: flex;
+    align-items: center; /* Vertically center the images */
+    /* animation: moveRight 10s linear infinite; */
+}
+.frame-parent-inner {
+    display: flex;
+	width: 200%; /* Double the width to accommodate the duplicated images */
+    animation: moveRight 10s linear infinite;
+	height: 122px;
+}
+
+.frame-parent-inner img {
+    flex-shrink: 0; /* Prevent images from shrinking */
+    margin-right: 10px; /* Adjust the gap between images as needed */
+}
+@keyframes moveRight {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%); /* Move left by 50% of the container's width */
+    }
+}
+.button-with-icon5 {
+    position: absolute;
+    height: 100%;
+    width: 17.74%;
+    top: 0%;
+    right: 9.72%;
+    bottom: 0%;
+    left: 72.54%;
+    border-radius: 8px;
+    background-color: rgba(0, 199, 219, 0.94);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px 26px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #fff;
+}
+.line-div {
+    position: absolute;
+    height: 60.42%;
+    width: 0.24%;
+    top: 20.83%;
+    right: 6.52%;
+    bottom: 18.75%;
+    left: 93.24%;
+    border-right: 2px solid #e2e2e2;
+    box-sizing: border-box;
+}
+.search-line-icon {
+    position: absolute;
+    height: 66.67%;
+    width: 3.86%;
+    top: 16.67%;
+    right: 0%;
+    bottom: 16.67%;
+    left: 96.14%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.frame-group {
+    position: absolute;
+    height: 60%;
+    width: 43.15%;
+    top: 17.5%;
+    right: 12.5%;
+    bottom: 22.5%;
+    left: 44.35%;
+}
+.binsure {
+    position: absolute;
+    top: 41.25%;
+    left: 16.09%;
+    font-size: 20px;
+    font-family: Cunia;
+    color: #1e1e1e;
+}
+.b-insure-variants {
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    width: 1920px;
+    height: 80px;
+    font-size: 16px;
+    color: #2b2b2b;
+}
+.get-life-insure {
+    position: absolute;
+    top: 16px;
+    left: calc(50% - 96.5px);
+}
+.group-wrapper9 {
+    position: absolute;
+    top: 944.68px;
+    right: 770.7px;
+    width: 379.6px;
+    height: 60px;
+}
+.why-choose-b-insure {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 838.7px;
+}
+.we-help-canada-container {
+    position: absolute;
+    top: 76.8px;
+    left: 126px;
+    font-size: 18px;
+    line-height: 170%;
+}
+.why-choose-b-insure-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-wrapper11 {
+    position: absolute;
+    top: 0px;
+    left: 282.38px;
+    width: 838.7px;
+    height: 138.8px;
+}
+.group-child15 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 336.7px;
+    height: 403.8px;
+}
+.icon-100-11 {
+    position: absolute;
+    top: 294.5px;
+    left: 241.63px;
+    border-radius: 4px;
+    width: 74.1px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.made-for-canadians {
+    position: absolute;
+    top: 30.06px;
+    left: 24.86px;
+    line-height: 170%;
+}
+.we-celebrate-what {
+    position: absolute;
+    top: 93.4px;
+    left: 24.86px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 279.2px;
+}
+.rectangle-parent9 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.icon-100-12 {
+    position: absolute;
+    top: 294.5px;
+    left: 244.89px;
+    border-radius: 4px;
+    width: 74.1px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.insurance-made-simple {
+    position: absolute;
+    top: 37.29px;
+    left: 29.8px;
+    line-height: 170%;
+}
+.go-direct-and {
+    position: absolute;
+    top: 93.4px;
+    left: 29.8px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 281.3px;
+}
+.rectangle-parent10 {
+    position: absolute;
+    top: 0px;
+    left: 368.7px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.our-canadian-based-licensed {
+    position: absolute;
+    top: 93.4px;
+    left: 29.8px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 263.2px;
+}
+.rectangle-parent11 {
+    position: absolute;
+    top: 0px;
+    left: 737.41px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.icon-100-14 {
+    position: absolute;
+    top: 294.5px;
+    left: 244.9px;
+    border-radius: 4px;
+    width: 74.1px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.your-policy-is {
+    position: absolute;
+    top: 93.4px;
+    left: 29.8px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 289.2px;
+}
+.rectangle-parent12 {
+    position: absolute;
+    top: 0px;
+    left: 1106.12px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.group-parent16 {
+    position: absolute;
+    top: 241.41px;
+    left: 0px;
+    width: 1442.8px;
+    height: 403.8px;
+    text-align: left;
+    font-size: 24px;
+    color: #000;
+}
+.group-parent15 {
+    position: absolute;
+    top: 192.98px;
+    left: 240.77px;
+    width: 1442.8px;
+    height: 645.2px;
+    font-size: 42px;
+    color: #073141;
+}
+.about-hero-background-parent1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 1077.4px;
+}
+.life-insurance-inner {
+    position: absolute;
+    top: 2101.04px;
+    left: -0.77px;
+    width: 1921px;
+    height: 1077.4px;
+    text-align: center;
+    font-size: 20px;
+}
+.group-child19 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 992px;
+}
+.icon {
+    position: absolute;
+    top: 21.84px;
+    left: 0px;
+    width: 261.4px;
+    height: 277.3px;
+}
+.icon1 {
+    position: absolute;
+    top: 325.64px;
+    left: 1182.18px;
+    width: 261.4px;
+    height: 277.3px;
+    object-fit: contain;
+}
+.logo-2 {
+    position: absolute;
+    top: 40px;
+    left: 22px;
+    background-color: #fff;
+    width: 200px;
+    height: 32px;
+    display: none;
+}
+.best-product-ever {
+    position: absolute;
+    top: 49.21px;
+    left: 22px;
+    line-height: 170%;
+    display: inline-block;
+    width: 268px;
+}
+.frame-child1 {
+    width: 17px;
+    position: relative;
+    border-top: 1px solid #8d96a6;
+    box-sizing: border-box;
+    height: 1px;
+}
+.line-parent {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-child {
+    position: absolute;
+    top: 356.37px;
+    left: 21.59px;
+    width: 117.7px;
+    height: 24px;
+}
+.testimonial-card {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-shadow: 0px 6px 20px rgba(37, 98, 204, 0.18);
+    border-radius: 24px;
+    background-color: #fff;
+    width: 312px;
+    height: 408px;
+}
+.testimonial-card-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 312px;
+    height: 408px;
+}
+.group-wrapper15 {
+    position: absolute;
+    top: 97.71px;
+    left: 339.4px;
+    width: 312px;
+    height: 408px;
+}
+.line-group {
+    position: absolute;
+    top: 363.34px;
+    left: 160px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    text-align: right;
+    font-size: 16px;
+}
+.testimonial-card-item {
+    position: absolute;
+    top: 356.07px;
+    left: 22.19px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper16 {
+    position: absolute;
+    top: 0px;
+    left: 678.8px;
+    width: 312px;
+    height: 408px;
+}
+.line-container {
+    position: absolute;
+    top: 363.34px;
+    left: 136.2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 8px;
+    font-size: 16px;
+}
+.testimonial-card-inner {
+    position: absolute;
+    top: 356.37px;
+    left: 18.55px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-wrapper17 {
+    position: absolute;
+    top: 97.71px;
+    left: 1018.2px;
+    width: 312px;
+    height: 408px;
+}
+.frame-div {
+    position: absolute;
+    top: 105.83px;
+    left: 93.4px;
+    width: 219px;
+    height: 300px;
+    overflow: hidden;
+    opacity: 0.2;
+}
+.testimonial-card-child1 {
+    position: absolute;
+    top: 356.07px;
+    left: 21.98px;
+    width: 117.7px;
+    height: 24px;
+}
+.group-parent18 {
+    position: absolute;
+    top: 183px;
+    left: 0px;
+    width: 1330.2px;
+    height: 505.7px;
+}
+.what-people-say {
+    position: relative;
+    line-height: 48px;
+}
+.what-people-say-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.our-customer-are-container {
+    position: relative;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+}
+.frame-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 32px;
+}
+.frame-wrapper {
+    position: absolute;
+    top: calc(50% - 344.35px);
+    left: calc(50% - 162.2px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 40px;
+    color: #121d2f;
+}
+.group-parent17 {
+    position: absolute;
+    top: 0px;
+    left: 56.78px;
+    width: 1330.2px;
+    height: 688.7px;
+}
+.group {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.group-wrapper14 {
+    position: absolute;
+    top: 151.66px;
+    left: 237.67px;
+    width: 1443.5px;
+    height: 688.7px;
+}
+.rectangle-parent13 {
+    position: absolute;
+    top: 3617.53px;
+    left: 0.14px;
+    width: 1919.9px;
+    height: 992px;
+    font-size: 18px;
+    color: #5a5555;
+}
+.about-hero-button-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 50px;
+    background-color: #24bbe3;
+    border: 1px solid #bfbdc1;
+    box-sizing: border-box;
+}
+.schedule-a-call {
+    position: absolute;
+    top: -69%;
+    left: 0%;
+}
+.schedule-a-call-wrapper {
+    position: absolute;
+    height: 18.33%;
+    width: 54.82%;
+    top: 41.67%;
+    right: 24%;
+    bottom: 40%;
+    left: 21.18%;
+}
+.about-hero-button {
+    position: absolute;
+    height: 23.2%;
+    width: 16.94%;
+    top: 76.8%;
+    right: 83.06%;
+    bottom: 0%;
+    left: 0%;
+}
+.get-a-quote-online-wrapper {
+    position: absolute;
+    height: 18.33%;
+    width: 67.11%;
+    top: 41.67%;
+    right: 17.86%;
+    bottom: 40%;
+    left: 15.04%;
+}
+.about-hero-button1 {
+    position: absolute;
+    height: 23.2%;
+    width: 16.94%;
+    top: 76.8%;
+    right: 29.28%;
+    bottom: 0%;
+    left: 53.78%;
+}
+.how-to-get {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 672.95px);
+    font-size: 36px;
+}
+.not-sure-whats {
+    position: absolute;
+    top: 74.16px;
+    left: 0px;
+    line-height: 170%;
+    font-weight: 500;
+    display: inline-block;
+    width: 622px;
+}
+.answer-a-few {
+    position: absolute;
+    top: 74.16px;
+    left: 723.88px;
+    line-height: 170%;
+    font-weight: 500;
+    display: inline-block;
+    width: 622px;
+}
+.how-to-get-life-insurance-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 672.95px);
+    width: 1345.9px;
+    height: 167.2px;
+}
+.group-wrapper19 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 672.95px);
+    width: 1345.9px;
+    height: 167.2px;
+    text-align: left;
+    font-size: 18px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+.about-hero-button-parent {
+    position: absolute;
+    height: 24.68%;
+    width: 93.47%;
+    top: 75.31%;
+    right: 3.27%;
+    bottom: 0%;
+    left: 3.27%;
+}
+.what-kind-of {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 399px);
+}
+.there-are-2 {
+    position: absolute;
+    top: 76.8px;
+    left: 106px;
+    font-size: 18px;
+    line-height: 170%;
+    display: inline-block;
+    width: 622px;
+}
+.what-kind-of-life-insurance-is-parent {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 399px);
+    width: 798px;
+    height: 138.8px;
+}
+.group-child20 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 678px;
+    height: 480.3px;
+}
+.life-insurance-2-icon {
+    position: absolute;
+    top: 358.48px;
+    left: 550px;
+    width: 98px;
+    height: 98px;
+    overflow: hidden;
+}
+.term-insurance {
+    position: absolute;
+    top: 30.06px;
+    left: 24.86px;
+    font-size: 24px;
+    line-height: 170%;
+    color: #000;
+}
+.its-temporary-coverage-container {
+    position: absolute;
+    top: 95px;
+    left: 24.86px;
+    line-height: 170%;
+    display: inline-block;
+    width: 611px;
+}
+.temporary-coverage-lower-container {
+    position: absolute;
+    top: 297.72px;
+    left: 24.86px;
+    line-height: 170%;
+}
+.rectangle-parent14 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 678px;
+    height: 480.3px;
+}
+.group-child21 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 4px;
+    background-color: #fff;
+    border: 2px solid #d9d9d9;
+    box-sizing: border-box;
+    width: 720.6px;
+    height: 480.3px;
+}
+.icon-100-15 {
+    position: absolute;
+    top: 358.48px;
+    left: 591.62px;
+    border-radius: 4px;
+    width: 98px;
+    height: 98px;
+    overflow: hidden;
+}
+.permanent-insurance {
+    position: absolute;
+    top: 37.29px;
+    left: 29.8px;
+    font-size: 24px;
+    line-height: 170%;
+    color: #000;
+}
+.its-insurance-coverage-container {
+    position: absolute;
+    top: 95px;
+    left: 29.8px;
+    line-height: 170%;
+    display: inline-block;
+    width: 611px;
+}
+.lifetime-coverage-higher-container {
+    position: absolute;
+    top: 297.72px;
+    left: 29.8px;
+    line-height: 170%;
+}
+.rectangle-parent15 {
+    position: absolute;
+    top: 0px;
+    left: 719.38px;
+    width: 720.6px;
+    height: 480.3px;
+}
+.group-parent21 {
+    position: absolute;
+    top: 218.8px;
+    left: 0px;
+    width: 1440px;
+    height: 480.3px;
+    /* text-align: left; */
+    font-size: 18px;
+    color: #312f2f;
+}
+.group-parent20 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% -720px);
+    width: 1440px;
+    height: 699.1px;
+    font-size: 42px;
+    color: #073141;
+    font-family: 'Plus Jakarta Sans';
+}
+.group-parent19 {
+    position: absolute;
+    height: 77.04%;
+    width: 74.96%;
+    top: 11.48%;
+    right: 12.51%;
+    bottom: 11.48%;
+    left: 12.53%;
+}
+.about-hero-background-parent2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 1359.9px;
+}
+.life-insurance-child {
+    position: absolute;
+    top: 4609.56px;
+    left: -0.77px;
+    width: 1921px;
+    height: 1359.9px;
+    text-align: center;
+    font-size: 16px;
+    font-family: Poppins;
+}
+.group-wrapper25 {
+    position: absolute;
+    top: 134.73px;
+    left: 523.14px;
+    width: 838.7px;
+    height: 138.8px;
+    text-align: center;
+    font-size: 42px;
+}
+.pay-less-based-container {
+    position: absolute;
+    top: 30.06px;
+    left: 24.86px;
+    line-height: 150%;
+    font-weight: 600;
+}
+.living-a-healthy-container {
+    position: absolute;
+    top: 124.4px;
+    left: 24.86px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 302px;
+}
+.rectangle-parent16 {
+    position: absolute;
+    top: 376.14px;
+    left: 240.77px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.rectangle-parent17 {
+    position: absolute;
+    top: 812px;
+    left: 240.77px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.advanced-funeral-payout-container {
+    position: absolute;
+    top: 37.29px;
+    left: 29.8px;
+    line-height: 150%;
+    font-weight: 600;
+}
+.rectangle-parent18 {
+    position: absolute;
+    top: 376.14px;
+    left: 609.47px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.icon-100-19 {
+    position: absolute;
+    top: 294.51px;
+    left: 244.89px;
+    border-radius: 4px;
+    width: 74.1px;
+    height: 74.1px;
+    overflow: hidden;
+}
+.we-automatically-give {
+    position: absolute;
+    top: 124.4px;
+    left: 29.8px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 281.3px;
+}
+.rectangle-parent19 {
+    position: absolute;
+    top: 812px;
+    left: 609.47px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.natural-death-accidental {
+    position: absolute;
+    top: 124.4px;
+    left: 29.8px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 263.2px;
+}
+.rectangle-parent20 {
+    position: absolute;
+    top: 376.14px;
+    left: 978.17px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.receive-100-of {
+    position: absolute;
+    top: 124.4px;
+    left: 29.8px;
+    font-size: 18px;
+    line-height: 170%;
+    color: #312f2f;
+    display: inline-block;
+    width: 277.2px;
+}
+.rectangle-parent21 {
+    position: absolute;
+    top: 376.14px;
+    left: 1346.88px;
+    width: 336.7px;
+    height: 403.8px;
+}
+.about-hero-background-parent3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 1365.8px;
+}
+.life-insurance-inner1 {
+    position: absolute;
+    top: 7883.86px;
+    left: -1px;
+    width: 1921px;
+    height: 1365.8px;
+    color: #073141;
+}
+.group-child28 {
+    position: absolute;
+    
+    top: 0px;
+    left: 0px;
+    background-color: #fff;
+    width: 1919.9px;
+    height: 917.5px;
+    /* text-overflow:ellipsis; */
+}
+.i-have-a {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 600;
+}
+.i-have-a-different-question-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 298px;
+    height: 30px;
+}
+.arrow-left-s-line-icon {
+    position: absolute;
+    top: 2px;
+    left: 301px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+}
+.group-parent24 {
+    position: absolute;
+    top: 171.4px;
+    left: 0px;
+    width: 331px;
+    height: 32px;
+}
+.when-you-need-container {
+    position: absolute;
+    top: 70.9px;
+    left: calc(50% - 241px);
+    font-size: 21.5px;
+    line-height: 170%;
+}
+.frequently-asked-questions-parent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 144.9px;
+    font-size: 36px;
+}
+.group-parent23 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 482px;
+    height: 203.4px;
+}
+.what-is-a-life-insurance-wrapper {
+    position: absolute;
+    top: 2.5px;
+    left: 0px;
+    width: 224px;
+    height: 25px;
+}
+.arrow-left-s-line-icon1 {
+    position: absolute;
+    top: 0px;
+    left: 601.7px;
+    width: 30px;
+    height: 30px;
+    overflow: hidden;
+    object-fit: contain;
+    cursor: pointer;
+    transition: transform 0.3s;
+    transform: rotate(180deg);
+}
+.arrow-left-s-line-icon1.rotate {
+    transform: rotate(0deg);
+  }
+  
+  .content {
+    overflow: hidden;
+    max-height: 0; /* Collapsed by default */
+    transition: max-height 0.3s ease, padding 0.3s ease; /* Smooth transition */
+    padding: 0;
+}
+  
+.content.show {
+    padding: 15px 0; /* Adjust padding as needed */
+}
+.group-parent27 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 30px;
+}
+.group-parent27.collapsed {
+    margin-bottom: 2px; /* Reduced space when collapsed */
+}
+.group-child29 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 250px; /* Set height to auto */
+}
+.life-insurance-provides1 {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 601.7px;
+}
+.rectangle-parent23 {
+    position: absolute;
+    top: 54px;
+    left: 0px;
+    width: 654.7px;
+    height: 310.5px;
+    font-size: 18px;
+}
+.group-parent26 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 654.7px;
+    height: auto; /* Set height to auto */
+    font-size: 20px;
+}
+.how-much-does-life-insurance-c-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 478px;
+    height: 27px;
+}
+.group-parent29 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 631.7px;
+    height: 30px;
+}
+.group-child30 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 223.2px;
+}
+.the-monthly-or {
+    position: absolute;
+    top: 26.58px;
+    left: 29.46px;
+    line-height: 190%;
+    display: inline-block;
+    width: 595.8px;
+}
+.rectangle-parent24 {
+    position: absolute;
+    top: 50.59px;
+    left: 0px;
+    width: 654.7px;
+    height: 223.2px;
+    font-size: 18px;
+}
+.group-parent28 {
+    position: absolute;
+    top: 388.46px;
+    left: 0px;
+    width: 654.7px;
+    height: 273.7px;
+}
+.how-does-life-insurance-works-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 328px;
+    height: 27px;
+}
+.group-child31 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 234.8px;
+}
+.with-b-insure-life {
+    position: absolute;
+    top: 15px;
+    left: 23px;
+    line-height: 190%;
+    display: inline-block;
+    width: 595.8px;
+}
+.rectangle-parent25 {
+    position: absolute;
+    top: 53.14px;
+    left: 0px;
+    width: 654.7px;
+    height: 234.8px;
+    font-size: 18px;
+}
+.group-parent30 {
+    position: absolute;
+    top: 686.2px;
+    left: 0px;
+    width: 654.7px;
+    height: 287.9px;
+}
+.what-type-of {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 559px;
+}
+.what-type-of-life-insurance-i-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 27px;
+}
+.group-child32 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 262.5px;
+}
+.rectangle-parent26 {
+    position: absolute;
+    top: 79.64px;
+    left: 0px;
+    width: 654.7px;
+    height: 262.5px;
+    font-size: 18px;
+}
+.group-parent32 {
+    position: absolute;
+    top: 998.1px;
+    left: 0px;
+    width: 654.7px;
+    height: 342.2px;
+}
+.group-child33 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 256.8px;
+}
+.rectangle-parent27 {
+    position: absolute;
+    top: 79.64px;
+    left: 0px;
+    width: 654.7px;
+    height: 256.8px;
+    font-size: 18px;
+}
+.group-parent34 {
+    position: absolute;
+    top: 1364.29px;
+    left: 0px;
+    width: 654.7px;
+    height: 336.4px;
+}
+.can-i-cash-out-or-take-money-wrapper {
+    position: absolute;
+    top: 1.64px;
+    left: 0px;
+    width: 559px;
+    height: 54px;
+}
+.group-parent37 {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    width: 631.7px;
+    height: 55.6px;
+}
+.group-child34 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 126.6px;
+}
+.rectangle-parent28 {
+    position: absolute;
+    top: 79.64px;
+    left: 0px;
+    width: 654.7px;
+    height: 126.6px;
+    font-size: 18px;
+}
+.group-parent36 {
+    position: absolute;
+    top: 1724.74px;
+    left: 0px;
+    width: 654.7px;
+    height: 206.2px;
+}
+.group-child35 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 232.2px;
+}
+.rectangle-parent29 {
+    position: absolute;
+    top: 79.64px;
+    left: 0px;
+    width: 654.7px;
+    height: 232.2px;
+    font-size: 18px;
+}
+.group-parent38 {
+    position: absolute;
+    top: 1954.95px;
+    left: 0px;
+    width: 654.7px;
+    height: 311.8px;
+}
+.group-parent40 {
+    position: absolute;
+    top: 2290.79px;
+    left: 0px;
+    width: 654.7px;
+    height: 311.8px;
+}
+.group-child37 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #f5f5f5;
+    width: 654.7px;
+    height: 529.7px;
+}
+.rectangle-parent31 {
+    position: absolute;
+    top: 79.64px;
+    left: 0px;
+    width: 654.7px;
+    height: 529.7px;
+    font-size: 18px;
+}
+.group-parent42 {
+    position: absolute;
+    top: 2626.64px;
+    left: 0px;
+    width: 654.7px;
+    height: 609.3px;
+}
+.group-parent25 {
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    top: 0px;
+    left: 706.23px;
+    width: 654.7px;
+    height: 800.9px;
+    font-size: 21.5px;
+}
+.group-parent22 {
+    display: flex;
+    position: absolute;
+    flex-wrap: wrap;
+    top: 118.38px;
+    left: 285.63px;
+    width: 1360.9px;
+    height: 800.9px;
+    overflow:hidden;
+}
+.group-wrapper28 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1919.9px;
+    height: 917.5px;
+}
+.life-insurance-inner2 {
+    position: absolute;
+    top: 9249.63px;
+    left: -0.07px;
+    width: 1919.9px;
+    height: 917.5px;
+    color: #073141;
+}
+.life-insurance-item {
+    position: absolute;
+    top: 7152.58px;
+    left: 279.47px;
+    width: 612.1px;
+    height: 471.6px;
+}
+.life-insurance {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 10962px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Plus Jakarta Sans';
+}
+/* Container for header and icon */
+.new-group-parent27 {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  /* Arrow icon styling */
+  .new-arrow-left-s-line-icon1 {
+    /*Adjust spacing as needed*/
+    transition: transform 0.3s ease; /* Smooth rotation */
+    flex-shrink: 0; /* Prevent arrow icon from shrinking */
+    transform: rotate(180deg);
+  }
+  
+  
+  /* Initial styles */
+  .new-content {
+    display: none;
+    overflow: hidden;
+  }
+  
+  /* Arrow rotation */
+  .new-arrow-left-s-line-icon1.collapsed {
+    transform: rotate(360deg);
+  }
+  
+  /* Section toggled open */
+  .new-content.active {
+    display: block;
+  }
+  .new-what-is-a-life-insurance-wrapper {
+    flex-grow: 1; /* Allow text to take available space */
+    flex-shrink: 1; /* Allow text to shrink i
+    text-overflow: ellipsis; /* Show ellipsis for overflow text */
+    white-space: nowrap; /* Prevent text from wrapping */
+
+}
+.quick-links-parent{
+    cursor: pointer;
+}
+.home{
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.new-group-parent29{
+    display: flex;
+   justify-content: space-around;
+}
+.new-group-parent37{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
